@@ -1,0 +1,781 @@
+WEBVTT
+
+
+00:00:00.240 --> 00:00:04.140
+Welcome my friend to today's
+lecture on order and ranking.
+
+00:00:04.590 --> 00:00:06.660
+Let's decode this concept like detectives.
+
+00:00:08.325 --> 00:00:09.705
+Concept explanation.
+
+00:00:10.215 --> 00:00:12.975
+So what is this order
+and ranking all about?
+
+00:00:12.975 --> 00:00:14.205
+You ask array.
+
+00:00:14.355 --> 00:00:16.395
+It's a topic in reasoning ability.
+
+00:00:16.485 --> 00:00:20.715
+That's all about figuring out who is
+standing where in a line, or who is
+
+00:00:20.715 --> 00:00:25.785
+taller, shorter, fatter, thinner, or
+has more marks than Shama, you son.
+
+00:00:26.275 --> 00:00:30.565
+You are given certain clues and you have
+to become a bit of a Sherlock Holmes
+
+00:00:30.715 --> 00:00:35.275
+to deduce the correct order position
+From all the information provided.
+
+00:00:35.845 --> 00:00:40.615
+It involves understanding concepts like
+rank from the top or bottom left or
+
+00:00:40.615 --> 00:00:45.445
+right, the total number of people and the
+number of people between two individuals.
+
+00:00:45.985 --> 00:00:51.144
+This topic truly tests your ability to
+analyze and interpret relative positions
+
+00:00:51.265 --> 00:00:53.394
+and all those hidden relationships.
+
+00:00:54.420 --> 00:00:55.800
+Real world relevance.
+
+00:00:56.220 --> 00:01:00.900
+Now, you might be thinking, sir, where
+will I ever use this in the real world?
+
+00:01:01.260 --> 00:01:05.429
+Well, for an officer, these
+skills are absolutely pure gold.
+
+00:01:05.880 --> 00:01:09.900
+They enhance your logical thinking
+and data interpretation, which are
+
+00:01:09.900 --> 00:01:14.970
+vital for analyzing financial data and
+even managing long customer queues.
+
+00:01:15.495 --> 00:01:20.445
+This helps in efficient Q Management
+helps in prioritizing important tasks,
+
+00:01:20.625 --> 00:01:25.755
+allocating resources wisely, evaluating
+performance, and most importantly,
+
+00:01:25.875 --> 00:01:30.195
+making quick and very well-informed
+decisions when it matters the most.
+
+00:01:30.645 --> 00:01:33.645
+It's the secret sauce for
+real world efficiency.
+
+00:01:34.545 --> 00:01:36.225
+Breakdown of question types.
+
+00:01:36.615 --> 00:01:39.885
+Let's talk about what kind of
+questions you can expect in your
+
+00:01:39.914 --> 00:01:42.375
+exam based on past patterns.
+
+00:01:42.465 --> 00:01:47.565
+The blueprint is quite clear about
+30, 35% of the time, they will
+
+00:01:47.565 --> 00:01:51.225
+ask you to find the total number
+of persons in a row or column.
+
+00:01:51.615 --> 00:01:55.005
+This is where they give you one
+person's position from both hands.
+
+00:01:55.515 --> 00:02:00.195
+Then with a 20, 25% chance, you'll
+see questions on the position
+
+00:02:00.195 --> 00:02:01.965
+of a person from the other end.
+
+00:02:02.315 --> 00:02:04.475
+Where you know the total and one rank.
+
+00:02:04.925 --> 00:02:09.875
+Next up with 15 to 20% frequency
+is finding the number of persons
+
+00:02:09.875 --> 00:02:15.665
+between two persons a classic, another
+favorite appearing 10 to 15% of the
+
+00:02:15.665 --> 00:02:18.035
+time involves interchanging positions.
+
+00:02:18.430 --> 00:02:21.640
+You know, Ram becomes
+sham and Sham becomes ram.
+
+00:02:21.790 --> 00:02:22.870
+What happens next?
+
+00:02:23.230 --> 00:02:29.020
+And finally, about 10 to 15% of questions
+are comparison based, ranking, arranging
+
+00:02:29.020 --> 00:02:31.990
+people by height, weight marks, or age.
+
+00:02:32.320 --> 00:02:34.360
+So you should prepare accordingly.
+
+00:02:34.360 --> 00:02:34.750
+My friend.
+
+00:02:35.850 --> 00:02:37.350
+Formulas plus tricks.
+
+00:02:37.769 --> 00:02:42.959
+All right, let's get to the magic spells,
+the formulas and tricks for finding
+
+00:02:42.959 --> 00:02:46.920
+the total number of persons when you
+know one person's rank from both sides.
+
+00:02:47.070 --> 00:02:48.299
+Just remember this.
+
+00:02:48.720 --> 00:02:53.340
+Total equals rank from left,
+plus rank from right minus one.
+
+00:02:53.670 --> 00:02:54.720
+Why minus one?
+
+00:02:54.870 --> 00:02:57.299
+Because you counted the poor fellow twice.
+
+00:02:57.510 --> 00:02:57.990
+Simple, right.
+
+00:02:58.830 --> 00:03:02.130
+To find the rank from the
+other end, you just do total
+
+00:03:02.250 --> 00:03:04.530
+minus the known rank plus one.
+
+00:03:04.890 --> 00:03:08.100
+It is like looking at the
+entire line from the other side.
+
+00:03:08.579 --> 00:03:13.110
+Now, finding the number of persons
+between two persons has two scenarios.
+
+00:03:13.500 --> 00:03:17.220
+If it's a non-overlapping case,
+meaning the total is greater than
+
+00:03:17.220 --> 00:03:21.060
+the sum of their ranks, the number
+of people between them is simply the
+
+00:03:21.060 --> 00:03:22.980
+total minus the sum of their ranks.
+
+00:03:23.470 --> 00:03:27.730
+But if it's an overlapping case where
+the sum of the ranks is more than the
+
+00:03:27.730 --> 00:03:30.040
+total, the formula is a bit tricky.
+
+00:03:30.429 --> 00:03:33.970
+It's the sum of their ranks
+minus the total, and then
+
+00:03:33.970 --> 00:03:35.739
+you must subtract two more.
+
+00:03:36.070 --> 00:03:40.600
+These two are the people themselves
+and for interchanging positions,
+
+00:03:40.719 --> 00:03:44.829
+the total is the new position of the
+first person, plus the old position
+
+00:03:44.829 --> 00:03:47.019
+of the second person minus one.
+
+00:03:47.410 --> 00:03:50.410
+The number of people between
+them is just the difference in
+
+00:03:50.410 --> 00:03:52.899
+positions of one person minus one.
+
+00:03:53.250 --> 00:03:53.760
+Got it.
+
+00:03:54.000 --> 00:03:54.450
+Good.
+
+00:03:55.155 --> 00:03:56.445
+Methods of solving.
+
+00:03:56.805 --> 00:04:00.135
+Now, knowing the formulas is
+one thing, but applying them
+
+00:04:00.135 --> 00:04:01.785
+correctly is the real game.
+
+00:04:02.055 --> 00:04:07.065
+So here is the step-by-step method for
+calculating photo persons in a row.
+
+00:04:07.155 --> 00:04:11.685
+First hunt down that one person whose
+rank is given from both left and right.
+
+00:04:12.225 --> 00:04:16.635
+Add those two ranks, and please
+for my sake, remember to subtract
+
+00:04:16.635 --> 00:04:20.415
+one from the sum for finding a
+person's rank from the other end.
+
+00:04:20.565 --> 00:04:23.625
+Note down the total number
+of people and the given rank.
+
+00:04:23.985 --> 00:04:27.885
+Subtract the given rank from
+the total and then just add one.
+
+00:04:28.005 --> 00:04:32.085
+That is your answer when finding
+persons between two individuals.
+
+00:04:32.205 --> 00:04:34.515
+First, you must diagnose the situation.
+
+00:04:34.865 --> 00:04:37.235
+Is it overlapping or non-overlapping?
+
+00:04:37.595 --> 00:04:40.445
+If the sum of the ranks from
+opposite ends is less than the
+
+00:04:40.445 --> 00:04:44.585
+total, it's non-overlapping,
+if it's more, it's overlapping.
+
+00:04:44.915 --> 00:04:48.875
+For the non-overlapping case, subtract
+the sum of the ranks from the total
+
+00:04:49.205 --> 00:04:53.300
+for the overlapping case, subtract the
+total, and two from the sum of the ranks.
+
+00:04:53.985 --> 00:04:56.685
+Easy peasy for interchanging positions.
+
+00:04:56.865 --> 00:04:59.385
+Always, always draw a little diagram.
+
+00:04:59.745 --> 00:05:03.225
+Use the new position of one
+person and the old position of
+
+00:05:03.225 --> 00:05:04.725
+the other to find the total.
+
+00:05:05.145 --> 00:05:08.925
+The difference in the positions of the
+person who moved will tell you how many
+
+00:05:08.925 --> 00:05:10.725
+people are between them, minus one.
+
+00:05:11.505 --> 00:05:15.795
+And finally, for comparison based
+problems, think like a mathematician,
+
+00:05:16.185 --> 00:05:21.795
+represent every clue as an inequality,
+like a greater than B, C, less than B.
+
+00:05:22.155 --> 00:05:25.725
+Then combine these little clues
+to build the full sequence.
+
+00:05:26.025 --> 00:05:30.135
+Be very careful and read what is
+actually being asked in the question.
+
+00:05:31.215 --> 00:05:33.135
+Shortcuts plus smart techniques.
+
+00:05:33.555 --> 00:05:37.695
+Every master has some special tricks
+up their sleeve, and you should too.
+
+00:05:37.995 --> 00:05:40.125
+First, visual representation.
+
+00:05:40.455 --> 00:05:43.365
+Always draw a simple line mark the people.
+
+00:05:43.755 --> 00:05:46.725
+This little drawing will
+save you from big confusions.
+
+00:05:47.055 --> 00:05:49.635
+It helps you see the
+problem much more clearly.
+
+00:05:49.995 --> 00:05:52.455
+Second, focus on relative positioning.
+
+00:05:52.825 --> 00:05:56.965
+Instead of finding exact numbers,
+sometimes just knowing A is
+
+00:05:56.965 --> 00:06:00.474
+five places to the right of B
+is enough to crack the problem.
+
+00:06:00.895 --> 00:06:04.974
+Third, use option elimination
+in multiple choice questions.
+
+00:06:05.034 --> 00:06:08.635
+If an answer looks completely
+impossible, just throw it out.
+
+00:06:08.784 --> 00:06:10.044
+Why waste time on it?
+
+00:06:10.435 --> 00:06:12.835
+Fourth, focus on the key information.
+
+00:06:13.164 --> 00:06:16.825
+Find that one clue that unlocks
+the whole puzzle, like one
+
+00:06:16.825 --> 00:06:18.655
+person's position from both ends.
+
+00:06:19.075 --> 00:06:21.534
+And finally, practice with diagrams.
+
+00:06:21.895 --> 00:06:24.175
+The more you draw, the
+faster you will get.
+
+00:06:24.535 --> 00:06:30.295
+It builds your intuition, my friend, and
+speed common mistakes and misconceptions.
+
+00:06:31.200 --> 00:06:34.409
+Now let us talk about the
+banana peels on the floor.
+
+00:06:34.650 --> 00:06:39.390
+The common mistakes so many people
+make the most classic blunder is
+
+00:06:39.540 --> 00:06:43.980
+forgetting to subtract one when
+calculating the total people get
+
+00:06:43.980 --> 00:06:46.560
+excited, add the ranks and move on.
+
+00:06:46.950 --> 00:06:48.390
+Don't be that person.
+
+00:06:48.840 --> 00:06:52.125
+Another big trap is incorrectly
+calculating between.
+
+00:06:52.849 --> 00:06:57.469
+You must know if it's an overlapping
+or non-overlapping case before
+
+00:06:57.469 --> 00:06:59.120
+you use a formula blindly.
+
+00:06:59.570 --> 00:07:04.849
+Also, people confuse between, with
+including the word between means
+
+00:07:04.849 --> 00:07:09.229
+you don't count the two people at
+the ends, and please, when you draw.
+
+00:07:09.465 --> 00:07:11.685
+Be consistent with your left right.
+
+00:07:12.075 --> 00:07:15.465
+It should be from the perspective
+of the people in the row, not
+
+00:07:15.465 --> 00:07:20.265
+your own left and right, and
+don't just blindly apply formulas
+
+00:07:20.325 --> 00:07:22.424
+without understanding the context.
+
+00:07:22.815 --> 00:07:25.815
+A formula is a tool, not a magic wand.
+
+00:07:26.174 --> 00:07:29.804
+Lastly, do not ignore
+answers like zero or one.
+
+00:07:30.164 --> 00:07:34.965
+Sometimes the number of people between
+two individuals is indeed zero.
+
+00:07:35.294 --> 00:07:36.885
+It's not a trick question.
+
+00:07:37.875 --> 00:07:39.615
+WH framework summary.
+
+00:07:39.975 --> 00:07:43.515
+So to wrap up the theory,
+let's use the WH framework.
+
+00:07:43.845 --> 00:07:45.165
+What are we doing here?
+
+00:07:45.525 --> 00:07:49.785
+We are determining the position
+or rank of individuals or objects
+
+00:07:49.815 --> 00:07:51.675
+in a sequence or an arrangement.
+
+00:07:52.065 --> 00:07:53.385
+Why are we doing this?
+
+00:07:53.685 --> 00:07:58.305
+Because it is absolutely essential
+for logical reasoning and problem
+
+00:07:58.305 --> 00:08:00.345
+solving in competitive exams.
+
+00:08:00.705 --> 00:08:02.175
+When do we apply this skill?
+
+00:08:02.549 --> 00:08:06.690
+We apply it whenever we are given
+clues about relative positions,
+
+00:08:06.869 --> 00:08:10.859
+total counts or specific
+arrangements that need to be deduced.
+
+00:08:11.219 --> 00:08:12.270
+Where is it used?
+
+00:08:12.630 --> 00:08:16.739
+It is used in your exam, in
+logical puzzles, and any place
+
+00:08:16.739 --> 00:08:18.809
+that needs sequential analysis.
+
+00:08:19.080 --> 00:08:20.190
+Who needs this?
+
+00:08:20.489 --> 00:08:24.554
+Every friend preparing for government
+exams, professionals who need sharp
+
+00:08:24.554 --> 00:08:29.969
+analytical skills and basically anyone
+who enjoys solving a good, logical puzzle.
+
+00:08:30.359 --> 00:08:32.130
+And how do we solve these?
+
+00:08:32.474 --> 00:08:36.824
+By using our special formulas,
+drawing neat diagrams, and applying
+
+00:08:36.824 --> 00:08:40.604
+sharp, logical deduction based on
+the given positional information.
+
+00:08:41.655 --> 00:08:42.585
+Fully worked out.
+
+00:08:42.585 --> 00:08:43.395
+Examples.
+
+00:08:43.755 --> 00:08:44.715
+Enough theory.
+
+00:08:44.835 --> 00:08:47.415
+Let's get our hands
+dirty with some examples.
+
+00:08:47.805 --> 00:08:53.265
+Example, one total number of persons
+question in a row of friends.
+
+00:08:53.385 --> 00:08:57.345
+Rohan is 15th from the left end,
+and 20th from the right end.
+
+00:08:57.705 --> 00:09:00.795
+How many friends are
+there in the row options?
+
+00:09:01.065 --> 00:09:05.235
+A 34 B, 35 C 36.
+
+00:09:05.325 --> 00:09:06.735
+D 37.
+
+00:09:07.095 --> 00:09:09.750
+Understand the question
+before moving to explanation.
+
+00:09:10.360 --> 00:09:11.200
+Solution.
+
+00:09:11.470 --> 00:09:12.280
+Step one.
+
+00:09:12.520 --> 00:09:14.290
+First, understand the problem.
+
+00:09:14.590 --> 00:09:17.980
+We have Rohan's position from
+both the left and right end.
+
+00:09:18.280 --> 00:09:20.350
+We need the total number of friends.
+
+00:09:20.590 --> 00:09:22.870
+Step two, apply the formula.
+
+00:09:23.110 --> 00:09:28.540
+The formula is total equals rank from
+left, plus rank from right minus one.
+
+00:09:29.160 --> 00:09:32.010
+Step three, substitute the given values.
+
+00:09:32.310 --> 00:09:36.930
+Rohan's rank from the left is
+15 and from the right is 20, so
+
+00:09:37.050 --> 00:09:40.710
+total equals 15 plus 20 minus one.
+
+00:09:40.920 --> 00:09:43.230
+Step four, calculate the total.
+
+00:09:43.590 --> 00:09:47.730
+Total equals 35 minus
+one, which equals 34.
+
+00:09:48.000 --> 00:09:53.280
+Therefore, there are 34 friends
+in the row, correct answer, A 34.
+
+00:09:54.300 --> 00:09:57.120
+Example, two interchanging positions.
+
+00:09:57.420 --> 00:09:59.550
+Question in a row of girls.
+
+00:09:59.729 --> 00:10:02.880
+Rena is 10th from the
+left and Tina is 15th.
+
+00:10:02.880 --> 00:10:05.939
+From the right, if they
+interchange their positions,
+
+00:10:06.089 --> 00:10:08.160
+Rena becomes 16th from the left.
+
+00:10:08.430 --> 00:10:10.140
+What is Tina's new position?
+
+00:10:10.140 --> 00:10:19.410
+From the right end options, a 20th B 21st,
+C 22nd, D 23rd understand the question
+
+00:10:19.410 --> 00:10:22.050
+before moving to explanation solution.
+
+00:10:22.535 --> 00:10:23.345
+Step one.
+
+00:10:23.615 --> 00:10:25.535
+Let's note the initial positions.
+
+00:10:25.805 --> 00:10:31.595
+Rena is 10th from the left and Tina is
+15th from the right Step two after the
+
+00:10:31.595 --> 00:10:34.955
+swap, Rena is now where Tina was Rena's.
+
+00:10:34.955 --> 00:10:37.235
+New position from the left is 16th.
+
+00:10:37.505 --> 00:10:40.685
+Step three, let's find
+the total number of girls.
+
+00:10:40.985 --> 00:10:43.985
+The formula is total equals Rena's.
+
+00:10:43.985 --> 00:10:48.545
+New position from left, plus Tina's
+old position from right minus one.
+
+00:10:48.800 --> 00:10:53.060
+So total equals 16 plus 15 minus one.
+
+00:10:53.360 --> 00:10:57.380
+This gives us 31 minus one,
+which means there are 30 girls.
+
+00:10:57.590 --> 00:10:58.430
+Step four.
+
+00:10:58.730 --> 00:11:01.160
+Now let's find Tina's new position.
+
+00:11:01.160 --> 00:11:06.320
+From the right, Tina is now at Rena's
+old spot, which was 10th from the left.
+
+00:11:06.680 --> 00:11:11.630
+Using the formula rank from right
+equals total minus rank from left
+
+00:11:11.690 --> 00:11:15.260
+plus one, we get 30 minus 10 plus one.
+
+00:11:15.610 --> 00:11:17.470
+Which is 20 plus one.
+
+00:11:17.710 --> 00:11:21.190
+So Tina's new position
+is 21st from the right?
+
+00:11:21.520 --> 00:11:21.910
+Correct.
+
+00:11:21.910 --> 00:11:23.500
+Answer, B 21st.
+
+00:11:24.705 --> 00:11:28.935
+Example, three persons between
+two individuals question
+
+00:11:29.205 --> 00:11:30.765
+in a row of 50 friends.
+
+00:11:30.945 --> 00:11:35.055
+P is 12th from the left end, and
+Q is 18th from the right end.
+
+00:11:35.355 --> 00:11:44.325
+How many friends are sitting between P
+and Q options A 19 B, 20 C, 20 1D 22?
+
+00:11:44.685 --> 00:11:47.595
+Understand the question
+before moving to explanation.
+
+00:11:48.980 --> 00:11:51.380
+Step one, let's list what we know.
+
+00:11:51.710 --> 00:11:56.990
+Total friends equals 50 peace
+position from left equals 12 Q's
+
+00:11:56.990 --> 00:11:59.120
+position from right equals 18th.
+
+00:11:59.480 --> 00:12:02.180
+Step two, let's check for overlapping.
+
+00:12:02.449 --> 00:12:06.620
+Some of positions equals
+12 plus 18, which is 30.
+
+00:12:06.920 --> 00:12:10.670
+Since the total 50 is
+greater than the sum 30.
+
+00:12:10.790 --> 00:12:12.829
+This is a non-overlapping case.
+
+00:12:13.010 --> 00:12:13.880
+They don't cross each other.
+
+00:12:14.710 --> 00:12:15.490
+Step three.
+
+00:12:15.790 --> 00:12:19.930
+Now we apply the simple formula
+for non-overlapping cases, which
+
+00:12:19.930 --> 00:12:25.510
+is persons between equals total
+minus sum of ranks, so persons
+
+00:12:25.510 --> 00:12:29.440
+between equals 50 minus 12 plus 18.
+
+00:12:29.710 --> 00:12:33.430
+That becomes 50 minus 30, which equals 20.
+
+00:12:33.670 --> 00:12:39.400
+Therefore there are 20 friends sitting
+between P and Q. Correct answer B 20.
+
+00:12:40.510 --> 00:12:41.170
+Thank you.
+
+00:12:41.320 --> 00:12:42.880
+See you in the next lecture.
+
