@@ -1,0 +1,681 @@
+WEBVTT
+
+00:00:00.180 --> 00:00:03.900
+Welcome my friend to today's
+lecture on probability.
+
+00:00:04.320 --> 00:00:09.930
+Let's unpack the mystery of this concept
+without needing a PhD or a panic attack.
+
+00:00:11.040 --> 00:00:12.390
+Concept explanation.
+
+00:00:12.990 --> 00:00:14.910
+So what is this big shot?
+
+00:00:14.910 --> 00:00:16.439
+Probability aray.
+
+00:00:16.500 --> 00:00:20.400
+It's just a fancy, mathematical
+way of measuring chance.
+
+00:00:20.730 --> 00:00:24.689
+It's all about figuring out how
+likely something is to happen.
+
+00:00:24.810 --> 00:00:25.380
+Simple.
+
+00:00:25.860 --> 00:00:27.419
+Let's break down the jargon.
+
+00:00:27.900 --> 00:00:32.445
+An experiment is any action, like
+tossing a coin or rolling a dye.
+
+00:00:33.075 --> 00:00:38.505
+An outcome is just one possible result,
+like getting ahead or rolling a three.
+
+00:00:39.045 --> 00:00:43.695
+An event is a specific outcome or a
+set of outcomes you are interested
+
+00:00:43.695 --> 00:00:48.855
+in, like getting an even number,
+which would be two, four, or six.
+
+00:00:49.365 --> 00:00:54.075
+The sample space, which we call
+s, is the complete menu of all
+
+00:00:54.075 --> 00:00:56.565
+possible outcomes for a coin toss.
+
+00:00:56.685 --> 00:00:57.765
+It's just head.
+
+00:00:58.135 --> 00:01:02.695
+Still for a die, it's 1, 2, 3, 4, 5, 6.
+
+00:01:02.965 --> 00:01:03.325
+Easy.
+
+00:01:03.325 --> 00:01:05.425
+No, a favorable outcome.
+
+00:01:05.605 --> 00:01:10.465
+E is simply the outcome that makes you
+happy, the one you are looking for.
+
+00:01:10.915 --> 00:01:13.615
+The big formula, the
+heart of it all is the.
+
+00:01:13.860 --> 00:01:18.780
+P of E equals the number of your
+favorable outcomes divided by the
+
+00:01:18.870 --> 00:01:20.789
+total number of possible outcomes.
+
+00:01:21.210 --> 00:01:27.000
+And remember this golden rule, probability
+is always between zero and one.
+
+00:01:27.300 --> 00:01:29.190
+Zero means impossible.
+
+00:01:29.370 --> 00:01:31.770
+Like spotting a unicorn in your backyard.
+
+00:01:32.039 --> 00:01:36.210
+One means it's a sure thing
+like the sun rising tomorrow.
+
+00:01:36.600 --> 00:01:40.860
+Finally, a quick look at event
+types, mutually exclusive events.
+
+00:01:41.440 --> 00:01:42.730
+Can't happen together.
+
+00:01:42.910 --> 00:01:47.350
+Like rolling a one and a two on
+the same Die independent events
+
+00:01:47.410 --> 00:01:48.880
+don't care about each other.
+
+00:01:49.090 --> 00:01:52.000
+A coin toss result doesn't
+affect the next one.
+
+00:01:52.360 --> 00:01:54.759
+And dependent events are clingy.
+
+00:01:54.940 --> 00:01:58.720
+One event changes the probability
+for the next, like drawing
+
+00:01:58.720 --> 00:02:00.550
+cards without putting them back.
+
+00:02:01.240 --> 00:02:02.650
+Real world relevance.
+
+00:02:02.979 --> 00:02:05.905
+Now you might ask, sir,
+where will I use this?
+
+00:02:06.445 --> 00:02:10.914
+Everywhere my friend understanding
+probability if key for assessing
+
+00:02:10.914 --> 00:02:15.715
+risks like banks, figuring out loan
+defaults or predicting market trends,
+
+00:02:16.045 --> 00:02:19.885
+it helps you make smarter decisions
+with your money and investments.
+
+00:02:20.065 --> 00:02:23.695
+So yes, it's not just
+for exams, it's for life.
+
+00:02:24.150 --> 00:02:27.180
+Breakdown of question types for your exam.
+
+00:02:27.269 --> 00:02:29.430
+The question setters have their favorites.
+
+00:02:29.519 --> 00:02:30.810
+Let's see what they are.
+
+00:02:31.230 --> 00:02:34.920
+About 40% of questions are
+basic probability problems
+
+00:02:35.070 --> 00:02:37.500
+involving coins, dice, and cards.
+
+00:02:37.950 --> 00:02:42.450
+Another 25% are about bags and balls
+where you are pulling out colored
+
+00:02:42.450 --> 00:02:43.755
+balls and finding the chances.
+
+00:02:44.595 --> 00:02:49.304
+Then 20% of problems mix in
+permutations and combinations, which
+
+00:02:49.304 --> 00:02:51.135
+you need for complex selections.
+
+00:02:51.614 --> 00:02:55.484
+Conditional probability, finding
+the probability of something given
+
+00:02:55.484 --> 00:02:59.234
+that something else has already
+happened, makes up about 10%.
+
+00:02:59.535 --> 00:03:03.614
+And finally, 5% of questions
+will test your understanding of
+
+00:03:03.614 --> 00:03:08.204
+mutually exclusive or independent
+events, formulas and tricks.
+
+00:03:08.535 --> 00:03:10.964
+All right, time for the secret masala.
+
+00:03:11.084 --> 00:03:13.575
+The formulas, the basic one is.
+
+00:03:13.705 --> 00:03:19.165
+P of E equals N of E by N of
+S for a complimentary event.
+
+00:03:19.285 --> 00:03:23.215
+The probability of something not
+happening is just one minus the
+
+00:03:23.215 --> 00:03:25.105
+probability that it does happen.
+
+00:03:25.195 --> 00:03:25.675
+Simple.
+
+00:03:26.275 --> 00:03:33.565
+The addition rule is for or cases P of
+A or B is P of A plus P of B. But you
+
+00:03:33.565 --> 00:03:36.445
+must subtract the overlap P of A and B.
+
+00:03:36.805 --> 00:03:39.565
+If they are mutually
+exclusive, just add them.
+
+00:03:39.655 --> 00:03:41.185
+P of A plus pb.
+
+00:03:41.575 --> 00:03:47.845
+The multiplication rule is for and cases
+for independent events, it's PA times pb.
+
+00:03:48.174 --> 00:03:53.484
+For dependent events, it's PA times
+the probability of B happening, given.
+
+00:03:53.785 --> 00:03:58.375
+A has already occurred, and of
+course, our old friends permutations
+
+00:03:58.375 --> 00:04:02.274
+for arrangements and combinations
+for selections are here to help.
+
+00:04:02.665 --> 00:04:05.155
+Here's the ultimate trick in a problem.
+
+00:04:05.244 --> 00:04:09.054
+When you see and think
+multiplication, when you see or
+
+00:04:09.234 --> 00:04:11.575
+think addition methods of solving.
+
+00:04:12.690 --> 00:04:16.800
+Let's talk strategy first is
+the direct calculation method.
+
+00:04:17.010 --> 00:04:18.060
+The bread and butter.
+
+00:04:18.420 --> 00:04:19.710
+Define the experiment.
+
+00:04:19.980 --> 00:04:22.260
+Count all outcomes for NFS.
+
+00:04:22.500 --> 00:04:28.020
+Count the favorable ones for
+NFE and divide done Next, the
+
+00:04:28.020 --> 00:04:29.550
+complimentary event method.
+
+00:04:29.790 --> 00:04:31.320
+This is a clever shortcut.
+
+00:04:31.650 --> 00:04:37.110
+If a question asks for at least one, it's
+often easier to calculate the probability
+
+00:04:37.110 --> 00:04:40.380
+of none and subtract that from one work.
+
+00:04:40.380 --> 00:04:40.890
+Smart.
+
+00:04:40.935 --> 00:04:41.355
+Not hard.
+
+00:04:42.090 --> 00:04:45.930
+Then we have the method of using
+permutations and combinations.
+
+00:04:46.230 --> 00:04:51.210
+First, decide if order matters,
+permutation or not combination.
+
+00:04:51.540 --> 00:04:55.920
+Then use the right formula to find
+your total and favorable outcomes
+
+00:04:56.070 --> 00:04:58.710
+and divide for multi-stage problems.
+
+00:04:58.920 --> 00:05:00.870
+Three diagrams are your best friend.
+
+00:05:01.110 --> 00:05:05.850
+Draw out the parts, multiply probabilities
+along each branch, and add up the
+
+00:05:05.850 --> 00:05:08.040
+parts that give you the desired result.
+
+00:05:08.460 --> 00:05:11.130
+Lastly, the conditional
+probability method.
+
+00:05:11.474 --> 00:05:13.065
+Identify the two events.
+
+00:05:13.155 --> 00:05:18.044
+A and B, find the probability of
+both happening B of A and B. Find
+
+00:05:18.044 --> 00:05:23.414
+the probability of the condition B of
+B, and then divide them B of A by B
+
+00:05:23.445 --> 00:05:26.289
+equals B of A and B divided by B of B.
+
+00:05:26.370 --> 00:05:30.445
+B. Shortcuts and smart
+techniques want to be faster.
+
+00:05:30.594 --> 00:05:36.145
+Of course, you do first, simplify early,
+cancel out parts of fractions as you go to
+
+00:05:36.145 --> 00:05:39.055
+keep numbers small for at least problems.
+
+00:05:39.235 --> 00:05:42.115
+Always remember the one
+minus P of none trick.
+
+00:05:42.265 --> 00:05:43.405
+It's a lifesaver.
+
+00:05:43.885 --> 00:05:45.625
+Recognize standard scenarios.
+
+00:05:45.805 --> 00:05:49.105
+Memorize common probabilities
+for dice sums or cards.
+
+00:05:49.435 --> 00:05:53.005
+Break down complex problems
+into smaller, manageable chunks.
+
+00:05:53.155 --> 00:05:55.765
+Then combine them using the and or rules.
+
+00:05:56.020 --> 00:06:01.090
+And finally, practice mental calculation
+for small permutations and combinations.
+
+00:06:01.270 --> 00:06:06.070
+It'll save you precious seconds,
+common mistakes and misconceptions.
+
+00:06:06.340 --> 00:06:11.619
+And now the Hall of Shame, the common
+mistakes to avoid a classic blunder is
+
+00:06:11.619 --> 00:06:14.200
+confusing, permutations and combinations.
+
+00:06:14.440 --> 00:06:18.669
+Remember, permutation is for position,
+combination is for committee.
+
+00:06:19.000 --> 00:06:22.270
+Another is incorrectly
+identifying the sample space.
+
+00:06:22.419 --> 00:06:23.080
+Double check.
+
+00:06:23.080 --> 00:06:25.299
+You've counted every single possibility.
+
+00:06:25.915 --> 00:06:30.205
+Please don't commit the sin of adding
+probabilities for independent events.
+
+00:06:30.265 --> 00:06:31.735
+You must multiply them.
+
+00:06:32.005 --> 00:06:36.085
+And conversely, don't multiply
+For mutually exclusive events, you
+
+00:06:36.085 --> 00:06:40.615
+must add a very common error is
+not accounting for replacement.
+
+00:06:40.915 --> 00:06:43.705
+Always check if an item
+is put back or not.
+
+00:06:43.885 --> 00:06:46.015
+It changes everything for the next draw.
+
+00:06:46.255 --> 00:06:50.815
+Finally, be careful with phrases
+like, at least or at most, read
+
+00:06:50.815 --> 00:06:54.445
+them carefully and think if the
+complimentary approach is easier.
+
+00:06:54.970 --> 00:06:56.560
+W Edge Framework summary.
+
+00:06:56.770 --> 00:07:02.140
+So to quickly revise, what is it, the
+math of chance, why do we learn it to
+
+00:07:02.140 --> 00:07:04.420
+assess risk and make smart choices?
+
+00:07:04.600 --> 00:07:08.110
+When do we use it in any
+situation with a random element?
+
+00:07:08.320 --> 00:07:09.310
+Where is it used?
+
+00:07:09.430 --> 00:07:14.535
+Finance games, whether you name it,
+who uses it, analysts, scientists,
+
+00:07:14.650 --> 00:07:17.110
+and now you, how do we calculate it?
+
+00:07:17.320 --> 00:07:22.420
+Desired outcomes divided by total
+outcomes, fully worked out examples.
+
+00:07:22.965 --> 00:07:25.185
+All right, let's solve some problems.
+
+00:07:25.665 --> 00:07:28.875
+Example, one basic probability dice.
+
+00:07:29.205 --> 00:07:32.565
+Question two, fair dice
+are rule simultaneously.
+
+00:07:32.955 --> 00:07:36.315
+What is the probability that
+the sum of the numbers appearing
+
+00:07:36.315 --> 00:07:38.865
+on the dice is seven options?
+
+00:07:39.240 --> 00:07:40.710
+A one by six.
+
+00:07:41.040 --> 00:07:46.740
+B one by 12, C one by nine, D five by 36.
+
+00:07:47.190 --> 00:07:51.330
+Understand the question before
+moving to explanation solution.
+
+00:07:51.660 --> 00:07:54.360
+Step one, each DAI has six faces.
+
+00:07:54.719 --> 00:07:59.430
+Two dice mean the total outcomes
+are six times six, which is 36.
+
+00:07:59.640 --> 00:08:00.960
+That's our NFS.
+
+00:08:01.409 --> 00:08:04.020
+Step two, we want the sum to be seven.
+
+00:08:04.320 --> 00:08:07.020
+Let's list the winning
+pairs, one comma six.
+
+00:08:07.539 --> 00:08:11.409
+Two comma five, three comma
+four, four comma three, five,
+
+00:08:11.409 --> 00:08:13.479
+comma two and six comma one.
+
+00:08:13.780 --> 00:08:14.560
+That's six.
+
+00:08:14.560 --> 00:08:15.669
+Favorable outcomes.
+
+00:08:15.820 --> 00:08:17.650
+So N of E is six.
+
+00:08:18.010 --> 00:08:24.489
+Step three, probability is N of E over
+N of S. So that's six divided by 36.
+
+00:08:24.760 --> 00:08:26.919
+Step four, simplify the fraction.
+
+00:08:27.130 --> 00:08:29.710
+Six divided by 36 is one by six.
+
+00:08:29.890 --> 00:08:33.980
+The correct answer is a.
+Example two probability with
+
+00:08:33.980 --> 00:08:35.900
+combinations balls in a bag.
+
+00:08:36.230 --> 00:08:36.830
+Question.
+
+00:08:37.159 --> 00:08:40.159
+A bag contains five red
+balls and three blue balls.
+
+00:08:40.430 --> 00:08:43.909
+If two balls are drawn at random
+from the bag without replacement,
+
+00:08:44.150 --> 00:08:48.200
+what is the probability that
+both balls drawn are red options?
+
+00:08:48.470 --> 00:08:54.050
+A five by 14 B, 10 by 28 C 25 by 64.
+
+00:08:54.230 --> 00:08:55.460
+D one by four.
+
+00:08:55.855 --> 00:08:59.665
+Understand the question before
+moving to explanation solution.
+
+00:08:59.935 --> 00:09:00.625
+Step one.
+
+00:09:00.925 --> 00:09:03.715
+Total balls are five plus
+three, which is eight.
+
+00:09:04.015 --> 00:09:05.335
+We are drawing two balls.
+
+00:09:05.545 --> 00:09:07.015
+Since the order doesn't matter.
+
+00:09:07.165 --> 00:09:08.515
+We use combinations.
+
+00:09:08.785 --> 00:09:12.475
+The total number of ways to pick
+two balls from eight is C of eight,
+
+00:09:12.475 --> 00:09:14.605
+comma two, which calculates to 28.
+
+00:09:14.890 --> 00:09:17.170
+This is our N of S step two.
+
+00:09:17.439 --> 00:09:19.090
+We want both balls to be red.
+
+00:09:19.420 --> 00:09:20.740
+There are five red balls.
+
+00:09:20.980 --> 00:09:24.280
+The number of ways to choose
+two red balls from five is C of
+
+00:09:24.280 --> 00:09:26.020
+five, comma two, which is 10.
+
+00:09:26.230 --> 00:09:28.630
+This is our N of E. Step three.
+
+00:09:28.870 --> 00:09:33.699
+The probability is N of E over
+N of S. So 10 divided by 28.
+
+00:09:34.030 --> 00:09:38.020
+Step four, simplifying 10
+by 28 gives us five by 14.
+
+00:09:38.199 --> 00:09:43.335
+So the answer is a. Example,
+three probability with cards
+
+00:09:43.395 --> 00:09:44.985
+mutually exclusive events.
+
+00:09:45.285 --> 00:09:49.755
+Question, what is the probability
+of drawing a king or a queen from
+
+00:09:49.755 --> 00:09:55.665
+a well shuffled standard deck of 52
+playing cards, options, a two by 13 B,
+
+00:09:55.845 --> 00:10:00.285
+four by 13 C, one by 13 D one by 26.
+
+00:10:00.615 --> 00:10:03.225
+Understand the question
+before moving to explanation.
+
+00:10:03.689 --> 00:10:04.410
+Solution.
+
+00:10:04.680 --> 00:10:08.849
+Step one, the total number of outcomes
+is the number of cards in the deck.
+
+00:10:08.910 --> 00:10:10.800
+So N of S is 52.
+
+00:10:11.069 --> 00:10:14.069
+Step two, let's find the
+probability for each event.
+
+00:10:14.400 --> 00:10:17.459
+The probability of drawing
+a kink is four out of 52.
+
+00:10:17.760 --> 00:10:20.939
+The probability of drawing a
+queen is also four out of 52.
+
+00:10:21.350 --> 00:10:22.010
+Step three.
+
+00:10:22.340 --> 00:10:24.140
+Can a card be a king and a queen?
+
+00:10:24.290 --> 00:10:24.740
+No.
+
+00:10:24.950 --> 00:10:27.050
+So these events are mutually exclusive.
+
+00:10:27.230 --> 00:10:32.240
+Step four for mutually exclusive events
+with, or we simply add the probabilities.
+
+00:10:32.390 --> 00:10:36.770
+So four by 52 plus four
+by 52 equals eight by 52.
+
+00:10:37.010 --> 00:10:39.740
+Step five, let's simplify eight by 52.
+
+00:10:39.980 --> 00:10:42.680
+Divide both by four,
+and you get two by 13.
+
+00:10:42.830 --> 00:10:45.380
+The correct answer is a thank you.
+
+00:10:45.500 --> 00:10:46.880
+See you in the next lecture.
+

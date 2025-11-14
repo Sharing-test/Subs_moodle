@@ -1,0 +1,1079 @@
+WEBVTT
+
+00:00:00.240 --> 00:00:02.910
+Welcome my friend to today's lecture.
+
+00:00:03.000 --> 00:00:08.160
+On average, let's unpack the mystery
+of this concept without needing
+
+00:00:08.160 --> 00:00:12.060
+a PhD or a panic attack Concept.
+
+00:00:12.060 --> 00:00:18.300
+Explanation average, my friend, is a
+truly fundamental concept in mathematics.
+
+00:00:18.690 --> 00:00:22.740
+It's like finding that sweet
+spot or typical value for
+
+00:00:22.740 --> 00:00:24.360
+a whole bunch of numbers.
+
+00:00:24.885 --> 00:00:28.695
+It gives us a single value
+that smartly summarizes the
+
+00:00:28.695 --> 00:00:30.555
+entire group of observations.
+
+00:00:31.065 --> 00:00:35.175
+Just think of it as distributing
+the total equally among all
+
+00:00:35.175 --> 00:00:37.155
+elements, fair and square.
+
+00:00:37.725 --> 00:00:41.865
+The most common type of average we
+deal with is the arithmetic mean.
+
+00:00:42.315 --> 00:00:43.545
+How do we calculate it?
+
+00:00:43.875 --> 00:00:44.925
+Simple, my friend.
+
+00:00:45.195 --> 00:00:50.055
+Just sum up all the values in your
+data set, and then divide that grand
+
+00:00:50.055 --> 00:00:52.305
+total by the count of those values.
+
+00:00:52.875 --> 00:00:56.895
+Now let's get down to the basic
+terms and related concepts.
+
+00:00:56.985 --> 00:00:58.785
+You absolutely need to know.
+
+00:00:59.235 --> 00:01:02.385
+First up, we have
+observations or elements.
+
+00:01:02.865 --> 00:01:07.095
+These are simply the individual data
+points or numbers in a given set.
+
+00:01:07.635 --> 00:01:11.625
+Then comes the sum of observations,
+which is nothing but the grand
+
+00:01:11.625 --> 00:01:16.125
+total you get by adding all those
+individual observations together.
+
+00:01:16.690 --> 00:01:20.200
+And of course, you need the
+number of observations, which
+
+00:01:20.200 --> 00:01:24.250
+is just the total count of how
+many data points are in your set.
+
+00:01:24.610 --> 00:01:28.450
+Moving on, we have the fascinating
+concept of weighted average.
+
+00:01:28.870 --> 00:01:33.310
+This is used when different observations
+have different levels of importance
+
+00:01:33.310 --> 00:01:35.920
+or frequency, what we call weights.
+
+00:01:36.340 --> 00:01:39.790
+It smartly considers the
+importance of each observation.
+
+00:01:40.210 --> 00:01:42.460
+Next comes consecutive numbers.
+
+00:01:42.880 --> 00:01:46.179
+These are numbers that follow
+each other in perfect order
+
+00:01:46.330 --> 00:01:49.419
+without any gaps, like 1, 2, 3, 4.
+
+00:01:49.929 --> 00:01:54.429
+And then there are consecutive
+even or odd numbers, which are just
+
+00:01:54.429 --> 00:01:58.509
+sequences of even or odd numbers
+that dutifully follow each other.
+
+00:01:58.660 --> 00:02:02.110
+For example, 2, 4, 6, or 1 3 5.
+
+00:02:02.350 --> 00:02:03.250
+Simple, right?
+
+00:02:03.825 --> 00:02:06.825
+Now let's get down to
+the real world relevance.
+
+00:02:07.275 --> 00:02:10.275
+Now, why should professionals
+care about averages?
+
+00:02:10.695 --> 00:02:14.655
+Understanding averages my friend
+is absolutely crucial for them.
+
+00:02:15.105 --> 00:02:19.845
+It helps them interpret data spot
+trends, and make informed decisions
+
+00:02:19.965 --> 00:02:22.065
+about various financial metrics.
+
+00:02:22.515 --> 00:02:27.855
+For customer transaction analysis, banks
+use average transaction sizes to cleverly
+
+00:02:27.855 --> 00:02:29.955
+understand customer spending behavior.
+
+00:02:30.360 --> 00:02:34.680
+For loan portfolio performance, average
+interest rates and default rates
+
+00:02:34.830 --> 00:02:39.180
+are their go-to tools to assess the
+overall health of a bank's loan book.
+
+00:02:39.750 --> 00:02:44.070
+When it comes to employee productivity
+metrics, calculating average performance
+
+00:02:44.070 --> 00:02:49.110
+scores is key to evaluating team
+efficiency and individual contributions.
+
+00:02:49.515 --> 00:02:54.195
+For market data interpretation, analyzing
+average stock prices or economic
+
+00:02:54.195 --> 00:03:00.015
+indicators aids in investment strategy and
+risk management, and for account balances,
+
+00:03:00.225 --> 00:03:05.295
+average daily balances are diligently
+used to calculate interest accrual or to
+
+00:03:05.295 --> 00:03:07.305
+maintain minimum balance requirements.
+
+00:03:07.665 --> 00:03:11.700
+Last but not least, branch
+performance is judged by comparing
+
+00:03:11.775 --> 00:03:16.305
+average customer footfall or average
+service times all to optimize branch
+
+00:03:16.305 --> 00:03:18.825
+operations and ensure smooth sailing.
+
+00:03:19.250 --> 00:03:21.109
+Breakdown of question types.
+
+00:03:21.559 --> 00:03:25.339
+All right, friends, let's peek
+into the crystal ball of your exam
+
+00:03:25.339 --> 00:03:27.799
+patterns based on past trends.
+
+00:03:27.980 --> 00:03:31.489
+Here are other reoccurring
+question formats and average, along
+
+00:03:31.489 --> 00:03:33.320
+with their estimated frequency.
+
+00:03:34.010 --> 00:03:38.719
+Around 30% of questions are your
+good old basic average calculation.
+
+00:03:39.200 --> 00:03:43.790
+These are direct questions where you
+find the average sum or number of
+
+00:03:43.790 --> 00:03:46.070
+observations given two of the three.
+
+00:03:46.674 --> 00:03:51.834
+Then about 25% fall under average
+after inclusion or exclusion.
+
+00:03:52.255 --> 00:03:56.515
+These are problems where a new
+observation joins or an existing
+
+00:03:56.515 --> 00:03:58.825
+one leaves and the average changes.
+
+00:03:59.364 --> 00:04:04.075
+Next, roughly 20% are weighted
+average or group average questions.
+
+00:04:04.520 --> 00:04:07.940
+These involve finding the
+average of combined groups or
+
+00:04:07.940 --> 00:04:12.290
+scenarios where observations have
+different frequencies or weights.
+
+00:04:12.829 --> 00:04:17.420
+For 15% of the questions you'll
+see average of consecutive numbers.
+
+00:04:17.870 --> 00:04:22.190
+These problems relate to finding the
+average of arithmetic progressions,
+
+00:04:22.370 --> 00:04:27.020
+including consecutive, consecutive,
+even, or consecutive odd numbers.
+
+00:04:27.390 --> 00:04:31.080
+And finally, about 10% are
+average speed questions.
+
+00:04:31.500 --> 00:04:35.250
+These are specific problems
+involving average speed calculation,
+
+00:04:35.369 --> 00:04:39.989
+especially when distances and
+times vary formulas and tricks.
+
+00:04:40.409 --> 00:04:45.780
+Now for the juicy bits, the essential
+formulas and some truly useful tricks for
+
+00:04:45.780 --> 00:04:50.969
+average problems, write these down, tattoo
+them on your brain, whatever it takes.
+
+00:04:51.390 --> 00:04:56.280
+The basic average formula is average
+equals sum of all observations.
+
+00:04:56.400 --> 00:05:02.130
+Upon number of observations from that, you
+can easily find the sum of observations.
+
+00:05:02.280 --> 00:05:07.110
+Sum equals average into number of
+observations for weighted average.
+
+00:05:07.200 --> 00:05:13.500
+The formula is weighted average equals
+W one X one plus W2 X two plus W
+
+00:05:13.500 --> 00:05:17.365
+and XN upon W one plus W2 plus WN.
+
+00:05:17.675 --> 00:05:22.745
+Where X represents your observations
+and W are their respective weights.
+
+00:05:23.285 --> 00:05:26.345
+When it comes to the average
+of consecutive numbers, which
+
+00:05:26.345 --> 00:05:30.365
+are essentially an arithmetic
+progression, we have some neat tricks.
+
+00:05:30.725 --> 00:05:34.115
+If numbers are in an arithmetic
+progression, like consecutive
+
+00:05:34.115 --> 00:05:38.885
+integers or consecutive even, or odd
+numbers, the average equals first
+
+00:05:38.885 --> 00:05:40.760
+number plus last number by two.
+
+00:05:41.305 --> 00:05:42.415
+And here's a bonus.
+
+00:05:42.565 --> 00:05:46.585
+If the count of numbers is odd, the
+average is simply the middle number.
+
+00:05:46.735 --> 00:05:49.495
+How cool is that for average speed?
+
+00:05:49.615 --> 00:05:53.095
+The golden rule is average
+speed equals total distance
+
+00:05:53.095 --> 00:05:55.075
+covered upon total time taken.
+
+00:05:55.375 --> 00:05:59.875
+And if you have two equal distances
+covered at speeds S one and S two,
+
+00:06:00.025 --> 00:06:04.675
+then the average speed equals two
+s one s two upon S one plus S two.
+
+00:06:04.915 --> 00:06:05.905
+Remember this one?
+
+00:06:05.965 --> 00:06:07.165
+It's a lifesaver.
+
+00:06:07.575 --> 00:06:12.765
+Now for the tricks my friend, the
+real game changers Trick One, increase
+
+00:06:12.765 --> 00:06:17.205
+or decrease in average if a new
+person or item makes an entry and
+
+00:06:17.205 --> 00:06:21.195
+the average increases or decreases
+the value of this new person or
+
+00:06:21.224 --> 00:06:23.745
+item is calculated as new average.
+
+00:06:24.105 --> 00:06:27.225
+Plus minus number of
+original items into change.
+
+00:06:27.225 --> 00:06:32.445
+In average, you use a plus if the average
+increases and a minus if it decreases.
+
+00:06:32.865 --> 00:06:37.365
+Trick two person replaced if a
+person gets replaced and the average
+
+00:06:37.395 --> 00:06:39.195
+again increases or decreases.
+
+00:06:39.315 --> 00:06:44.655
+The value of the new person is value of
+the old person, plus minus total number
+
+00:06:44.655 --> 00:06:46.545
+of persons into change in average.
+
+00:06:46.815 --> 00:06:49.785
+Again, plus for increase,
+minus for decrease.
+
+00:06:50.085 --> 00:06:52.155
+These strict save precious exam time.
+
+00:06:52.575 --> 00:06:53.895
+Methods of solving.
+
+00:06:54.285 --> 00:06:58.365
+All right, let's dive into the how
+to of solving these average problems.
+
+00:06:58.695 --> 00:07:01.665
+We'll cover all the important
+and distinct approaches.
+
+00:07:02.085 --> 00:07:04.965
+First up, the direct
+formula application method.
+
+00:07:05.295 --> 00:07:06.765
+This is your bread and butter.
+
+00:07:07.035 --> 00:07:10.845
+You identify the given values,
+then simply substitute these known
+
+00:07:10.845 --> 00:07:14.655
+values into the basic average
+formula, or its rearranged forms.
+
+00:07:14.990 --> 00:07:19.040
+Finally, you perform the arithmetic
+operations to find your unknown.
+
+00:07:19.490 --> 00:07:23.270
+Next, we have the deviation
+method for changing averages.
+
+00:07:23.600 --> 00:07:26.720
+You assume a base average,
+perhaps the initial average
+
+00:07:26.750 --> 00:07:28.460
+or a convenient round number.
+
+00:07:28.820 --> 00:07:33.110
+Then calculate how much each
+observation or the new observation
+
+00:07:33.230 --> 00:07:35.150
+deviates from this assumed average.
+
+00:07:35.480 --> 00:07:37.010
+Some all these deviations.
+
+00:07:37.350 --> 00:07:40.740
+Divide the sum of deviations
+by the number of observations
+
+00:07:40.740 --> 00:07:42.450
+to find the average deviation.
+
+00:07:42.750 --> 00:07:46.110
+Finally, add this average
+deviation back to your assumed
+
+00:07:46.110 --> 00:07:47.880
+average to get the actual average.
+
+00:07:48.270 --> 00:07:52.380
+This method is super useful, especially
+when just a few values change.
+
+00:07:52.860 --> 00:07:55.860
+Then there's the reliable
+algebraic method.
+
+00:07:56.310 --> 00:08:01.980
+Here you represent your unknown values
+or averages using variables like good
+
+00:08:01.980 --> 00:08:08.159
+old X and y. You then formulate equations
+based on the information given always
+
+00:08:08.250 --> 00:08:10.530
+using the core definition of average.
+
+00:08:10.950 --> 00:08:16.109
+Finally, you solve the system of equations
+to find your required unknown values.
+
+00:08:16.530 --> 00:08:21.030
+This method, my friend, is robust
+and can handle even the trickiest
+
+00:08:21.030 --> 00:08:24.900
+problems involving multiple
+unknowns or complex relationships.
+
+00:08:26.025 --> 00:08:30.045
+And for when numbers get a bit too
+large to handle directly, we have the
+
+00:08:30.045 --> 00:08:32.415
+assumed average or shifting base method.
+
+00:08:32.835 --> 00:08:33.255
+Here.
+
+00:08:33.405 --> 00:08:36.765
+You pick any value within the
+range of your given observations
+
+00:08:36.915 --> 00:08:38.805
+and call it your assumed average.
+
+00:08:39.255 --> 00:08:43.755
+Then you calculate the difference,
+the deviation of each observation
+
+00:08:43.755 --> 00:08:45.135
+from this assumed average.
+
+00:08:45.500 --> 00:08:47.270
+Sum all these deviations.
+
+00:08:47.630 --> 00:08:51.560
+Divide the sum of deviations by
+the total number of observations.
+
+00:08:51.890 --> 00:08:56.599
+Finally, add this result to your assumed
+average to get the actual average.
+
+00:08:57.020 --> 00:09:00.500
+This method truly simplifies
+calculations when you are dealing
+
+00:09:00.500 --> 00:09:02.660
+with big, intimidating numbers.
+
+00:09:03.525 --> 00:09:05.445
+Shortcuts and smart techniques.
+
+00:09:05.745 --> 00:09:09.585
+Now for the golden nuggets, my
+friends, the time saving shortcuts
+
+00:09:09.585 --> 00:09:13.575
+and smart strategies tailored just
+for those exam time constraints.
+
+00:09:14.025 --> 00:09:16.515
+For the average of consecutive numbers.
+
+00:09:16.785 --> 00:09:21.675
+Remember this gem, if the numbers are
+consecutive, including even or odd ones,
+
+00:09:21.795 --> 00:09:24.075
+the average is simply the middle number.
+
+00:09:24.195 --> 00:09:25.665
+If the total count is odd.
+
+00:09:26.050 --> 00:09:30.820
+If the count is even, it's the average
+of the two middle numbers, even simpler.
+
+00:09:31.000 --> 00:09:33.670
+Always use first, plus last by two.
+
+00:09:33.790 --> 00:09:38.170
+This works like magic when dealing
+with additions or deletions.
+
+00:09:38.320 --> 00:09:40.600
+Forget recalculating the entire sum.
+
+00:09:40.840 --> 00:09:43.075
+Instead, embrace the
+change in sum concept.
+
+00:09:43.905 --> 00:09:48.915
+If a value X is added and the average
+changes by D, you can quickly find the new
+
+00:09:48.915 --> 00:09:51.555
+average by determining the net sum change.
+
+00:09:51.825 --> 00:09:56.925
+It's about working smarter, not harder
+for weighted average, using deviation.
+
+00:09:57.075 --> 00:10:01.515
+When combining groups instead of direct
+multiplication and division, think
+
+00:10:01.515 --> 00:10:06.165
+differently, consider the deviation of
+each group's average from the combined
+
+00:10:06.165 --> 00:10:08.685
+average or a smartly chosen base average.
+
+00:10:09.015 --> 00:10:11.385
+This can simplify your
+calculations immensely.
+
+00:10:12.270 --> 00:10:15.150
+And here's a neat one for
+fractions and multiples.
+
+00:10:15.600 --> 00:10:19.980
+If a question has fractions, for
+example, one third of friends consider
+
+00:10:19.980 --> 00:10:24.090
+assuming the total number of observations
+as a multiple of the denominator.
+
+00:10:24.450 --> 00:10:28.950
+This simple trick helps you avoid messy
+fractions in your intermediate steps.
+
+00:10:29.400 --> 00:10:33.870
+Finally, for multiple choice questions,
+try elimination based on range.
+
+00:10:34.310 --> 00:10:37.910
+Quickly check if the given options
+fall within a reasonable range.
+
+00:10:38.270 --> 00:10:42.680
+The average will always be between
+the smallest and largest observations.
+
+00:10:43.040 --> 00:10:46.370
+This can often help you
+instantly rule out wrong answers.
+
+00:10:46.550 --> 00:10:47.485
+A true time saver.
+
+00:10:48.854 --> 00:10:51.045
+Common mistakes and misconceptions.
+
+00:10:51.375 --> 00:10:56.025
+All right, listen, our friends, here are
+some common pitfalls and misconceptions
+
+00:10:56.145 --> 00:10:58.305
+that trip up even the brightest minds.
+
+00:10:58.545 --> 00:11:00.525
+Let's make sure you don't fall for them.
+
+00:11:00.915 --> 00:11:02.175
+The most common error.
+
+00:11:02.324 --> 00:11:04.484
+Forgetting to divide by total count.
+
+00:11:04.785 --> 00:11:09.135
+You calculate the sum, but then forget
+that crucial last step of dividing
+
+00:11:09.135 --> 00:11:10.935
+by the total number of observations.
+
+00:11:11.385 --> 00:11:16.875
+Next miscalculating some simple errors in
+addition, especially with large numbers
+
+00:11:16.875 --> 00:11:21.314
+or many observations, can unfortunately
+lead you straight to incorrect averages.
+
+00:11:21.915 --> 00:11:25.844
+A big one for speed problems
+incorrectly applying speed formula.
+
+00:11:26.145 --> 00:11:29.655
+Many friends tend to use the
+simple average of speeds like S
+
+00:11:29.655 --> 00:11:33.494
+one plus S two by two instead of
+the correct average speed formula.
+
+00:11:33.645 --> 00:11:35.655
+For varying distances or times.
+
+00:11:35.954 --> 00:11:38.744
+Remember, speed isn't
+always a simple average.
+
+00:11:39.210 --> 00:11:42.510
+Another classic is ignoring
+weights in weighted average.
+
+00:11:42.870 --> 00:11:46.230
+When different observations have
+different frequencies or importance,
+
+00:11:46.440 --> 00:11:50.580
+treating them all equally will lead
+you to an incorrect simple average when
+
+00:11:50.580 --> 00:11:55.560
+you should be using a weighted average
+and watch out for assuming arithmetic
+
+00:11:55.560 --> 00:11:57.510
+progression where there isn't one.
+
+00:11:58.065 --> 00:12:02.295
+Applying the first plus last by
+two trick for non-consecutive
+
+00:12:02.295 --> 00:12:06.525
+or non arithmetic progression
+numbers is a recipe for disaster.
+
+00:12:07.005 --> 00:12:11.325
+This shortcut, remember, works
+only for arithmetic progressions.
+
+00:12:12.015 --> 00:12:14.655
+Lastly, beware of rounding errors.
+
+00:12:15.225 --> 00:12:20.025
+Rounding, intermediate calculations
+too early can lead to inaccuracies
+
+00:12:20.025 --> 00:12:23.925
+in your final average, especially
+when dealing with decimals.
+
+00:12:24.435 --> 00:12:27.705
+Keep those decimals until
+the very end if possible.
+
+00:12:28.500 --> 00:12:30.270
+WH framework summary.
+
+00:12:30.810 --> 00:12:32.160
+Let's quickly summarize.
+
+00:12:32.220 --> 00:12:35.069
+Average using our favorite WH framework.
+
+00:12:35.610 --> 00:12:37.050
+So what is it?
+
+00:12:37.439 --> 00:12:41.550
+It's a central value representing
+a set of numbers, my friend.
+
+00:12:42.120 --> 00:12:43.680
+And why do we use it?
+
+00:12:44.069 --> 00:12:48.930
+To summarize data, compare different
+groups, and understand typical values.
+
+00:12:49.375 --> 00:12:50.515
+When is it applied?
+
+00:12:50.905 --> 00:12:54.685
+Whenever you need to analyze
+data, performance and trends,
+
+00:12:55.165 --> 00:12:56.305
+where can you find it?
+
+00:12:56.724 --> 00:13:01.405
+In statistics, finance, sports
+science, and yes, even in your
+
+00:13:01.405 --> 00:13:03.685
+everyday life, who uses it?
+
+00:13:04.104 --> 00:13:09.805
+Analysts, bankers, statisticians,
+researchers, and truly the general public.
+
+00:13:10.260 --> 00:13:15.745
+And how is it calculated By summing all
+observations and dividing by their count.
+
+00:13:15.925 --> 00:13:18.115
+Simple, effective, and elegant.
+
+00:13:18.720 --> 00:13:19.710
+Fully worked out.
+
+00:13:19.710 --> 00:13:20.400
+Examples.
+
+00:13:20.850 --> 00:13:22.949
+Time for some live action, my friends.
+
+00:13:23.069 --> 00:13:24.630
+Let's solve some problems.
+
+00:13:25.140 --> 00:13:29.069
+Example, one basic average
+calculation question.
+
+00:13:29.400 --> 00:13:36.569
+The marks obtained by five friends
+in a test are 75, 80, 65, 90, and 70.
+
+00:13:36.930 --> 00:13:39.074
+What is the average mark of the friends?
+
+00:13:39.709 --> 00:13:48.410
+Options, A 76 B 75 C, 78 D 80 t
+understand the question before.
+
+00:13:48.410 --> 00:13:51.589
+Moving to explanation,
+step by step solution.
+
+00:13:51.890 --> 00:13:53.300
+Step one, list.
+
+00:13:53.300 --> 00:13:55.189
+The Marx obtained by the friends.
+
+00:13:55.520 --> 00:14:01.130
+Marx is equal to 75 80, 65, 90, and 70.
+
+00:14:01.360 --> 00:14:05.380
+Step two, calculate the sum
+of all observations marks.
+
+00:14:05.680 --> 00:14:14.200
+Some is equal to 75 plus 80, plus 65
+plus 90 plus 70 some is equal to 380.
+
+00:14:14.500 --> 00:14:19.120
+Step three, count the number of
+observations, number of friends, number
+
+00:14:19.120 --> 00:14:21.160
+of observations is equal to five.
+
+00:14:21.460 --> 00:14:24.040
+Step four, apply the average formula.
+
+00:14:24.380 --> 00:14:29.210
+Average is equal to sum of observations
+divided by number of observations.
+
+00:14:29.510 --> 00:14:32.780
+Average is equal to 380 by five.
+
+00:14:33.080 --> 00:14:37.910
+Average is equal to 76,
+correct answer, a 76.
+
+00:14:38.475 --> 00:14:42.165
+Example two average
+after inclusion question.
+
+00:14:42.435 --> 00:14:46.005
+The average age of 10 friends
+in a class is 15 years.
+
+00:14:46.395 --> 00:14:50.895
+If a new friend joins the class, the
+average age increases to 16 years.
+
+00:14:51.285 --> 00:14:54.255
+What is the age of the new friend options?
+
+00:14:54.615 --> 00:14:59.324
+A 25 years B, 26 years C, 24 years.
+
+00:14:59.415 --> 00:15:00.795
+D, 27 years.
+
+00:15:01.295 --> 00:15:05.975
+Understand the question before moving
+to explanation, step-by-step solution.
+
+00:15:06.245 --> 00:15:10.085
+Step one, calculate the initial
+total age of 10 friends.
+
+00:15:10.475 --> 00:15:15.545
+Initial sum of ages is equal to initial
+average into initial number of friends.
+
+00:15:15.875 --> 00:15:20.645
+Initial sum is equal to 15
+into 10 is equal to 150 years.
+
+00:15:20.945 --> 00:15:25.145
+Step two, calculate the new total
+age after the new friend joins.
+
+00:15:25.510 --> 00:15:29.470
+New number of friends is equal
+to 10 plus one is equal to 11.
+
+00:15:29.890 --> 00:15:32.410
+New average age is equal to 16 years.
+
+00:15:32.830 --> 00:15:37.090
+New sum of ages is equal to new
+average into new number of friends.
+
+00:15:37.390 --> 00:15:42.280
+New sum is equal to 16 into 11
+is equal to hundred and 76 years.
+
+00:15:42.645 --> 00:15:45.435
+Step three, find the
+age of the new friend.
+
+00:15:45.795 --> 00:15:50.565
+Age of new friend is equal to new sum
+of ages, minus initial sum of ages.
+
+00:15:50.895 --> 00:15:53.715
+Age of new friend is equal to 1 76.
+
+00:15:53.745 --> 00:15:56.595
+Minus one 50 is equal to 26 years.
+
+00:15:56.955 --> 00:16:02.775
+Alternatively, using the shortcut value
+of new item is equal to new average plus
+
+00:16:02.895 --> 00:16:05.205
+number of original items into change.
+
+00:16:05.205 --> 00:16:09.880
+In average, change in average is equal
+to 16, minus 15 is equal to one year.
+
+00:16:10.520 --> 00:16:13.670
+Value of new friend is
+equal to 16 plus 10.
+
+00:16:13.850 --> 00:16:17.300
+Value of new friend is
+equal to 26 years, correct?
+
+00:16:17.300 --> 00:16:20.480
+Answer B. 26 years example.
+
+00:16:20.480 --> 00:16:20.900
+Three.
+
+00:16:21.140 --> 00:16:23.960
+Average of consecutive numbers question.
+
+00:16:24.170 --> 00:16:27.680
+The average of five
+consecutive odd numbers is 45.
+
+00:16:28.100 --> 00:16:31.040
+What is the smallest of
+these numbers options?
+
+00:16:31.670 --> 00:16:32.450
+A 39.
+
+00:16:32.750 --> 00:16:33.860
+B 41.
+
+00:16:34.040 --> 00:16:35.240
+C 43.
+
+00:16:35.360 --> 00:16:36.215
+D 47.
+
+00:16:36.935 --> 00:16:41.585
+Understand the question before moving
+to explanation, step-by-step solution.
+
+00:16:41.885 --> 00:16:45.725
+Step one, understand the property
+of consecutive odd numbers.
+
+00:16:46.205 --> 00:16:50.735
+Consecutive odd numbers form an
+arithmetic progression for an odd number
+
+00:16:50.735 --> 00:16:52.685
+of terms in an arithmetic progression.
+
+00:16:52.805 --> 00:16:54.575
+The average is the middle term.
+
+00:16:54.905 --> 00:16:58.385
+Step two, identify the
+average and number of terms.
+
+00:16:58.775 --> 00:17:00.605
+Average is equal to 45.
+
+00:17:00.935 --> 00:17:03.485
+Number of terms is equal to five odd.
+
+00:17:03.780 --> 00:17:07.860
+Step three, determine the middle
+term since there are five terms.
+
+00:17:07.950 --> 00:17:13.260
+The third term, middle term is the
+average, so the third odd number is 45.
+
+00:17:13.589 --> 00:17:16.140
+Step four, find the smallest odd number.
+
+00:17:16.530 --> 00:17:21.089
+The five consecutive odd numbers
+will be third term minus four, third
+
+00:17:21.089 --> 00:17:25.110
+term minus two, third term, third
+term plus two, third term plus four.
+
+00:17:25.660 --> 00:17:30.160
+Substituting the third term, 45,
+third term minus four, third term
+
+00:17:30.160 --> 00:17:38.050
+minus 2 45, third term plus two,
+third term plus 4 41, 43, 45, 47, 49.
+
+00:17:38.470 --> 00:17:40.420
+The smallest number is 41.
+
+00:17:40.780 --> 00:17:45.370
+Alternatively, using algebra,
+let the smallest odd number BX.
+
+00:17:45.730 --> 00:17:50.140
+The five consecutive odd
+numbers are XX plus two x plus
+
+00:17:50.140 --> 00:17:52.135
+four x plus six x plus eight.
+
+00:17:52.735 --> 00:17:56.754
+Some of these numbers is equal
+to x plus x plus two, plus x
+
+00:17:56.754 --> 00:17:58.435
+plus four, plus x plus six.
+
+00:17:58.435 --> 00:18:01.645
+Plus x plus eight is
+equal to five x plus 20.
+
+00:18:02.004 --> 00:18:05.845
+Average is equal to some of numbers
+divided by number of numbers.
+
+00:18:06.145 --> 00:18:09.294
+45 is equal to five x plus 20 by five.
+
+00:18:09.655 --> 00:18:11.725
+45 into five is equal to five.
+
+00:18:11.725 --> 00:18:13.135
+X plus 22.
+
+00:18:13.135 --> 00:18:16.074
+25 is equal to five x plus 22.
+
+00:18:16.074 --> 00:18:25.290
+25 minus 20 is equal to five x 205 is
+equal to five x. Five by five x 41.
+
+00:18:25.620 --> 00:18:27.750
+Correct answer B 41.
+
+00:18:28.139 --> 00:18:28.709
+Thank you.
+
+00:18:28.800 --> 00:18:30.064
+See you in the next lecture.
+

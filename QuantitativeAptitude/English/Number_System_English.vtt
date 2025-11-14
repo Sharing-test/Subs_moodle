@@ -1,0 +1,952 @@
+WEBVTT
+
+00:00:00.210 --> 00:00:03.720
+Welcome my friend to today's
+lecture on number system.
+
+00:00:04.200 --> 00:00:08.730
+Let's unpack the mystery of this
+concept without needing a PhD or a
+
+00:00:08.730 --> 00:00:10.890
+panic attack concept explanation.
+
+00:00:11.820 --> 00:00:14.340
+So what exactly is the number system?
+
+00:00:14.730 --> 00:00:19.680
+Well, it's basically a fancy way of
+representing and expressing numbers,
+
+00:00:19.950 --> 00:00:21.960
+like giving them names and addresses.
+
+00:00:21.960 --> 00:00:26.220
+You see, this foundational
+concept is the main pillar for
+
+00:00:26.220 --> 00:00:28.349
+all quantitative aptitude topics.
+
+00:00:28.900 --> 00:00:32.290
+Here, we'll dive deep into
+different types of numbers.
+
+00:00:32.470 --> 00:00:38.380
+Yes, your natural, whole integers,
+rational, irrational, and the real ones.
+
+00:00:38.770 --> 00:00:42.550
+Understanding their unique properties
+and learning the golden rules
+
+00:00:42.610 --> 00:00:48.100
+for operations like Divisibility
+factors, multiples at C-F-L-C-M,
+
+00:00:48.250 --> 00:00:50.350
+and even those pesky remainders.
+
+00:00:50.765 --> 00:00:55.475
+A solid grip on this topic helps you
+simplify calculations faster than you
+
+00:00:55.475 --> 00:01:00.425
+can say at CF, and solve numerical
+problems with absolute precision.
+
+00:01:00.755 --> 00:01:02.675
+No more pulling your hair out, my friends.
+
+00:01:03.125 --> 00:01:04.504
+Real world relevance.
+
+00:01:04.894 --> 00:01:08.450
+Now, why should an officer care
+about this simple, my friend?
+
+00:01:08.870 --> 00:01:13.580
+For an officer, a robust understanding
+of number systems is like having a
+
+00:01:13.580 --> 00:01:17.930
+superpower for accurate financial
+calculations and interpreting data.
+
+00:01:17.930 --> 00:01:22.730
+Like a pro, it helps you spot
+patterns in transaction data, ensuring
+
+00:01:22.820 --> 00:01:26.930
+your daily banking operations are
+numerically precise and error free.
+
+00:01:27.260 --> 00:01:28.430
+No room for Alta here.
+
+00:01:29.210 --> 00:01:34.670
+Breakdown of question types based on past
+patterns in your exam, we've identified
+
+00:01:34.670 --> 00:01:36.380
+some recurring question formats.
+
+00:01:36.744 --> 00:01:41.785
+About 30% of questions typically involve
+divisibility rules and remainders.
+
+00:01:42.085 --> 00:01:46.225
+Basically figuring out who divides
+home and what's left behind
+
+00:01:46.345 --> 00:01:48.024
+the arithmetic detective work.
+
+00:01:48.414 --> 00:01:53.484
+Then roughly 25% are all about
+SCF and LCM applications.
+
+00:01:53.604 --> 00:01:56.755
+Your highest common factor
+and least common multiple.
+
+00:01:56.875 --> 00:01:58.914
+The dynamic duo of number theory.
+
+00:01:59.390 --> 00:02:02.360
+Fractions and decimals make up about 15%.
+
+00:02:02.750 --> 00:02:04.760
+Don't let those dots
+and slashes scare you.
+
+00:02:04.760 --> 00:02:05.150
+Friends.
+
+00:02:05.270 --> 00:02:06.740
+They're not that complicated.
+
+00:02:06.830 --> 00:02:12.200
+Once you get the hang of it, another
+15% explores properties of numbers like
+
+00:02:12.200 --> 00:02:16.400
+whether a number is even or odd, prime
+or composite, rational or irrational.
+
+00:02:17.785 --> 00:02:22.464
+Then we have 10% dedicated to
+finding the unit digit of a large
+
+00:02:22.704 --> 00:02:26.214
+power or counting the number of
+zeros at the end of an expression.
+
+00:02:26.545 --> 00:02:29.125
+These are often quick wins
+if you know the tricks.
+
+00:02:29.454 --> 00:02:34.945
+Finally, a small but important 5% is
+on basic operations and simplification.
+
+00:02:35.154 --> 00:02:38.600
+Direct arithmetic, no drama,
+just pure calculation.
+
+00:02:39.190 --> 00:02:40.660
+Formulas plus tricks.
+
+00:02:41.049 --> 00:02:45.070
+All right, let's talk about the
+secret sauce, the formulas plus tricks
+
+00:02:45.130 --> 00:02:47.019
+that will make your life easier.
+
+00:02:47.320 --> 00:02:53.210
+First up, master your Divisibility
+rules for 2, 3, 4, 5, 6, 7,
+
+00:02:53.210 --> 00:02:56.799
+8, 9, 10, 11, 12, and so on.
+
+00:02:57.130 --> 00:02:59.829
+For instance, a number
+is divisible by three.
+
+00:02:59.950 --> 00:03:03.940
+If the sum of its digits is divisible
+by three, a real time saver.
+
+00:03:04.245 --> 00:03:09.045
+Remember the golden ET c, F and LCM
+relationship for any two numbers,
+
+00:03:09.105 --> 00:03:13.515
+say A and B. Their product is always
+equal to the product of their et.
+
+00:03:13.515 --> 00:03:14.835
+C, F and LCM.
+
+00:03:15.075 --> 00:03:22.065
+That's A multiplied by B equals et CF of
+A and B multiplied by LCM of A and B. Then
+
+00:03:22.070 --> 00:03:27.135
+we have prime factorization breaking down
+a number into its prying building blocks
+
+00:03:27.165 --> 00:03:30.045
+to find ET C-F-L-C-M or other properties.
+
+00:03:30.195 --> 00:03:31.845
+It's like DNA for numbers.
+
+00:03:32.185 --> 00:03:36.565
+For unit digit problems, understand
+the cyclicity, how the unit digits
+
+00:03:36.565 --> 00:03:37.975
+repeat themselves in a cycle.
+
+00:03:37.975 --> 00:03:41.364
+For powers like the unit
+digits of powers of two.
+
+00:03:41.510 --> 00:03:41.730
+Two.
+
+00:03:41.845 --> 00:03:42.834
+Race to the power one.
+
+00:03:43.225 --> 00:03:43.285
+Two.
+
+00:03:43.285 --> 00:03:43.945
+Race to the power.
+
+00:03:43.989 --> 00:03:44.209
+Two.
+
+00:03:44.394 --> 00:03:44.545
+Two.
+
+00:03:44.545 --> 00:03:45.325
+Race to the power.
+
+00:03:45.325 --> 00:03:46.045
+Three, two.
+
+00:03:46.045 --> 00:03:47.454
+Race to the power four, two.
+
+00:03:47.454 --> 00:03:49.345
+Race to the power five, and so on.
+
+00:03:49.555 --> 00:03:49.885
+Go.
+
+00:03:49.885 --> 00:03:54.805
+2, 4, 8, 6, 2. So the Cyclicity is four.
+
+00:03:55.165 --> 00:03:59.245
+When finding the number of zeros at the
+end of an expression, you essentially
+
+00:03:59.245 --> 00:04:03.115
+count how many pairs of two cross five
+are present in its prime factorization.
+
+00:04:03.325 --> 00:04:08.065
+Usually this is dictated by the number of
+fives because twos are just everywhere.
+
+00:04:08.425 --> 00:04:13.465
+And for remainder theorem basics, just
+remember when a number N is divided
+
+00:04:13.465 --> 00:04:18.954
+by a device D. N can be written as
+Q times D plus R, where Q is the
+
+00:04:18.954 --> 00:04:20.904
+quotient, and R is the remainder.
+
+00:04:21.144 --> 00:04:25.945
+And R must always be greater than or
+equal to zero, but strictly less than D.
+
+00:04:26.275 --> 00:04:30.025
+Finally, my friend, don't confuse
+face value and place value.
+
+00:04:30.325 --> 00:04:33.475
+Face value is just the digit
+itself, plain and simple.
+
+00:04:33.745 --> 00:04:37.705
+But place value, ah, that depends
+on where it's sitting in the number.
+
+00:04:37.855 --> 00:04:40.105
+Its position, its AKA you could say.
+
+00:04:40.455 --> 00:04:41.685
+Methods of solving.
+
+00:04:42.015 --> 00:04:44.295
+Now how do we tackle these problems?
+
+00:04:44.565 --> 00:04:47.085
+Let's talk about the methods
+of solving my friends.
+
+00:04:47.295 --> 00:04:50.475
+The prime factorization
+method is your versatile tool.
+
+00:04:50.655 --> 00:04:52.455
+Like a Swiss Army number system.
+
+00:04:52.695 --> 00:04:56.355
+You decompose numbers into their
+prime factors to determine ET
+
+00:04:56.355 --> 00:04:59.175
+C-F-L-C-M and to analyze divisibility.
+
+00:04:59.595 --> 00:05:03.225
+This method is genuinely versatile
+for many number system problems.
+
+00:05:03.315 --> 00:05:03.915
+Trust me.
+
+00:05:04.215 --> 00:05:07.215
+Then there's the division
+method for ET CF and LCM.
+
+00:05:07.515 --> 00:05:11.865
+Use successive division for ET CF,
+also known as the Euclidean algorithm.
+
+00:05:11.955 --> 00:05:13.125
+Sounds fancy, right?
+
+00:05:13.515 --> 00:05:18.705
+And simultaneous division for LCM for
+remainder method apply basic remainder
+
+00:05:18.705 --> 00:05:23.925
+properties like the remainder of A plus
+B by N is the sum of remainders of A by
+
+00:05:23.925 --> 00:05:26.775
+N and B by N. It's like magic almost.
+
+00:05:27.435 --> 00:05:30.105
+Or use advanced remainder
+theorems for more complex
+
+00:05:30.105 --> 00:05:31.310
+problems when things get tricky.
+
+00:05:31.980 --> 00:05:34.260
+Pattern recognition
+for unit digits is key.
+
+00:05:34.560 --> 00:05:37.740
+Observe the repeating pattern
+of unit digits for powers of a
+
+00:05:37.740 --> 00:05:41.490
+number to quickly find the unit
+digit of large powers saving you.
+
+00:05:41.490 --> 00:05:42.660
+Precious exam time.
+
+00:05:42.990 --> 00:05:45.150
+Counting factors simple as chi.
+
+00:05:45.360 --> 00:05:49.590
+Just add one to each exponent in the
+prime factorization and multiply them.
+
+00:05:49.800 --> 00:05:54.660
+For example, if N is equal to P, race to
+the power A times Q, race to the power.
+
+00:05:54.660 --> 00:05:58.950
+B. The number of factors is a
+plus one multiplied by B plus one.
+
+00:05:59.260 --> 00:06:03.280
+And for Divisibility by three and
+nine, use the sum of digits method.
+
+00:06:03.609 --> 00:06:06.640
+Repeatedly sum the digits until
+a single digit is obtained.
+
+00:06:06.820 --> 00:06:10.000
+If it's three, six, or nine,
+it's divisible by three.
+
+00:06:10.180 --> 00:06:12.280
+If it's nine, it's divisible by nine.
+
+00:06:12.400 --> 00:06:14.830
+Simple arithmetic, great results, right?
+
+00:06:15.340 --> 00:06:20.680
+Shortcuts plus smart techniques, time
+for the shortcuts, plus smart techniques
+
+00:06:20.770 --> 00:06:22.750
+that will make you a number ninja.
+
+00:06:23.295 --> 00:06:27.045
+Ever heard of negative remainders
+for faster calculation?
+
+00:06:27.195 --> 00:06:31.935
+Sometimes using a negative remainder,
+for example, seven divided by
+
+00:06:31.935 --> 00:06:33.525
+eight has remained a seven.
+
+00:06:33.795 --> 00:06:38.085
+Or you can think of it as
+minus one can simplify larger
+
+00:06:38.085 --> 00:06:40.034
+calculations significantly.
+
+00:06:40.335 --> 00:06:41.895
+It's a real brain hack.
+
+00:06:42.430 --> 00:06:47.620
+For LCM of fractions, remember
+it's the LCM of numerator divided
+
+00:06:47.620 --> 00:06:49.990
+by the et CF of denominators.
+
+00:06:50.410 --> 00:06:55.090
+And for et CF of fractions, it's
+the et CF of numerator divided
+
+00:06:55.090 --> 00:06:57.250
+by the LCM of denominators.
+
+00:06:57.615 --> 00:06:58.995
+Just flip the logic.
+
+00:06:59.025 --> 00:07:01.545
+See approximation and options.
+
+00:07:01.545 --> 00:07:05.985
+Elimination is a lifesaver
+for problems involving large
+
+00:07:05.985 --> 00:07:07.844
+numbers or complex expressions.
+
+00:07:08.025 --> 00:07:13.125
+Use divisibility rules or unit digit
+concept to smartly eliminate options
+
+00:07:13.245 --> 00:07:15.284
+without doing the full calculation.
+
+00:07:15.710 --> 00:07:21.170
+Cyclicity of unit digits is something
+you should almost memorize or quickly
+
+00:07:21.170 --> 00:07:23.390
+deduce the patterns for common digits.
+
+00:07:23.720 --> 00:07:29.030
+0 1 5 6. Always have the same
+unit digit, predictable hair.
+
+00:07:29.420 --> 00:07:30.380
+Four and nine.
+
+00:07:30.470 --> 00:07:34.610
+Have a cyclicity of two and 2, 3, 7, 8.
+
+00:07:34.760 --> 00:07:36.015
+Have a cyclicity of four.
+
+00:07:36.655 --> 00:07:38.604
+Then we have some classic sums.
+
+00:07:38.905 --> 00:07:45.414
+Sum of first N natural numbers is N
+into n plus one by two sum of squares
+
+00:07:45.414 --> 00:07:51.505
+of first N. Natural numbers is N into
+N plus one into two N plus one by six.
+
+00:07:51.805 --> 00:07:57.925
+And the sum of cubes of first N natural
+numbers is N to n plus one by two.
+
+00:07:57.985 --> 00:07:58.855
+Hold squared.
+
+00:07:59.245 --> 00:08:00.895
+Keep these in your back pocket.
+
+00:08:02.085 --> 00:08:04.185
+Common mistakes and misconceptions.
+
+00:08:04.605 --> 00:08:08.505
+Now let's talk about the common
+mistakes and misconceptions
+
+00:08:08.625 --> 00:08:10.215
+that drip up many friends.
+
+00:08:10.425 --> 00:08:12.045
+First, confusing ET.
+
+00:08:12.045 --> 00:08:18.495
+CF and LCM incorrectly applying the logic
+of et CF instead of LCM and vice versa,
+
+00:08:18.795 --> 00:08:23.330
+thinking they are interchangeable, like
+two sides of a coin, which they are not.
+
+00:08:23.990 --> 00:08:29.130
+The divisibility rule for seven oh, this
+one is often complex and prone to errors.
+
+00:08:29.730 --> 00:08:32.370
+So many friends avoid it or misapply it.
+
+00:08:32.669 --> 00:08:33.720
+Be careful here.
+
+00:08:33.900 --> 00:08:38.700
+Sometimes it's faster to just
+divide remainder versus quotient.
+
+00:08:39.060 --> 00:08:42.840
+Confusing these two terms or
+misinterpreting the remainder theorem.
+
+00:08:43.169 --> 00:08:45.420
+Remember, remainder is what's left.
+
+00:08:45.630 --> 00:08:47.970
+Quotient is how many times it went in.
+
+00:08:48.449 --> 00:08:52.410
+Incorrectly applying Cyclicity,
+forgetting to adjust the power
+
+00:08:52.530 --> 00:08:54.180
+by dividing the cyclicity.
+
+00:08:54.420 --> 00:09:00.000
+For example, for two race to 13, it's
+13 divided by four, gives a remainder
+
+00:09:00.000 --> 00:09:05.204
+of one, so the unit digit is two, race
+to one, not two, race to 13 itself.
+
+00:09:05.930 --> 00:09:10.949
+Assuming prime numbers, mistaking
+composite numbers like 1, 9,
+
+00:09:10.950 --> 00:09:15.050
+25, et cetera for prime numbers
+without proper verification.
+
+00:09:15.410 --> 00:09:16.940
+And a very important note.
+
+00:09:17.300 --> 00:09:19.730
+One is neither prime nor composite.
+
+00:09:19.970 --> 00:09:24.140
+It's a special number like that one
+unique relative in every family.
+
+00:09:24.590 --> 00:09:29.030
+Then there are errors with fractions
+and decimals, basic calculation errors
+
+00:09:29.180 --> 00:09:33.135
+when adding, subtracting, multiplying,
+or dividing fractions and decimals.
+
+00:09:33.765 --> 00:09:35.175
+These are silly mistakes.
+
+00:09:35.325 --> 00:09:36.105
+Avoid them.
+
+00:09:36.465 --> 00:09:38.895
+And finally, not considering zero.
+
+00:09:39.195 --> 00:09:44.175
+Forgetting that zero is a whole number,
+an integer, and a rational number, or
+
+00:09:44.175 --> 00:09:46.575
+its specific properties in operations.
+
+00:09:46.845 --> 00:09:48.795
+Zero has its own personality.
+
+00:09:48.795 --> 00:09:49.215
+You see?
+
+00:09:50.340 --> 00:09:51.990
+WH framework summary.
+
+00:09:52.500 --> 00:09:57.180
+To quickly summarize with our WH
+framework, just like a quick recap before
+
+00:09:57.180 --> 00:09:59.850
+the main movie, what is the number system?
+
+00:10:00.180 --> 00:10:04.230
+It's simply the classification
+properties and operations of
+
+00:10:04.230 --> 00:10:05.670
+different types of numbers.
+
+00:10:06.030 --> 00:10:07.260
+Why do we learn it?
+
+00:10:07.590 --> 00:10:11.070
+Because it forms the fundamental
+building block for all
+
+00:10:11.070 --> 00:10:12.930
+quantitative aptitude problems.
+
+00:10:13.170 --> 00:10:16.620
+You can't build a strong house
+without a strong foundation, right?
+
+00:10:17.045 --> 00:10:21.155
+When is it applied in virtually
+all numerical problem solving
+
+00:10:21.155 --> 00:10:22.745
+contexts in your exams?
+
+00:10:23.105 --> 00:10:25.145
+Where is its real world relevance?
+
+00:10:25.475 --> 00:10:29.405
+It's the basis of data analysis,
+financial calculations, and
+
+00:10:29.405 --> 00:10:33.095
+logical reasoning in daily life,
+everywhere numbers are involved.
+
+00:10:33.455 --> 00:10:34.865
+Who needs to know this?
+
+00:10:35.045 --> 00:10:40.715
+Well, friends, bankers, data analysts, and
+truly anyone dealing with numerical data.
+
+00:10:40.895 --> 00:10:42.485
+And how do you master it?
+
+00:10:42.845 --> 00:10:47.165
+By understanding number types,
+divisibility rules, H-C-F-L-C-M,
+
+00:10:47.375 --> 00:10:48.515
+and remainder theorem.
+
+00:10:48.725 --> 00:10:49.175
+Got it.
+
+00:10:50.345 --> 00:10:51.334
+Fully worked out.
+
+00:10:51.334 --> 00:10:56.735
+Examples Now for the exciting
+part, fully worked out examples.
+
+00:10:57.245 --> 00:10:59.975
+Let's see how all this
+theory comes to life.
+
+00:11:00.645 --> 00:11:04.485
+Example one Divisibility rule question.
+
+00:11:05.025 --> 00:11:10.395
+If the number 4, 2, 5, 7 3 star
+is divisible by three, what
+
+00:11:10.395 --> 00:11:14.714
+is the smallest digit that can
+replace the asterisk options?
+
+00:11:15.074 --> 00:11:17.474
+A zero B one.
+
+00:11:17.685 --> 00:11:23.625
+C 2D three understand the question
+before moving to explanation.
+
+00:11:24.405 --> 00:11:27.255
+Step-by-step solution
+with detailed explanation.
+
+00:11:27.645 --> 00:11:31.095
+Step one, recall the
+divisibility rule for three.
+
+00:11:31.635 --> 00:11:33.375
+A number is divisible by three.
+
+00:11:33.645 --> 00:11:38.355
+If the sum of its digits is
+divisible by three, step two, sum
+
+00:11:38.355 --> 00:11:40.005
+the known digits of the given number.
+
+00:11:40.685 --> 00:11:45.605
+Sum of known digits equals
+four plus two, plus five, plus
+
+00:11:45.605 --> 00:11:48.305
+seven plus three, which is 21.
+
+00:11:48.725 --> 00:11:53.825
+Step three, add the missing digit
+represented by the asterisk to the sum.
+
+00:11:54.335 --> 00:11:57.665
+The total sum will be 21 plus asterisk.
+
+00:11:58.040 --> 00:12:02.180
+Step four, find the smallest
+digit for asterisk that makes
+
+00:12:02.180 --> 00:12:04.160
+the total sum divisible by three.
+
+00:12:04.670 --> 00:12:08.180
+We need 21 plus asterisk
+to be a multiple of three.
+
+00:12:08.660 --> 00:12:15.260
+If asterisk is zero sum equals
+21 plus zero, which is 21 and 21
+
+00:12:15.260 --> 00:12:17.060
+is perfectly divisible by three.
+
+00:12:17.480 --> 00:12:20.600
+Since we are looking for the
+smallest digit, zero is a
+
+00:12:20.600 --> 00:12:21.995
+definite possible candidate.
+
+00:12:22.625 --> 00:12:24.155
+Example two ET.
+
+00:12:24.155 --> 00:12:27.005
+CF and LCM application question.
+
+00:12:27.485 --> 00:12:32.105
+The ET CF of two numbers is
+12, and their LCM is 360.
+
+00:12:32.615 --> 00:12:36.965
+If one of the numbers is 60,
+what is the other number Options?
+
+00:12:37.265 --> 00:12:41.705
+A 72 B 84 C 96.
+
+00:12:41.855 --> 00:12:43.085
+D 1 0 8.
+
+00:12:43.745 --> 00:12:46.745
+Understand the question
+before moving to explanation.
+
+00:12:47.405 --> 00:12:49.805
+Step-by-step solution
+with detailed explanation.
+
+00:12:50.475 --> 00:12:55.515
+Step one, recall the relationship
+between ET C-F-L-C-M and two
+
+00:12:55.515 --> 00:12:57.855
+numbers for any two numbers.
+
+00:12:58.005 --> 00:13:01.455
+The product of the numbers is
+equal to the product of their ET.
+
+00:13:01.455 --> 00:13:02.685
+CF and LCM.
+
+00:13:02.985 --> 00:13:07.545
+So product of numbers equals
+ET CF multiplied by LCM.
+
+00:13:07.845 --> 00:13:10.665
+Step two, identify the given values.
+
+00:13:11.025 --> 00:13:12.255
+HCF is 12.
+
+00:13:12.615 --> 00:13:15.795
+LCM is 360 1 number is 60.
+
+00:13:16.155 --> 00:13:20.850
+Let the other number be x. Step
+three, set up the equation using
+
+00:13:20.850 --> 00:13:26.219
+the formula 60 multiplied by
+X equals 12 multiplied by 360.
+
+00:13:26.579 --> 00:13:31.589
+Step four, solve for the
+unknown Number x. X equals 12
+
+00:13:31.589 --> 00:13:34.319
+multiplied by 360 divided by 60.
+
+00:13:34.800 --> 00:13:41.040
+This simplifies two x equals 12
+multiplied by 360 divided by 60, and
+
+00:13:41.250 --> 00:13:47.055
+360 divided by 60 is exactly six,
+so x equals 12 multiplied by six.
+
+00:13:47.604 --> 00:13:51.115
+Which gives us X equals
+72, correct answer.
+
+00:13:51.115 --> 00:13:56.185
+A 72 Example, three unit digit question.
+
+00:13:56.665 --> 00:14:00.984
+What is the unit digit of
+seven to the power 105 Options.
+
+00:14:01.255 --> 00:14:05.995
+A one B three C seven D nine.
+
+00:14:06.564 --> 00:14:09.474
+Understand the question
+before moving to explanation.
+
+00:14:10.104 --> 00:14:12.805
+Step-by-step solution
+with detailed explanation.
+
+00:14:13.135 --> 00:14:13.495
+Step one.
+
+00:14:14.390 --> 00:14:17.390
+Determine the cyclicity of
+the unit digit of seven.
+
+00:14:17.990 --> 00:14:20.930
+Look at the unit digits of
+the first few powers of seven.
+
+00:14:21.140 --> 00:14:27.620
+Seven to the power one is seven seven to
+the power two is 49, so the unit digit
+
+00:14:27.620 --> 00:14:31.490
+is nine seven to the power three is 343.
+
+00:14:31.730 --> 00:14:36.230
+Unit digit is three seven
+to the power four is 2,400.
+
+00:14:36.230 --> 00:14:36.530
+One.
+
+00:14:36.710 --> 00:14:39.405
+Unit digit is one seven to the power five.
+
+00:14:39.925 --> 00:14:41.605
+Is 1, 6, 8, 0, 7.
+
+00:14:41.755 --> 00:14:42.985
+Unit digit is seven.
+
+00:14:43.495 --> 00:14:46.255
+The unit digits repeat
+in a clear cycle of four.
+
+00:14:46.405 --> 00:14:51.565
+That is 7, 9, 3, 1, so
+the cyclicity is four.
+
+00:14:51.835 --> 00:14:54.955
+Step two, divide the
+power by the cyclicity.
+
+00:14:55.465 --> 00:14:57.355
+The given power is 105.
+
+00:14:57.625 --> 00:14:59.605
+Divide 105 by four.
+
+00:15:00.115 --> 00:15:06.295
+When you divide 105 by four, you get four
+multiplied by 26 plus a remainder of one.
+
+00:15:06.595 --> 00:15:08.785
+Yes, the remainder is indeed one.
+
+00:15:09.100 --> 00:15:12.550
+Step three, use the remainder
+to find the unit digit.
+
+00:15:13.120 --> 00:15:18.730
+The unit digit of seven to the power 105
+will be exactly the same as the unit digit
+
+00:15:18.730 --> 00:15:24.040
+of seven to the power one because our
+remainder was one and the unit digit of
+
+00:15:24.040 --> 00:15:26.500
+seven to the power one is naturally seven.
+
+00:15:27.130 --> 00:15:29.290
+Correct answer C seven.
+
+00:15:29.830 --> 00:15:30.400
+Thank you.
+
+00:15:30.610 --> 00:15:32.050
+See you in the next lecture.
+

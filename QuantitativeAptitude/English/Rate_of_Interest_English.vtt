@@ -1,0 +1,730 @@
+WEBVTT
+
+00:00:00.210 --> 00:00:03.930
+Welcome my friend to today's
+lecture on rate of interest.
+
+00:00:04.410 --> 00:00:09.180
+Let's unpack the mystery of this concept
+without needing a PhD or a panic attack.
+
+00:00:10.650 --> 00:00:12.060
+Concept explanation.
+
+00:00:12.780 --> 00:00:15.180
+So what is this rate of interest?
+
+00:00:15.180 --> 00:00:18.630
+Really think of it as
+the price tag on money.
+
+00:00:19.140 --> 00:00:22.200
+It's the percentage that
+money grows by over time.
+
+00:00:22.710 --> 00:00:25.200
+When you lend money,
+you earn this interest.
+
+00:00:25.410 --> 00:00:27.990
+And when you borrow
+well, you have to pay it.
+
+00:00:28.140 --> 00:00:29.160
+Simple as that.
+
+00:00:29.815 --> 00:00:32.725
+Now there are two main
+characters in this story.
+
+00:00:33.115 --> 00:00:35.815
+First is simple interest or si.
+
+00:00:36.205 --> 00:00:37.825
+This one is straightforward.
+
+00:00:38.185 --> 00:00:42.745
+It's calculated only on the initial
+amount you borrowed or invested,
+
+00:00:42.895 --> 00:00:44.515
+which we call the principle.
+
+00:00:44.905 --> 00:00:45.955
+The interest earned.
+
+00:00:45.985 --> 00:00:47.455
+Each year is the same.
+
+00:00:47.575 --> 00:00:48.475
+No drama.
+
+00:00:48.880 --> 00:00:53.695
+It doesn't compound, meaning the interest
+you earned last year doesn't start
+
+00:00:53.695 --> 00:00:55.465
+earning its own interest this year.
+
+00:00:55.835 --> 00:00:59.315
+For this, we have the principle
+or P, the starting money.
+
+00:00:59.645 --> 00:01:03.515
+The rate R is the percentage
+per year and time.
+
+00:01:03.635 --> 00:01:05.045
+T is the duration.
+
+00:01:05.105 --> 00:01:10.655
+In years the final amount A is just
+your principle plus all the interest.
+
+00:01:11.400 --> 00:01:15.990
+Then comes the more exciting
+character, compound interest or ci.
+
+00:01:16.350 --> 00:01:18.300
+This is where the magic happens.
+
+00:01:18.630 --> 00:01:23.610
+It's calculated on the principle and on
+the interest that has already piled up.
+
+00:01:23.970 --> 00:01:26.280
+It's literally interest on interest.
+
+00:01:26.580 --> 00:01:29.880
+This means the money
+grows faster and faster.
+
+00:01:30.240 --> 00:01:33.750
+The frequency of this magic is
+called the compounding period.
+
+00:01:34.020 --> 00:01:37.560
+It could be yearly, half
+yearly, quarterly, you name it.
+
+00:01:38.205 --> 00:01:39.645
+Real world relevance.
+
+00:01:40.065 --> 00:01:41.835
+Now, why should you care?
+
+00:01:42.164 --> 00:01:46.035
+Because understanding rate of
+interest is absolutely crucial
+
+00:01:46.035 --> 00:01:47.595
+for many professional roles.
+
+00:01:47.925 --> 00:01:52.274
+It's the backbone of calculating
+loan emis, figuring out returns
+
+00:01:52.274 --> 00:01:56.115
+on deposits, and pricing, all
+sorts of financial products.
+
+00:01:56.445 --> 00:01:59.985
+Getting this right means giving
+customers accurate advice
+
+00:02:00.134 --> 00:02:01.664
+and ensuring profitability.
+
+00:02:02.285 --> 00:02:06.635
+It helps you judge the cost of borrowing
+and the potential of investments,
+
+00:02:06.725 --> 00:02:11.555
+which is fundamental to any financial
+operation breakdown of question
+
+00:02:11.555 --> 00:02:14.315
+types based on patterns in your exam.
+
+00:02:14.435 --> 00:02:17.555
+Let's break down the types
+of questions you likely face.
+
+00:02:17.915 --> 00:02:22.775
+About 30% of the problems are based
+on simple interest, asking you to find
+
+00:02:22.895 --> 00:02:28.145
+SI principle rate or time, or maybe
+juggling multiple sums at different rates.
+
+00:02:29.080 --> 00:02:34.090
+Another 30% are dedicated to compound
+interest problems where you'll be finding
+
+00:02:34.540 --> 00:02:37.150
+CI principle rate or the final amount.
+
+00:02:37.390 --> 00:02:41.140
+Often with tricky compounding periods
+like half yearly or quarterly.
+
+00:02:41.530 --> 00:02:45.910
+Then about 20% of questions love to
+pit these two against each other.
+
+00:02:46.170 --> 00:02:50.400
+Asking for the difference between
+SI and CI for two or three years.
+
+00:02:50.820 --> 00:02:53.010
+The remaining 20% is a mix.
+
+00:02:53.250 --> 00:02:58.650
+You'll get some questions on installments,
+both SI and CI based, and some advanced
+
+00:02:58.650 --> 00:03:00.420
+problems that combine concepts.
+
+00:03:00.600 --> 00:03:03.915
+So a bit of everything,
+formulas and tricks.
+
+00:03:04.755 --> 00:03:08.295
+All right, let's get to the
+secret weapons, the formulas
+
+00:03:08.295 --> 00:03:10.695
+and tricks for simple interest.
+
+00:03:10.815 --> 00:03:15.795
+The bread and butter formula
+is si equals p times R, times
+
+00:03:15.795 --> 00:03:17.745
+T, all divided by a hundred.
+
+00:03:18.195 --> 00:03:20.985
+The final amount is simply principle plus.
+
+00:03:20.985 --> 00:03:21.045
+Si.
+
+00:03:22.065 --> 00:03:27.105
+For compound interest, the
+amount A is P times one plus R
+
+00:03:27.105 --> 00:03:29.145
+by a hundred to the power of T.
+
+00:03:29.565 --> 00:03:31.485
+This is for annual compounding.
+
+00:03:31.905 --> 00:03:35.025
+The interest is then
+amount minus principle.
+
+00:03:35.475 --> 00:03:40.215
+If they say compounded half yearly,
+just half the rate and double the time.
+
+00:03:40.485 --> 00:03:45.785
+So the rate becomes R by two and
+time becomes two t. For quarterly.
+
+00:03:45.935 --> 00:03:48.065
+It's R by four and 40.
+
+00:03:48.515 --> 00:03:53.975
+Now for some nifty tricks, the difference
+between CI and SI for two years is
+
+00:03:54.065 --> 00:03:58.955
+P times R by a hundred squared For
+three years, it's that same formula
+
+00:03:59.045 --> 00:04:01.345
+multiplied by three plus R by a hundred.
+
+00:04:02.350 --> 00:04:07.810
+If a sum doubles in N years at si, the
+rate is simply a hundred divided by N.
+
+00:04:08.380 --> 00:04:14.050
+And if a sum becomes X times in N years
+at ci, it becomes four times in two
+
+00:04:14.050 --> 00:04:17.260
+Ns, eight times in three Ns, and so on.
+
+00:04:17.680 --> 00:04:18.760
+Keep these handy.
+
+00:04:19.305 --> 00:04:20.505
+Methods of solving.
+
+00:04:20.925 --> 00:04:23.385
+So how do you actually
+attack these problems?
+
+00:04:23.745 --> 00:04:27.315
+For simple interest, it's mostly
+direct formula application.
+
+00:04:27.735 --> 00:04:32.805
+Identify what's given, plug the values
+into the SI formula and find the unknown.
+
+00:04:33.164 --> 00:04:35.355
+Just make sure your time is in years.
+
+00:04:35.745 --> 00:04:38.985
+If something else is unknown,
+just rearrange the formula.
+
+00:04:39.315 --> 00:04:46.560
+For example, rate is SI times a
+hundred divided by P times t. For
+
+00:04:46.560 --> 00:04:52.890
+compound interest, you can again use
+the direct formula, identify PRT, and
+
+00:04:52.890 --> 00:04:57.090
+plug them into the amount formula,
+adjusting for the compounding period.
+
+00:04:57.510 --> 00:05:01.175
+Calculate the amount first, then
+subtract the principle to get the ci.
+
+00:05:02.080 --> 00:05:05.620
+For shorter time periods, you can
+do a year by year calculation.
+
+00:05:06.010 --> 00:05:09.730
+Calculate interest for year one,
+add it to the principle, and then
+
+00:05:09.730 --> 00:05:13.150
+calculate year two's interest
+on this new larger principle.
+
+00:05:13.570 --> 00:05:16.390
+This really helps you understand
+the compounding effect.
+
+00:05:16.810 --> 00:05:19.840
+You can also use the effective
+rate method for a couple of
+
+00:05:19.840 --> 00:05:21.880
+years, which can be a bit faster.
+
+00:05:22.360 --> 00:05:24.220
+Shortcuts and smart techniques.
+
+00:05:24.585 --> 00:05:26.445
+Want to solve things even faster.
+
+00:05:26.865 --> 00:05:30.885
+Use the percentage method for
+CI for two years at 10% ci.
+
+00:05:31.245 --> 00:05:36.675
+Year one interest is 10% of P.
+Year two interest is 10% of p plus
+
+00:05:36.675 --> 00:05:38.655
+10% of that first year's interest.
+
+00:05:38.985 --> 00:05:43.580
+So it's 10% plus 11%
+equals 21% of P total.
+
+00:05:44.280 --> 00:05:47.130
+The ratio method is also
+great for two years.
+
+00:05:47.130 --> 00:05:51.240
+At R percent, the ratio of principle
+to amount is a hundred squared
+
+00:05:51.390 --> 00:05:52.979
+to a hundred plus R squared.
+
+00:05:53.460 --> 00:05:56.820
+Then there's the tree method,
+which is a visual way to see the
+
+00:05:56.820 --> 00:06:00.599
+interest buildup perfect for finding
+the difference between SI and ci.
+
+00:06:01.474 --> 00:06:05.555
+And always remember to adjust the rate
+and time for different compounding
+
+00:06:05.555 --> 00:06:10.414
+periods, creating a new, effective rate,
+common mistakes and misconceptions.
+
+00:06:10.745 --> 00:06:12.065
+All right, listen up.
+
+00:06:12.215 --> 00:06:13.685
+Here are the common traps.
+
+00:06:13.955 --> 00:06:15.875
+First time unit conversion.
+
+00:06:16.174 --> 00:06:19.835
+Forgetting to change months or days
+into years is a classic blunder.
+
+00:06:20.195 --> 00:06:22.115
+Second misinterpreting the rate.
+
+00:06:22.474 --> 00:06:26.315
+The formulas use R as a
+number, like five for 5%.
+
+00:06:26.525 --> 00:06:30.094
+Don't write 0.05 unless
+you change the formula.
+
+00:06:30.565 --> 00:06:32.965
+Third confusing SI and ci.
+
+00:06:33.175 --> 00:06:35.695
+Don't use the wrong formula
+for the wrong problem.
+
+00:06:36.115 --> 00:06:39.984
+Also, people often mess up the
+compounding period adjustment, not
+
+00:06:39.984 --> 00:06:44.455
+changing our anti T correctly, and
+of course, simple calculation errors,
+
+00:06:44.604 --> 00:06:48.745
+rounding numbers too early and confusing
+the principle with the final amount.
+
+00:06:48.924 --> 00:06:50.455
+Are mistakes waiting to happen?
+
+00:06:50.875 --> 00:06:55.854
+Always read carefully what the question
+is asking for W Edge framework summary.
+
+00:06:56.395 --> 00:06:59.215
+So let's wrap this up
+with a quick summary.
+
+00:06:59.655 --> 00:07:00.345
+What is it?
+
+00:07:00.795 --> 00:07:04.065
+It's the cost of borrowing
+or the return on investment.
+
+00:07:04.665 --> 00:07:05.745
+Why is it important?
+
+00:07:06.255 --> 00:07:10.605
+It's essential for all things
+finance, from loans to investments.
+
+00:07:11.115 --> 00:07:12.135
+When is it applied?
+
+00:07:12.615 --> 00:07:15.795
+Whenever money is borrowed
+or invested over time.
+
+00:07:15.885 --> 00:07:19.395
+Where is it used in banking business?
+
+00:07:19.515 --> 00:07:21.344
+Government bonds everywhere.
+
+00:07:21.825 --> 00:07:22.724
+Who uses it?
+
+00:07:23.145 --> 00:07:24.675
+Basically everyone.
+
+00:07:24.914 --> 00:07:27.405
+Individuals, companies, and banks.
+
+00:07:27.825 --> 00:07:29.295
+And how is it calculated?
+
+00:07:29.745 --> 00:07:33.495
+Using specific formulas for
+simple and compound methods
+
+00:07:33.675 --> 00:07:36.224
+based on principle rate and time.
+
+00:07:37.080 --> 00:07:38.700
+Fully worked out Examples.
+
+00:07:39.210 --> 00:07:40.740
+Okay, enough theory.
+
+00:07:41.070 --> 00:07:43.920
+Let's get our hands
+dirty with some examples.
+
+00:07:44.310 --> 00:07:48.240
+Example, one simple interest
+calculation question.
+
+00:07:48.690 --> 00:07:53.910
+A sum of money amounts to Rupees
+9,800 after five years and
+
+00:07:54.000 --> 00:07:56.790
+Rupees 12,005 after eight years.
+
+00:07:56.910 --> 00:08:02.430
+At the same rate of simple interest, what
+is the rate of interest per annum options.
+
+00:08:02.780 --> 00:08:11.240
+A 12% B, 10% C, 15% D 8%
+understand the question before
+
+00:08:11.240 --> 00:08:13.610
+moving to explanation solution.
+
+00:08:13.910 --> 00:08:17.150
+Step one, first, let's
+understand the problem.
+
+00:08:17.510 --> 00:08:20.270
+We have the final amount
+at two different times.
+
+00:08:20.600 --> 00:08:21.530
+We need to find the.
+
+00:08:22.125 --> 00:08:22.815
+Step two.
+
+00:08:23.205 --> 00:08:26.925
+The difference in amount is the interest
+earned in the difference in years.
+
+00:08:27.165 --> 00:08:32.985
+So interest for eight minus five
+equals three years is Rupees 12,005
+
+00:08:33.105 --> 00:08:37.965
+minus Rupees 9,800, which is 2,205.
+
+00:08:38.285 --> 00:08:38.975
+Step three.
+
+00:08:39.365 --> 00:08:44.405
+If three years of interest is Rupees
+2,205, then the simple interest
+
+00:08:44.405 --> 00:08:52.025
+for one year must be 2,205 divided
+by three, which is 735 step four.
+
+00:08:52.385 --> 00:08:54.815
+Now we can find the
+interest for five years.
+
+00:08:55.175 --> 00:09:01.535
+It's just 735 times
+five, which equals 3,675.
+
+00:09:01.845 --> 00:09:02.655
+Step five.
+
+00:09:03.075 --> 00:09:06.675
+The amount after five years was
+principled, plus this five year
+
+00:09:06.675 --> 00:09:17.295
+interest, so principle is 9,800 minus
+3,675, which gives us 6,125 step six.
+
+00:09:17.655 --> 00:09:24.705
+Now we have everything using the formula
+SI equals P into R into T by a hundred.
+
+00:09:24.915 --> 00:09:27.765
+We get 3,675.
+
+00:09:28.100 --> 00:09:33.590
+Equals 6,125 into R into five by hundred.
+
+00:09:34.070 --> 00:09:39.770
+A little bit of calculation
+later, R equals 3,675 into
+
+00:09:39.770 --> 00:09:43.880
+hundred by 6,125 into five.
+
+00:09:44.240 --> 00:09:45.170
+This gives us.
+
+00:09:45.335 --> 00:09:46.835
+R equals 12%.
+
+00:09:47.255 --> 00:09:53.105
+The correct answer is a 12% example
+two compound interest calculation
+
+00:09:53.405 --> 00:09:57.155
+Question, what will be the compound
+interest on a sum of rupees?
+
+00:09:57.155 --> 00:10:02.225
+25,000 for three years at 12%
+per annum compounded annually.
+
+00:10:02.565 --> 00:10:03.165
+Options.
+
+00:10:03.375 --> 00:10:14.175
+A 10,123 Rupees, 20 Pesa B 9,000
+Rupees C 9,750 Rupees D 10,500 rupees.
+
+00:10:14.565 --> 00:10:18.345
+Understand the question before
+moving to explanation solution.
+
+00:10:18.615 --> 00:10:21.165
+Step one, let's list what we have.
+
+00:10:21.525 --> 00:10:28.545
+Principle is 25,000 rate is 12%, and
+time is three years compounded annually.
+
+00:10:28.860 --> 00:10:29.520
+Step two.
+
+00:10:29.910 --> 00:10:37.350
+We use the big formula for amount A equals
+P one plus R by hundred to the power T. So
+
+00:10:37.590 --> 00:10:41.760
+a equals 25,001 plus 12 by hundred cubed.
+
+00:10:42.030 --> 00:10:48.780
+Step three, this simplifies two
+A equals 25,000 times 1.12 cubed.
+
+00:10:49.110 --> 00:10:54.090
+Now 1.12 cubed is 1.4 0 4 9 2 8.
+
+00:10:54.420 --> 00:10:54.865
+Step four.
+
+00:10:55.425 --> 00:10:57.194
+Let's calculate the final amount.
+
+00:10:57.584 --> 00:11:07.725
+A equals 25,000 into 1.4 0 4 9 2 8, which
+is 35,123 rupees, 20 Pesa, step five.
+
+00:11:08.084 --> 00:11:12.105
+The question asks for the compound
+interest, not the amount, so ci.
+
+00:11:13.115 --> 00:11:21.995
+Equals amount minus principle CI equals
+35,123 rues 20 Pesa minus 25,000,
+
+00:11:22.175 --> 00:11:26.075
+which equals 10,123 Rupees 20 Pesa.
+
+00:11:26.405 --> 00:11:29.870
+The answer is a 10,123 rupe.
+
+00:11:30.459 --> 00:11:33.730
+Example, three difference
+between SI and ci.
+
+00:11:34.030 --> 00:11:34.600
+Question.
+
+00:11:34.930 --> 00:11:38.020
+The difference between simple
+interest and compound interest
+
+00:11:38.020 --> 00:11:43.120
+on a certain sum of money for two
+years at 5% per annum is 15 rupees.
+
+00:11:43.449 --> 00:11:45.339
+What is the sum options?
+
+00:11:45.615 --> 00:11:53.925
+A 6,000 B 5,000 C, 7,500 D 8,000
+understand the question before
+
+00:11:53.925 --> 00:11:56.175
+moving to explanation solution.
+
+00:11:56.415 --> 00:11:57.165
+Step one.
+
+00:11:57.375 --> 00:11:59.295
+Here we are given the difference.
+
+00:11:59.355 --> 00:12:05.444
+D equals 15 rupees time D equals
+two years, and rate R equals 5%.
+
+00:12:05.714 --> 00:12:08.265
+We need to find the principle P, step two.
+
+00:12:08.729 --> 00:12:11.520
+Remember that special trick for
+the difference for two years?
+
+00:12:11.819 --> 00:12:15.750
+The formula is D equals
+PR by a hundred squared.
+
+00:12:15.959 --> 00:12:16.650
+Step three.
+
+00:12:17.010 --> 00:12:21.719
+Let's plug in the values 15 equals
+P five by a hundred squared.
+
+00:12:21.989 --> 00:12:28.620
+Now five by a hundred is one by
+20, so 15 equals P times one by 20
+
+00:12:28.620 --> 00:12:31.589
+squared, which is B times one by 400.
+
+00:12:31.859 --> 00:12:32.520
+Step four.
+
+00:12:32.855 --> 00:12:39.695
+Now just solve for PP equals 15
+multiplied by 400 P equals Rupe 6,000.
+
+00:12:39.995 --> 00:12:45.965
+So the correct answer is A Rupe 6,000 C.
+How a simple trick saves so much time.
+
+00:12:46.385 --> 00:12:46.985
+Thank you.
+
+00:12:47.225 --> 00:12:48.575
+See you in the next lecture.
+

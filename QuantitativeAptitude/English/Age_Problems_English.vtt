@@ -1,0 +1,883 @@
+WEBVTT
+
+00:00:00.240 --> 00:00:03.960
+Welcome my friend to today's
+lecture on age problems.
+
+00:00:04.350 --> 00:00:04.620
+Ever.
+
+00:00:04.620 --> 00:00:06.930
+Felt like your brain needed a power up.
+
+00:00:07.230 --> 00:00:09.720
+This is it, concept explanation.
+
+00:00:10.770 --> 00:00:16.230
+Age problems in quantitative aptitude
+involve calculating the current or past
+
+00:00:16.320 --> 00:00:21.509
+future ages of individuals or groups,
+or determining relationships between
+
+00:00:21.509 --> 00:00:24.030
+their ages based on given conditions.
+
+00:00:24.570 --> 00:00:28.470
+These problems typically involve
+linear equations, ratios,
+
+00:00:28.650 --> 00:00:29.729
+and sometimes percentages.
+
+00:00:30.720 --> 00:00:36.090
+The core idea is to translate the word
+problem into mathematical expressions and
+
+00:00:36.090 --> 00:00:41.070
+then solve for the unknown ages, often
+representing current ages with variables
+
+00:00:41.070 --> 00:00:44.430
+like X or Y. Real world relevance.
+
+00:00:44.940 --> 00:00:49.169
+Understanding age problems is crucial
+for you as it develops logical
+
+00:00:49.169 --> 00:00:54.030
+reasoning and equation solving skills
+vital for data interpretation, and
+
+00:00:54.059 --> 00:00:56.099
+quick decision making in operations.
+
+00:00:56.640 --> 00:01:00.959
+This topic tests your ability to
+quickly analyze numerical data
+
+00:01:01.110 --> 00:01:02.940
+and derive precise conclusions.
+
+00:01:03.214 --> 00:01:08.015
+A skill directly applicable to financial
+calculations and customer interactions.
+
+00:01:08.435 --> 00:01:12.664
+It helps with loan eligibility,
+calculating age for various loan
+
+00:01:12.664 --> 00:01:14.375
+products with age restrictions.
+
+00:01:14.705 --> 00:01:17.884
+It's useful for retirement
+planning, understanding
+
+00:01:17.914 --> 00:01:22.145
+age-related financial planning for
+clients for investment schemes.
+
+00:01:22.460 --> 00:01:27.590
+Age criteria for different investment and
+insurance policies in customer service.
+
+00:01:27.770 --> 00:01:32.210
+Quickly grasping age related details
+during customer inquiries for data
+
+00:01:32.210 --> 00:01:36.530
+analysis, interpreting demographic
+data, often involving age groups
+
+00:01:36.860 --> 00:01:38.900
+and for policy implementation.
+
+00:01:39.080 --> 00:01:42.230
+Applying age specific
+guidelines in various policies.
+
+00:01:42.990 --> 00:01:47.100
+Breakdown of question types
+based on common or exam patterns.
+
+00:01:47.280 --> 00:01:50.070
+Age problems typically
+fall into these categories.
+
+00:01:50.550 --> 00:01:52.590
+Problems based on ratios of ages.
+
+00:01:52.800 --> 00:01:54.840
+Comprising 40% of questions.
+
+00:01:55.170 --> 00:01:59.789
+For example, the ratio of a's age
+to B'S age is three is to five.
+
+00:02:00.180 --> 00:02:03.120
+After 10 years, the ratio
+will be four is to six.
+
+00:02:03.330 --> 00:02:08.985
+Find their current ages problems based on
+some or difference of ages making up 30%.
+
+00:02:09.595 --> 00:02:13.554
+Example, the sum of the ages of
+a father and son is 60 years.
+
+00:02:13.915 --> 00:02:17.035
+10 years ago the father's
+age was five times the son's
+
+00:02:17.035 --> 00:02:18.924
+age find their current ages.
+
+00:02:19.375 --> 00:02:23.515
+Problems involving past,
+present, and future ages are 15%.
+
+00:02:23.845 --> 00:02:28.285
+Example, five years ago, A was
+twice as old as B. Five years.
+
+00:02:28.285 --> 00:02:32.875
+Hence, A will be 1.5 times as old
+as B. Find their current ages.
+
+00:02:33.325 --> 00:02:35.394
+Problems involving averages of ages.
+
+00:02:35.394 --> 00:02:36.595
+Account for 10%.
+
+00:02:36.910 --> 00:02:40.929
+Example, the average age of 30
+friends in a class is 15 years.
+
+00:02:41.260 --> 00:02:44.859
+If the teacher's age is included,
+the average becomes 16 years.
+
+00:02:45.100 --> 00:02:46.299
+Find the teacher's age.
+
+00:02:46.690 --> 00:02:49.780
+Problems involving multiple
+individuals are 5%.
+
+00:02:50.079 --> 00:02:54.910
+Example, the sum of the ages of
+three friends, PQ and R is 90 years.
+
+00:02:55.269 --> 00:02:59.109
+10 years ago, the ratio of their
+ages was one is to two, is to three.
+
+00:02:59.350 --> 00:03:00.670
+Find their current ages.
+
+00:03:01.605 --> 00:03:02.894
+Formula and tricks.
+
+00:03:03.315 --> 00:03:05.595
+Here are some useful formulas and tricks.
+
+00:03:05.954 --> 00:03:11.415
+Current age represent current age as
+a variable, like X age N, years ago,
+
+00:03:11.834 --> 00:03:17.505
+current age minus N, for example, X minus
+N, age N years, hence, or after N years
+
+00:03:17.894 --> 00:03:20.265
+current age plus N, for example, X plus.
+
+00:03:20.895 --> 00:03:25.785
+If the ratio of ages A is to B is X
+is to Y, and after T years it becomes
+
+00:03:25.785 --> 00:03:29.984
+B is to Q. The difference in cross
+products of ratios remains constant.
+
+00:03:30.405 --> 00:03:33.734
+Initial difference is Y minus
+x, and the final difference is
+
+00:03:33.734 --> 00:03:37.725
+Q minus P. If the difference is
+the same, then directly equate.
+
+00:03:37.965 --> 00:03:40.335
+If not, make it the same by multiplying.
+
+00:03:40.680 --> 00:03:45.540
+Alternatively, for ratio changes,
+let current ages be X, K and YK.
+
+00:03:45.840 --> 00:03:51.510
+Then you set up the equation as XK
+plus T upon YK plus T equals P by Q.
+
+00:03:51.810 --> 00:03:55.320
+Then solve 4K for N times more or less.
+
+00:03:55.500 --> 00:03:56.880
+Be careful with phrasing.
+
+00:03:57.269 --> 00:04:03.270
+A is N times B means A is n. A is n
+times older than B often implies A
+
+00:04:03.270 --> 00:04:06.210
+equals B plus NB, which is N plus one B.
+
+00:04:06.510 --> 00:04:11.220
+However, in most competitive exams N
+times older than is also interpreted
+
+00:04:11.220 --> 00:04:16.230
+as just a is NB, always assume A
+is NB unless the context strongly
+
+00:04:16.230 --> 00:04:18.480
+suggests otherwise average age.
+
+00:04:18.690 --> 00:04:24.090
+This is simply the sum of ages divided by
+the number of persons methods of solving.
+
+00:04:24.720 --> 00:04:27.840
+Let's discuss the methods
+for solving these problems.
+
+00:04:28.229 --> 00:04:33.390
+First, using linear equations,
+also known as the algebraic method.
+
+00:04:33.840 --> 00:04:38.520
+You assign variables to the
+unknown ages, usually current ages.
+
+00:04:38.909 --> 00:04:44.190
+Then translate each condition or statement
+in the problem into a mathematical
+
+00:04:44.190 --> 00:04:46.560
+equation involving these variables.
+
+00:04:46.919 --> 00:04:49.469
+This forms a system of linear equations.
+
+00:04:49.799 --> 00:04:54.390
+Solve the system using substitution
+or elimination methods to find
+
+00:04:54.390 --> 00:04:55.770
+the values of the variables.
+
+00:04:56.290 --> 00:05:00.400
+Finally verify the solution with
+the original problem statement.
+
+00:05:00.760 --> 00:05:07.270
+Second, using ratios and proportions when
+problems involve ratios of ages Represent
+
+00:05:07.270 --> 00:05:09.910
+the ages as multiples of a common factor.
+
+00:05:10.090 --> 00:05:14.865
+For example, three x five x.
+Set up proportions based on the
+
+00:05:14.865 --> 00:05:17.055
+given future or past age ratios.
+
+00:05:17.415 --> 00:05:20.355
+Solve the resulting equation
+for the common factor.
+
+00:05:20.655 --> 00:05:24.615
+Then calculate the actual ages
+by substituting the common
+
+00:05:24.615 --> 00:05:26.775
+factor back into the expressions.
+
+00:05:27.405 --> 00:05:31.785
+Third, the difference in ages method,
+which relies on a constant difference.
+
+00:05:32.325 --> 00:05:35.534
+Recognize that the difference
+between the ages of two people
+
+00:05:35.804 --> 00:05:37.755
+always remains constant over time.
+
+00:05:38.114 --> 00:05:42.315
+Use this constant difference to
+set up equations or verify age
+
+00:05:42.315 --> 00:05:47.085
+relationships at different points in
+time, be it past, present, or future.
+
+00:05:47.385 --> 00:05:52.034
+This method is particularly useful when
+the problem provides age differences
+
+00:05:52.034 --> 00:05:56.114
+at different points in time, or
+implicitly relies on this property.
+
+00:05:56.469 --> 00:06:00.670
+Fourth trial and error or
+option elimination when multiple
+
+00:06:00.670 --> 00:06:02.080
+choice options are provided.
+
+00:06:02.289 --> 00:06:06.700
+Sometimes substituting the options back
+into the problem statement can be a
+
+00:06:06.700 --> 00:06:08.440
+quick way to find the correct answer.
+
+00:06:08.710 --> 00:06:12.490
+Start with easier options like
+middle values or round numbers.
+
+00:06:12.755 --> 00:06:15.485
+And check if they satisfy all conditions.
+
+00:06:15.815 --> 00:06:19.175
+Eliminate options that clearly
+contradict the problem statement.
+
+00:06:19.475 --> 00:06:23.975
+This is not a primary solving
+method, but a useful crosscheck or
+
+00:06:23.975 --> 00:06:28.385
+quick approach for simpler problems,
+shortcuts and smart techniques.
+
+00:06:28.715 --> 00:06:31.085
+Here are some shortcuts
+and smart techniques.
+
+00:06:31.445 --> 00:06:32.915
+Age differences, constant.
+
+00:06:33.275 --> 00:06:37.625
+Always remember that the age difference
+between any two individuals remains
+
+00:06:37.625 --> 00:06:38.770
+the same throughout their lives.
+
+00:06:39.460 --> 00:06:44.350
+Use this property to form equations
+or simplify complex ratio problems.
+
+00:06:44.650 --> 00:06:46.390
+Unitary method for ratios.
+
+00:06:46.660 --> 00:06:50.110
+If a ratio changes over time,
+calculate the unit change.
+
+00:06:50.380 --> 00:06:54.340
+For example, if A is to B is
+two is to three, and after five
+
+00:06:54.340 --> 00:06:57.940
+years it's three is to four, then
+one unit represents five years.
+
+00:06:58.490 --> 00:07:02.510
+This assumes that the difference between
+parts of the ratio remains the same.
+
+00:07:02.780 --> 00:07:08.450
+If not, make it the same by multiplying
+future past age adjustments when
+
+00:07:08.450 --> 00:07:12.440
+moving from present to future add
+years, when moving from present to
+
+00:07:12.440 --> 00:07:18.050
+past, subtract years, be careful with
+a go and hence average age concept.
+
+00:07:18.350 --> 00:07:22.220
+When a new person joins a group and
+the average age changes, the new
+
+00:07:22.220 --> 00:07:24.290
+person's age can be calculated as.
+
+00:07:24.570 --> 00:07:29.159
+Old average plus change in average
+into new number of persons.
+
+00:07:29.460 --> 00:07:30.870
+Focus on one variable.
+
+00:07:31.200 --> 00:07:35.520
+Try to express all ages in terms
+of a single variable to simplify
+
+00:07:35.520 --> 00:07:39.090
+equation formation, common
+mistakes and misconceptions.
+
+00:07:39.419 --> 00:07:43.110
+Let's look at common mistakes
+and misconceptions incorrectly.
+
+00:07:43.110 --> 00:07:46.919
+Setting up equations, the most
+frequent error is translating.
+
+00:07:47.010 --> 00:07:52.140
+A is twice as old as B, as a plus, two
+equals B, or other misinterpretations
+
+00:07:52.289 --> 00:07:57.525
+instead of A equals two B. Confusing
+times and times older than as
+
+00:07:57.525 --> 00:08:03.105
+discussed usually n times older than
+means n times that is A equals NB.
+
+00:08:03.345 --> 00:08:08.745
+However, some may interpret it as A
+equals b plus NB, that is N plus one.
+
+00:08:08.745 --> 00:08:13.335
+B. Stick to A equals NB unless
+context strongly suggests otherwise
+
+00:08:13.335 --> 00:08:15.585
+not accounting for time difference.
+
+00:08:15.795 --> 00:08:18.870
+Forgetting to add or subtract
+years for past or future ages.
+
+00:08:19.465 --> 00:08:24.865
+For example, if B is X years old now,
+then five years ago, B was X minus
+
+00:08:24.865 --> 00:08:27.895
+five, not X applying ratios directly.
+
+00:08:28.225 --> 00:08:32.424
+If A to B is two is to three now and
+after five years, it's three is to four.
+
+00:08:32.635 --> 00:08:36.355
+One cannot directly say two x
+plus five or three x plus five.
+
+00:08:36.655 --> 00:08:39.924
+The common factor X for the
+ratio two is to three is
+
+00:08:39.924 --> 00:08:41.395
+distinct from the common factor.
+
+00:08:41.395 --> 00:08:42.895
+Y for three is to four.
+
+00:08:43.164 --> 00:08:47.515
+Use 2K plus five upon three k
+plus five equals three by four.
+
+00:08:47.860 --> 00:08:48.850
+Arithmetic errors.
+
+00:08:49.120 --> 00:08:53.080
+Simple calculation mistakes while
+solving the equations, not reading
+
+00:08:53.080 --> 00:08:56.560
+the question carefully misinterpreting
+what the question is asking.
+
+00:08:56.710 --> 00:09:01.000
+For example, asking for a son's age
+while calculating a father's age.
+
+00:09:01.420 --> 00:09:02.860
+WH framework summary.
+
+00:09:03.190 --> 00:09:05.235
+Let's summarize using the WH framework.
+
+00:09:05.845 --> 00:09:10.314
+What mathematical problems,
+determining ages or age relationships.
+
+00:09:10.615 --> 00:09:11.095
+Why?
+
+00:09:11.305 --> 00:09:15.175
+Essential for testing logical
+reasoning and equation solving skills
+
+00:09:15.475 --> 00:09:20.575
+when applied in scenarios involving
+time-based numerical relationships where
+
+00:09:20.814 --> 00:09:25.345
+frequently encountered in your exam,
+financial planning and demographics.
+
+00:09:25.610 --> 00:09:30.770
+Who friends preparing for aptitude tests,
+financial professionals, data analysts.
+
+00:09:31.010 --> 00:09:36.105
+How solved using linear equations ratios
+and constant age difference principles.
+
+00:09:38.070 --> 00:09:39.840
+Fully worked out examples.
+
+00:09:40.140 --> 00:09:42.120
+Example, one question.
+
+00:09:42.390 --> 00:09:48.030
+The ratio of the present ages of A
+and B is four is to five, five years.
+
+00:09:48.030 --> 00:09:52.140
+Hence, the ratio of their ages
+will become five is to six.
+
+00:09:52.440 --> 00:09:54.060
+What is the present age of b?
+
+00:09:54.725 --> 00:10:03.185
+Options, a 20 years B, 25 years, C,
+30 years, D 35 years understand the
+
+00:10:03.185 --> 00:10:08.465
+question before moving to explanation,
+step-by-step solution first.
+
+00:10:08.585 --> 00:10:11.345
+Represent current ages using a variable.
+
+00:10:11.704 --> 00:10:14.495
+Let the present age of a B four x years.
+
+00:10:14.970 --> 00:10:17.850
+Let the present age of B be five x years.
+
+00:10:18.210 --> 00:10:23.220
+Second express ages five years,
+hence age of a after five years
+
+00:10:23.310 --> 00:10:25.110
+will be four x plus five years.
+
+00:10:25.470 --> 00:10:29.160
+Age of B after five years will
+be five x plus five years.
+
+00:10:29.550 --> 00:10:32.910
+Next, set up the equation
+based on the future ratio.
+
+00:10:33.290 --> 00:10:36.800
+According to the problem, the
+ratio of their ages five years,
+
+00:10:36.800 --> 00:10:38.810
+hence will be five is to six.
+
+00:10:38.990 --> 00:10:43.940
+So four x plus five upon five x
+plus five equals five upon six.
+
+00:10:44.300 --> 00:10:47.240
+Now solve the equation for X cross.
+
+00:10:47.240 --> 00:10:52.580
+Multiply six into four x plus five
+equals five into five x plus five.
+
+00:10:52.910 --> 00:10:57.830
+This gives 24 x plus
+30 equals 25 x plus 25.
+
+00:10:58.190 --> 00:11:00.110
+Subtract 24 x from both sides.
+
+00:11:00.880 --> 00:11:08.920
+30 equals 25 x minus 24 x plus 25, which
+simplifies two 30 equals x plus 25.
+
+00:11:09.250 --> 00:11:15.250
+Subtract 25 from both sides, X
+equals 30 minus 25 so x equals five.
+
+00:11:15.580 --> 00:11:20.470
+Finally, calculate the present age
+of B. Present age of B equals five
+
+00:11:20.470 --> 00:11:26.080
+x equals five into five equals 25
+years, correct answer B. 25 years.
+
+00:11:26.420 --> 00:11:28.219
+Example two question.
+
+00:11:28.430 --> 00:11:32.180
+The sum of the ages of a
+father and his son is 60 years.
+
+00:11:32.479 --> 00:11:36.260
+Six years ago the father's age
+was five times the son's age.
+
+00:11:36.560 --> 00:11:39.319
+What is the present
+age of the son options?
+
+00:11:39.530 --> 00:11:43.699
+A 12 years B. 14 years C. 18 years.
+
+00:11:43.849 --> 00:11:45.109
+D. 20 years.
+
+00:11:45.410 --> 00:11:48.349
+Understand the question
+before moving to explanation.
+
+00:11:48.675 --> 00:11:50.145
+Step-by-step solution.
+
+00:11:50.474 --> 00:11:53.204
+First, define variables for present ages.
+
+00:11:53.505 --> 00:11:55.964
+Let the present age of
+the father be F years.
+
+00:11:56.295 --> 00:11:58.635
+Let the present age of the son be S years.
+
+00:11:58.935 --> 00:12:02.145
+Second, form an equation
+for the sum of present ages.
+
+00:12:02.415 --> 00:12:04.214
+F plus S equals 60.
+
+00:12:04.364 --> 00:12:04.915
+Equation one.
+
+00:12:05.760 --> 00:12:09.599
+Third Express ages six years
+ago, father's age, six years ago
+
+00:12:09.689 --> 00:12:11.939
+was F minus six years son's age.
+
+00:12:11.939 --> 00:12:14.160
+Six years ago was S minus six years.
+
+00:12:14.459 --> 00:12:17.099
+Fourth form an equation
+based on their ages.
+
+00:12:17.099 --> 00:12:21.030
+Six years ago, according to the
+problem, six years ago, the father's
+
+00:12:21.030 --> 00:12:22.795
+age was five times the son's age.
+
+00:12:23.209 --> 00:12:26.719
+So F minus six equals
+five into S minus six.
+
+00:12:26.900 --> 00:12:29.239
+Equation two fifth, simplify.
+
+00:12:29.239 --> 00:12:32.989
+Equation two F minus six
+equals five S minus 30.
+
+00:12:33.260 --> 00:12:39.319
+This gives F equals five s minus 30
+plus six, so F equals five s minus 24.
+
+00:12:39.500 --> 00:12:41.119
+Equation three six.
+
+00:12:41.270 --> 00:12:43.790
+Substitute equation
+three into equation one.
+
+00:12:44.060 --> 00:12:46.849
+Five S minus 24 plus S equals 60.
+
+00:12:47.180 --> 00:12:50.780
+This simplifies to six
+s minus 24 equals 60.
+
+00:12:51.090 --> 00:12:57.780
+Then six S equals 60 plus 24, so six
+s equals 84, therefore S equals 84
+
+00:12:57.780 --> 00:13:00.210
+upon six, which means S equals 14.
+
+00:13:00.480 --> 00:13:02.820
+Finally find the present age of the sun.
+
+00:13:03.060 --> 00:13:07.030
+The present age of the sun is 14
+years, correct Answer B. 14 years.
+
+00:13:07.705 --> 00:13:09.415
+Example three question.
+
+00:13:09.595 --> 00:13:13.075
+The average age of five members
+of a family is 25 years.
+
+00:13:13.375 --> 00:13:16.645
+If the youngest member is five
+years old, what was the average
+
+00:13:16.645 --> 00:13:19.555
+age of the family just before
+the birth of the youngest member?
+
+00:13:19.825 --> 00:13:23.815
+Options a 20 years B. 22.5 years?
+
+00:13:23.935 --> 00:13:30.595
+C. 25 years D. 27.5 years understand the
+question before moving to explanation.
+
+00:13:30.859 --> 00:13:32.270
+Step-by-step solution.
+
+00:13:32.540 --> 00:13:35.329
+First, calculate the total
+current age of the family.
+
+00:13:35.630 --> 00:13:40.040
+Average age equals some of ages
+upon number of members, so 25
+
+00:13:40.069 --> 00:13:41.870
+equals some of ages upon five.
+
+00:13:42.050 --> 00:13:46.400
+Thus some of ages equals 25
+into five equals 1 25 years.
+
+00:13:46.670 --> 00:13:50.204
+Second, determine the situation just
+before the youngest member's birth.
+
+00:13:50.630 --> 00:13:52.699
+The youngest member is five years old now.
+
+00:13:52.939 --> 00:13:55.819
+This means the event just
+before the birth of the youngest
+
+00:13:55.819 --> 00:13:57.620
+member occurred five years ago.
+
+00:13:57.895 --> 00:14:00.505
+At that time, there were
+only five minus one.
+
+00:14:00.595 --> 00:14:04.165
+That is four members in the family
+as the youngest wasn't born yet.
+
+00:14:04.435 --> 00:14:07.795
+Also, each of the other four
+members would have been five years
+
+00:14:07.795 --> 00:14:09.025
+younger than their current age.
+
+00:14:09.475 --> 00:14:13.165
+Third, calculate the sum of ages of
+the four older members at that time.
+
+00:14:13.495 --> 00:14:16.885
+Current sum of ages of all
+five members is 1 25 years.
+
+00:14:17.214 --> 00:14:21.265
+Current age of the youngest member
+is five years, so current sum of ages
+
+00:14:21.265 --> 00:14:25.765
+of the four older members equals 1
+25 minus five equals one 20 years.
+
+00:14:26.185 --> 00:14:29.905
+Five years ago, just before the
+youngest was born, each of these four
+
+00:14:29.905 --> 00:14:31.645
+older members was five years younger.
+
+00:14:31.915 --> 00:14:36.055
+Total reduction in their combined age
+equals four into five equals 20 years.
+
+00:14:36.355 --> 00:14:39.385
+Therefore, the sum of ages of
+the four older members five
+
+00:14:39.385 --> 00:14:41.185
+years ago equals a hundred years.
+
+00:14:41.425 --> 00:14:44.635
+Finally, calculate the average
+age of the family just before
+
+00:14:44.635 --> 00:14:45.505
+the youngest member's birth.
+
+00:14:46.115 --> 00:14:49.565
+Average age equals some of ages of
+four older members five years ago.
+
+00:14:49.715 --> 00:14:53.765
+Upon number of older members, average
+age equals a hundred upon four equals
+
+00:14:53.765 --> 00:14:56.885
+25 years, correct Answer C, 25 years.
+
+00:14:57.095 --> 00:14:57.635
+Thank you.
+
+00:14:57.695 --> 00:14:58.925
+See you in the next lecture.
+

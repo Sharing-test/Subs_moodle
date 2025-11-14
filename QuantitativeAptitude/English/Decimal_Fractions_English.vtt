@@ -1,0 +1,876 @@
+WEBVTT
+
+00:00:00.180 --> 00:00:04.170
+Welcome my friend to today's
+lecture on decimal fractions.
+
+00:00:04.530 --> 00:00:09.540
+Let's unpack the mystery of this concept
+without needing a PhD or a panic attack.
+
+00:00:11.100 --> 00:00:12.540
+Concept explanation.
+
+00:00:13.110 --> 00:00:17.700
+A decimal fraction is a fraction
+where the denominator is a power
+
+00:00:17.700 --> 00:00:21.870
+of 10, like 1,000, 1000, et cetera.
+
+00:00:22.290 --> 00:00:27.060
+Instead of writing the denominator,
+we use a decimal point.to
+
+00:00:27.060 --> 00:00:28.710
+represent the fractional part.
+
+00:00:29.120 --> 00:00:32.720
+The digits to the right of the
+decimal part represent parts of
+
+00:00:32.720 --> 00:00:34.910
+a whole based on powers of 10.
+
+00:00:35.090 --> 00:00:39.110
+For example, 0.5 represents five by 10.
+
+00:00:39.290 --> 00:00:47.480
+0.25 represents 25 by a hundred and
+0.125 represents 1 25 by thousand.
+
+00:00:47.810 --> 00:00:52.640
+It's like slicing a cake
+into 1,000 or 1000 pieces.
+
+00:00:53.150 --> 00:00:56.480
+Here are the basic components
+and related concepts.
+
+00:00:56.570 --> 00:00:58.220
+Very important, my friend.
+
+00:00:58.430 --> 00:01:02.540
+First, the decimal point dot,
+which separates the whole number
+
+00:01:02.540 --> 00:01:04.280
+part from the fractional part.
+
+00:01:04.640 --> 00:01:08.390
+Then the whole number part, the
+digits to the left of the decimal
+
+00:01:08.390 --> 00:01:10.580
+point, representing complete units.
+
+00:01:11.080 --> 00:01:15.040
+And the fractional part, the digits
+to the right of the decimal part,
+
+00:01:15.190 --> 00:01:17.020
+representing parts of a whole.
+
+00:01:17.440 --> 00:01:21.640
+Each digit in a decimal number
+has a specific place value to
+
+00:01:21.640 --> 00:01:23.080
+the right of the decimal point.
+
+00:01:23.200 --> 00:01:28.750
+The places are tens, one by 10
+hundreds, one by hundred thousands,
+
+00:01:28.810 --> 00:01:31.090
+one by thousand and so on.
+
+00:01:31.414 --> 00:01:35.585
+We also have like decimals, which
+are decimal fractions, having the
+
+00:01:35.585 --> 00:01:37.505
+same number of decimal places.
+
+00:01:37.625 --> 00:01:41.345
+Example 2.34 and 5.67.
+
+00:01:41.554 --> 00:01:45.875
+And then unlike decimals having a
+different number of decimal places,
+
+00:01:46.024 --> 00:01:53.315
+example 1.2 and 3.456, these can be
+converted to like decimals by adding
+
+00:01:53.345 --> 00:01:57.125
+zeros at the end of the fractional
+part without changing their value.
+
+00:01:57.245 --> 00:01:58.745
+Example, 1.2.
+
+00:01:59.080 --> 00:02:01.210
+Equals 1.200.
+
+00:02:01.330 --> 00:02:02.770
+Smart trick, isn't it?
+
+00:02:03.400 --> 00:02:04.810
+Real world relevance.
+
+00:02:05.080 --> 00:02:06.910
+Why are decimals so important?
+
+00:02:06.910 --> 00:02:07.480
+You ask.
+
+00:02:07.720 --> 00:02:11.620
+Decimal fractions are fundamental
+in banking and finance for
+
+00:02:11.620 --> 00:02:15.460
+precise calculations involving
+money and interest rates.
+
+00:02:15.730 --> 00:02:19.365
+They enable accurate handling of
+values, less than whole numbers,
+
+00:02:19.515 --> 00:02:21.820
+because every Pesa counts.
+
+00:02:22.205 --> 00:02:25.955
+For instance, in interest rate
+calculation, interest rates are
+
+00:02:25.955 --> 00:02:27.845
+commonly expressed as decimals.
+
+00:02:27.995 --> 00:02:32.525
+Example, 7.5% as 0.075.
+
+00:02:33.095 --> 00:02:36.125
+Currency exchange rates between
+different currencies are
+
+00:02:36.155 --> 00:02:38.315
+almost always in decimal form.
+
+00:02:38.435 --> 00:02:42.670
+Example, one USD equals 83.50 INR.
+
+00:02:43.150 --> 00:02:47.380
+For the big boys financial statement,
+figures in balance sheets often
+
+00:02:47.380 --> 00:02:52.090
+involve values with two or more decimal
+places for accurate representation
+
+00:02:52.090 --> 00:02:54.760
+of assets, liabilities, and equity.
+
+00:02:55.120 --> 00:02:57.640
+Think of loan and EMI calculations.
+
+00:02:57.790 --> 00:03:01.210
+Monthly installments heavily
+rely on decimal operations
+
+00:03:01.329 --> 00:03:03.040
+for precise payment amount.
+
+00:03:03.375 --> 00:03:07.575
+Even in foreign trade transactions,
+prices and values are often
+
+00:03:07.575 --> 00:03:09.165
+in decimal currency units.
+
+00:03:09.315 --> 00:03:11.415
+And don't forget share prices.
+
+00:03:11.565 --> 00:03:16.755
+Stock prices and bond yield are quoted in
+decimal values, requiring quick decimal
+
+00:03:16.815 --> 00:03:19.304
+arithmetic for trading and analysis.
+
+00:03:19.545 --> 00:03:21.704
+Decimals are everywhere my friend.
+
+00:03:22.285 --> 00:03:26.545
+Breakdown of question types based
+on past patterns in your exam.
+
+00:03:26.635 --> 00:03:29.995
+Here are other recurring question
+formats in decimal fractions
+
+00:03:30.085 --> 00:03:31.675
+with estimated frequency.
+
+00:03:31.975 --> 00:03:34.885
+About 35% are basic operations.
+
+00:03:35.035 --> 00:03:39.205
+Addition, subtraction, multiplication,
+division, which are direct.
+
+00:03:39.205 --> 00:03:45.055
+Questions around 25% are conversion
+problems, decimal to fraction, fraction
+
+00:03:45.055 --> 00:03:47.035
+to decimal, including recording decimals.
+
+00:03:47.725 --> 00:03:52.165
+For 20%, you'll see simplification
+and approximation questions.
+
+00:03:52.285 --> 00:03:56.575
+Combining multiple decimal
+operations, then 10% are about
+
+00:03:56.575 --> 00:04:00.295
+comparison and ordering, asking
+to arrange decimal numbers.
+
+00:04:00.475 --> 00:04:04.945
+And finally, another 10% are
+word problems, application-based
+
+00:04:04.945 --> 00:04:09.025
+scenarios, needing decimal operations,
+practic practice, all of them.
+
+00:04:09.625 --> 00:04:11.245
+Formulas and tricks.
+
+00:04:11.755 --> 00:04:13.855
+No complex formulas here, my friend.
+
+00:04:14.095 --> 00:04:17.305
+Just smart rules for
+operations and conversions.
+
+00:04:17.925 --> 00:04:22.425
+To convert fraction to decimal, divide
+the numerator by the denominator.
+
+00:04:22.755 --> 00:04:28.635
+Example three by four equals
+three divided by four equals 0.75.
+
+00:04:28.905 --> 00:04:29.925
+Simple division.
+
+00:04:30.045 --> 00:04:33.195
+That's all to convert decimal to fraction.
+
+00:04:33.405 --> 00:04:36.675
+Write the given decimal without
+the decimal point as the
+
+00:04:36.675 --> 00:04:38.955
+numerator for the denominator.
+
+00:04:39.135 --> 00:04:39.885
+Write one.
+
+00:04:40.035 --> 00:04:44.025
+Followed by as many zeros as there
+are digits after the decimal point.
+
+00:04:44.580 --> 00:04:46.440
+Then simplify the fraction.
+
+00:04:46.770 --> 00:04:52.440
+Example, 0.25 equals 25 by a
+hundred equals one by four,
+
+00:04:52.770 --> 00:04:56.550
+easy, right for converting, pure
+recurring decimal to fraction.
+
+00:04:56.820 --> 00:05:01.050
+If zero point x is the recurring
+decimal, then zero point x
+
+00:05:01.050 --> 00:05:02.970
+recurring equals X by nine.
+
+00:05:03.659 --> 00:05:08.130
+If zero point XY is the recurring
+decimal, then zero point XY
+
+00:05:08.370 --> 00:05:11.010
+recurring equals XY by 99.
+
+00:05:11.370 --> 00:05:16.979
+Example, 0.3 recurring equals
+three by nine equals one by three.
+
+00:05:17.250 --> 00:05:21.060
+Magic for converting mixed the
+recurring decimal to fraction.
+
+00:05:21.330 --> 00:05:26.820
+If zero point XY y recurring
+it's XY minus X by 90.
+
+00:05:27.465 --> 00:05:34.125
+If zero point XYZZ recurring,
+it's x, y, Z minus XY by 900.
+
+00:05:34.455 --> 00:05:41.295
+Example, 0.166 recurring equals
+one six minus one by 90 equals
+
+00:05:41.325 --> 00:05:44.205
+15 by 90 equals one by six.
+
+00:05:44.475 --> 00:05:45.615
+A bit tricky but doable.
+
+00:05:46.615 --> 00:05:53.515
+Now for the fast tricks for multiplication
+by powers of 10, 1,000, 1000, move
+
+00:05:53.515 --> 00:05:57.745
+the decimal point to the right by the
+number of zeros in the power of 10.
+
+00:05:58.045 --> 00:06:02.725
+Example 3.45 into hundred equals 3 45.
+
+00:06:03.055 --> 00:06:05.035
+It's like the decimal
+point is running away.
+
+00:06:05.700 --> 00:06:12.060
+For Division by Powers of 10, 1,000, 1000,
+move the decimal point to the left by
+
+00:06:12.060 --> 00:06:14.130
+the number of zeros in the power of 10.
+
+00:06:14.429 --> 00:06:19.859
+Example 1 23 0.4 by hundred equals 1.234.
+
+00:06:20.070 --> 00:06:22.590
+Now the decimal point is going backward.
+
+00:06:23.520 --> 00:06:28.710
+Methods of solving here are step-by-step
+methods for solving problems with decimal
+
+00:06:28.710 --> 00:06:31.109
+fractions, so you never get stuck.
+
+00:06:31.560 --> 00:06:36.270
+For addition and subtraction, first,
+align the decimal points vertically.
+
+00:06:36.450 --> 00:06:37.410
+Very important.
+
+00:06:37.530 --> 00:06:38.580
+Don't miss this step.
+
+00:06:38.970 --> 00:06:42.780
+Second, add zeros to make the
+number of decimal places equal.
+
+00:06:42.990 --> 00:06:44.490
+Convert to like decimals.
+
+00:06:44.880 --> 00:06:48.150
+Then perform addition or
+subtraction column by column,
+
+00:06:48.300 --> 00:06:49.860
+just like with whole numbers.
+
+00:06:49.955 --> 00:06:54.450
+Finally, place the decimal point in
+the result directly below the aligned
+
+00:06:54.450 --> 00:06:56.970
+decimal points form multiplication.
+
+00:06:57.315 --> 00:07:00.015
+Multiply the numbers as if
+they were whole numbers.
+
+00:07:00.135 --> 00:07:02.025
+Ignoring the decimal points initially.
+
+00:07:02.414 --> 00:07:05.835
+Count the total number of decimal
+places in all the numbers being
+
+00:07:05.835 --> 00:07:10.485
+multiplied in the product place, the
+decimal point from the right, counting
+
+00:07:10.485 --> 00:07:12.405
+that total number of decimal places.
+
+00:07:12.840 --> 00:07:17.760
+And for division, this one has
+two cases, case one, dividing
+
+00:07:17.760 --> 00:07:19.410
+a decimal by a whole number.
+
+00:07:19.770 --> 00:07:23.730
+Divide normally place the decimal point
+in the quotient when you cross the
+
+00:07:23.730 --> 00:07:26.010
+decimal point in the dividend case.
+
+00:07:26.010 --> 00:07:27.900
+Two, dividing by a decimal.
+
+00:07:28.300 --> 00:07:32.860
+Convert the device into a whole number by
+shifting its decimal point to the right.
+
+00:07:33.310 --> 00:07:37.570
+Shift the decimal point of the dividend
+to the right by the same number of places.
+
+00:07:37.990 --> 00:07:40.870
+Perform the division as if it
+were a whole number division.
+
+00:07:41.110 --> 00:07:42.880
+Remember, precision is key.
+
+00:07:43.635 --> 00:07:44.025
+Four.
+
+00:07:44.025 --> 00:07:46.094
+Conversion between decimal and fraction.
+
+00:07:46.455 --> 00:07:50.054
+Decimal to fraction count
+decimal places right number
+
+00:07:50.054 --> 00:07:51.914
+as numerator over power of 10.
+
+00:07:52.094 --> 00:07:56.685
+Then simplify fraction to decimal,
+divide, numerator by denominator
+
+00:07:56.745 --> 00:07:58.755
+using long division practice.
+
+00:07:58.755 --> 00:08:02.174
+This my friend shortcuts
+and smart techniques.
+
+00:08:02.565 --> 00:08:05.174
+These tips are for your
+exam time constraints.
+
+00:08:05.265 --> 00:08:08.409
+So listen carefully, my
+friend approximation.
+
+00:08:09.240 --> 00:08:13.140
+For multiple choice questions
+with widely spaced options, use
+
+00:08:13.140 --> 00:08:15.810
+approximation instead of exact values.
+
+00:08:16.140 --> 00:08:21.539
+Round numbers to the nearest whole
+number, saves tons of time estimating
+
+00:08:21.539 --> 00:08:25.800
+decimal places for multiplication
+or division before calculating
+
+00:08:25.950 --> 00:08:29.370
+quickly estimate the position of
+the decimal point in the answer.
+
+00:08:29.700 --> 00:08:31.885
+Helps verify options or detect errors.
+
+00:08:33.119 --> 00:08:37.709
+Converting to fractions for complex
+operations, sometimes converting
+
+00:08:37.709 --> 00:08:41.699
+decimals to their fractional form
+simplifies complex multiplications
+
+00:08:41.729 --> 00:08:43.890
+divisions or recurring decimals.
+
+00:08:44.130 --> 00:08:49.469
+Example, 0.25 to one
+fourth, 0.333 to one third.
+
+00:08:49.680 --> 00:08:51.359
+This is a secret weapon.
+
+00:08:52.185 --> 00:08:54.045
+Recognizing recurring decimals.
+
+00:08:54.405 --> 00:08:57.704
+Memorize common fraction to
+recurring decimal conversions.
+
+00:08:57.885 --> 00:09:03.915
+Example one by three equals
+0.31 by six equals 0.16.
+
+00:09:04.064 --> 00:09:05.805
+This saves conversion time.
+
+00:09:06.614 --> 00:09:08.204
+Pairing for simplification.
+
+00:09:08.625 --> 00:09:10.214
+In simplification problems.
+
+00:09:10.334 --> 00:09:13.275
+Look for terms that can be
+easily simplified together.
+
+00:09:13.484 --> 00:09:16.875
+Example, a decimal multiplied
+by a multiple of 10.
+
+00:09:17.685 --> 00:09:22.545
+Eliminating options for ordering or
+comparison Quickly eliminate options
+
+00:09:22.575 --> 00:09:26.715
+by just comparing the whole number
+part or the first few decimal places.
+
+00:09:26.955 --> 00:09:28.725
+Work smarter, not harder.
+
+00:09:29.535 --> 00:09:31.695
+Common mistakes and misconceptions.
+
+00:09:32.085 --> 00:09:34.755
+Let's look at common errors
+so you can avoid them.
+
+00:09:34.755 --> 00:09:37.725
+My friend, misplacing the decimal point.
+
+00:09:37.935 --> 00:09:39.165
+The most common error.
+
+00:09:39.435 --> 00:09:41.205
+Always double check its position.
+
+00:09:41.865 --> 00:09:45.165
+Not aligning decimal points
+for addition or subtraction.
+
+00:09:45.405 --> 00:09:50.025
+Failing to align them leads to incorrect
+place values Align them properly.
+
+00:09:50.714 --> 00:09:53.834
+Incorrect Counting of decimal
+places in multiplication.
+
+00:09:54.135 --> 00:09:57.015
+Forgetting to count all
+decimal places when placing the
+
+00:09:57.015 --> 00:09:58.485
+decimal point in the product.
+
+00:09:58.724 --> 00:09:59.895
+Count them carefully.
+
+00:10:00.555 --> 00:10:05.324
+Errors in division by decimal, not
+shifting the decimal point in both device
+
+00:10:05.535 --> 00:10:07.844
+and dividend by the same number of places.
+
+00:10:08.055 --> 00:10:08.895
+Shift both.
+
+00:10:09.645 --> 00:10:18.944
+Treating 0.5 and 0.50 differently,
+0.5, 0.50 and 0.500 are all equivalent.
+
+00:10:19.275 --> 00:10:23.115
+Adding trailing zeros after the decimal
+point does not change the value.
+
+00:10:23.325 --> 00:10:27.525
+It's the same number just written
+differently, confusing, recurring,
+
+00:10:27.585 --> 00:10:31.095
+and terminating decimals, not
+correctly converting recurring
+
+00:10:31.095 --> 00:10:32.564
+decimals into fractions.
+
+00:10:32.835 --> 00:10:36.765
+Understand the difference, my
+friend, WH framework summary.
+
+00:10:37.064 --> 00:10:38.805
+Let's quickly recap my friend.
+
+00:10:39.390 --> 00:10:43.140
+What numbers using a decimal
+point to represent parts of a
+
+00:10:43.140 --> 00:10:45.090
+whole based on powers of 10.
+
+00:10:45.510 --> 00:10:50.250
+Why for precise representation and
+calculation of non hole quantities,
+
+00:10:50.490 --> 00:10:56.189
+especially in finance when applied in
+all calculations involving fractions of
+
+00:10:56.189 --> 00:11:02.520
+units, measurements, all currency where in
+banking, accounting, engineering, retail
+
+00:11:02.520 --> 00:11:04.765
+science, and daily financial transactions.
+
+00:11:05.459 --> 00:11:05.910
+Who?
+
+00:11:06.060 --> 00:11:09.990
+Bankers, accountants, scientists,
+engineers, shopkeepers,
+
+00:11:09.990 --> 00:11:11.670
+and anyone handling money.
+
+00:11:12.060 --> 00:11:16.980
+How Through specific rules for addition,
+subtraction, multiplication, division,
+
+00:11:17.130 --> 00:11:19.290
+and conversion to and from fractions.
+
+00:11:19.469 --> 00:11:22.410
+A complete package fully worked out.
+
+00:11:22.410 --> 00:11:23.310
+Examples?
+
+00:11:23.819 --> 00:11:25.890
+Time for some live action, my friend.
+
+00:11:26.280 --> 00:11:27.750
+Let's solve these together.
+
+00:11:28.785 --> 00:11:29.714
+Example one.
+
+00:11:30.355 --> 00:11:32.194
+Addition and subtraction of decimals.
+
+00:11:33.045 --> 00:11:40.454
+Question simplify, 12.34
+plus 5.6 minus 8.95.
+
+00:11:41.115 --> 00:11:51.045
+Options, a 8.99 B 9.01 C 9.09 D 9.11.
+
+00:11:51.704 --> 00:11:54.589
+Understand the question
+before moving to explanation.
+
+00:11:55.800 --> 00:11:57.329
+Step-by-step solution.
+
+00:11:57.660 --> 00:11:59.760
+Step one, perform addition.
+
+00:11:59.760 --> 00:12:04.380
+First, align decimal points and
+add zeros for like decimals.
+
+00:12:04.859 --> 00:12:10.380
+12.34 plus 5.60 equals 17.94.
+
+00:12:11.220 --> 00:12:17.130
+Step two Now subtract 8.95 from
+the sum align decimal points.
+
+00:12:17.130 --> 00:12:24.030
+Again, 17.94 minus 8.95 equals 8.99.
+
+00:12:24.660 --> 00:12:27.600
+Correct answer a 8.99.
+
+00:12:27.990 --> 00:12:29.280
+That was smooth right?
+
+00:12:30.060 --> 00:12:32.910
+Example, two multiplication of decimals.
+
+00:12:33.300 --> 00:12:40.530
+Question, what is the value of 0.25
+multiplied by 1.2, multiplied by
+
+00:12:40.680 --> 00:12:53.970
+0.08 options, a 0.024 B, 0.24 C,
+0.024 D 2.4 Understand the question
+
+00:12:53.970 --> 00:12:55.545
+before moving to explanation.
+
+00:12:56.564 --> 00:12:58.064
+Step-by-step solution.
+
+00:12:58.365 --> 00:13:02.475
+Step one, multiply the numbers
+as if they were whole numbers.
+
+00:13:02.655 --> 00:13:04.694
+Ignoring decimal points initially.
+
+00:13:05.175 --> 00:13:12.255
+Numbers 25 12 8 25
+multiplied by 12 equals 300.
+
+00:13:12.795 --> 00:13:16.454
+300 multiplied by eight equals 2,400.
+
+00:13:17.084 --> 00:13:17.775
+Step two.
+
+00:13:18.165 --> 00:13:21.915
+Count the total number of decimal
+places in the original numbers.
+
+00:13:22.365 --> 00:13:25.275
+0.25 has two decimal places.
+
+00:13:25.575 --> 00:13:28.065
+1.2 has one decimal place.
+
+00:13:28.425 --> 00:13:31.365
+0.08 has two decimal places.
+
+00:13:31.815 --> 00:13:36.825
+Total decimal places equals two
+plus one plus two equals five.
+
+00:13:37.695 --> 00:13:43.995
+Step three, place the decimal point in
+the product 2,400 by counting five places
+
+00:13:43.995 --> 00:13:46.725
+from the right, starting from 2,400.
+
+00:13:46.905 --> 00:13:51.345
+Move five places to the left, 0.0240.
+
+00:13:51.645 --> 00:13:55.215
+So the result is 0.02.
+
+00:13:55.215 --> 00:13:58.275
+Correct answer, a 0.024.
+
+00:13:58.575 --> 00:14:00.225
+See how easy it becomes.
+
+00:14:00.975 --> 00:14:03.190
+Example three division of decimals.
+
+00:14:04.770 --> 00:14:16.110
+Calculate 2.73 divided by 0.03
+options, a 91 B, 9.1 C 0.91.
+
+00:14:16.260 --> 00:14:18.180
+D 910.
+
+00:14:18.720 --> 00:14:21.444
+Understand the question
+before moving to explanation.
+
+00:14:22.515 --> 00:14:23.954
+Step-by-step solution.
+
+00:14:24.194 --> 00:14:27.615
+Step one, identify the
+dividend and the divisor.
+
+00:14:28.035 --> 00:14:30.405
+Dividend equals 2.73.
+
+00:14:30.704 --> 00:14:33.525
+DIVISOR equals 0.03.
+
+00:14:33.974 --> 00:14:38.235
+Step two, convert the DI device
+into a whole number by shifting
+
+00:14:38.235 --> 00:14:43.275
+its decimal point to make 0.03 a
+whole number, shift its decimal.
+
+00:14:43.275 --> 00:14:47.390
+Point two places to the right,
+it becomes three Step three.
+
+00:14:47.975 --> 00:14:51.095
+Shift the decimal point of the
+dividend by the same number of
+
+00:14:51.095 --> 00:14:53.015
+places, two places to the right.
+
+00:14:53.465 --> 00:14:56.045
+2.73 becomes two seven.
+
+00:14:56.045 --> 00:14:56.405
+Three.
+
+00:14:56.855 --> 00:15:00.125
+Step four, perform the
+division with the new numbers.
+
+00:15:00.545 --> 00:15:00.755
+Two.
+
+00:15:00.755 --> 00:15:03.965
+Seven three divided by three equals 91.
+
+00:15:04.415 --> 00:15:06.785
+Correct answer, A 91.
+
+00:15:07.055 --> 00:15:08.795
+Easy peasy lemon squeezy.
+
+00:15:09.365 --> 00:15:09.750
+Thank you.
+
+00:15:10.210 --> 00:15:11.795
+See you in the next lecture.
+

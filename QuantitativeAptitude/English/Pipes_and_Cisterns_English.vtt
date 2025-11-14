@@ -1,0 +1,481 @@
+WEBVTT
+
+00:00:00.240 --> 00:00:04.650
+Welcome my friend to today's
+lecture on pipes and cisterns.
+
+00:00:05.190 --> 00:00:10.170
+We are about to make the complicated,
+ridiculously clear on this concept
+
+00:00:10.230 --> 00:00:15.270
+with this tutorial pipes and
+cisterns is a topic in quantitative
+
+00:00:15.270 --> 00:00:17.010
+aptitude that deals with the rate.
+
+00:00:17.660 --> 00:00:22.580
+Pipes fill or empty a tank or
+astern, as we sometimes call it.
+
+00:00:23.090 --> 00:00:27.320
+It's an extension of time and
+work Pipes are workers, and the
+
+00:00:27.320 --> 00:00:29.720
+tank's capacity is the total work.
+
+00:00:29.990 --> 00:00:32.030
+Filling pipes do positive work.
+
+00:00:32.330 --> 00:00:35.210
+Emptying pipes or leaks do negative work.
+
+00:00:35.540 --> 00:00:39.385
+The core idea is to combine
+rates to find the total time.
+
+00:00:40.340 --> 00:00:45.140
+Real world relevance, and this is
+very relevant in the real world.
+
+00:00:45.560 --> 00:00:47.870
+It helps optimize resource management.
+
+00:00:48.200 --> 00:00:49.970
+Think about water management.
+
+00:00:50.330 --> 00:00:54.170
+Calculating time to fill
+reservoirs in manufacturing.
+
+00:00:54.380 --> 00:00:58.580
+Estimating time to fill liquid
+tanks for construction planning.
+
+00:00:58.580 --> 00:00:59.450
+Water supply.
+
+00:00:59.725 --> 00:01:04.735
+In logistics, it's managing fluid
+transfer even in your everyday life.
+
+00:01:04.825 --> 00:01:09.655
+With home plumbing, it's all about
+resource allocation and optimizing
+
+00:01:09.655 --> 00:01:11.845
+flow rates for various operations.
+
+00:01:12.415 --> 00:01:16.585
+Breakdown of question types
+based on past patterns For your
+
+00:01:16.585 --> 00:01:18.065
+exam, here's what you'll see.
+
+00:01:18.759 --> 00:01:24.669
+35% of questions are about pipes working
+simultaneously either filling or emptying.
+
+00:01:25.089 --> 00:01:28.869
+20% have pipes working,
+alternately taking turns.
+
+00:01:29.229 --> 00:01:32.410
+Another 20% involve those pesky leaks.
+
+00:01:32.710 --> 00:01:38.020
+15% are based on efficiency or
+rate, and 10% deal with partial
+
+00:01:38.020 --> 00:01:39.820
+filling or emptying scenarios.
+
+00:01:40.325 --> 00:01:45.185
+Formulas plus tricks, formulas,
+time work in one unit of time.
+
+00:01:45.455 --> 00:01:51.455
+A pipe filling a tank in XRS has a rate
+of one by X per R. An emptying pipe
+
+00:01:51.695 --> 00:01:57.815
+emptying in yrs has a rate of minus one
+by Y per R. For combined work filling
+
+00:01:58.025 --> 00:02:04.979
+pipes A, x and BY have a rate of one
+by x plus one by Y. Time is XY by X
+
+00:02:04.979 --> 00:02:07.800
+plus Y for combined fill and empty.
+
+00:02:07.919 --> 00:02:13.799
+The rate is one by X minus one
+by y. Time is XY by Y minus x.
+
+00:02:13.920 --> 00:02:19.470
+If Y is greater than X. Remember, the
+efficiency concept rate is inverse to
+
+00:02:19.470 --> 00:02:22.140
+time, double efficiency half the time.
+
+00:02:22.440 --> 00:02:28.649
+And the best trick the Lium method assumed
+tank capacity is the LCM of the times.
+
+00:02:28.829 --> 00:02:30.240
+It avoids fractions.
+
+00:02:30.730 --> 00:02:34.900
+Methods of solving how to
+solve these, you have options.
+
+00:02:35.170 --> 00:02:40.180
+The unitary method uses fractions,
+find work per unit time, combine them,
+
+00:02:40.330 --> 00:02:42.190
+and the reciprocal is your answer.
+
+00:02:42.550 --> 00:02:45.100
+The LCM method is the smarter approach.
+
+00:02:45.400 --> 00:02:48.070
+Take LCM of times as total capacity.
+
+00:02:48.310 --> 00:02:53.080
+Find individual efficiencies, which
+are units per r, get net efficiency
+
+00:02:53.230 --> 00:02:56.140
+and divide capacity by it much faster.
+
+00:02:56.470 --> 00:02:58.360
+There's also a percentage method.
+
+00:02:58.715 --> 00:03:00.545
+Treat the tank as a hundred percent.
+
+00:03:00.845 --> 00:03:05.614
+Find the percentage filled per r, combine
+them and divide a hundred percent by the
+
+00:03:05.614 --> 00:03:08.704
+net rate shortcuts and smart techniques.
+
+00:03:08.975 --> 00:03:13.325
+Some smart techniques always treat
+negative work for leaks as an
+
+00:03:13.325 --> 00:03:15.515
+emptying pipe, subtract its rate.
+
+00:03:15.785 --> 00:03:17.225
+Use LCM for efficiency.
+
+00:03:17.820 --> 00:03:20.910
+It's faster for multiple
+pipes for partial work.
+
+00:03:21.060 --> 00:03:24.510
+Calculate its contribution and
+subtract it from the total.
+
+00:03:24.870 --> 00:03:29.250
+Maintain a remaining work focus
+in staged problems and visualizing
+
+00:03:29.250 --> 00:03:34.290
+flow helps with complex scenarios,
+common mistakes and misconceptions.
+
+00:03:34.610 --> 00:03:39.050
+Now avoid these common traps,
+confusing, filling and emptying rates.
+
+00:03:39.200 --> 00:03:41.150
+Forgetting to subtract for leaks.
+
+00:03:41.510 --> 00:03:42.110
+Incorrect.
+
+00:03:42.110 --> 00:03:47.510
+LCM application, messing up efficiencies,
+ignoring units, mixing as and
+
+00:03:47.510 --> 00:03:51.980
+minutes assuming constant rate, not
+noting when pipes are turned off.
+
+00:03:51.980 --> 00:03:56.425
+On the classic blunder is direct
+addition or subtraction of times,
+
+00:03:57.110 --> 00:04:01.305
+rates are added, not times and
+misinterpreting time to empty.
+
+00:04:01.800 --> 00:04:06.660
+A negative network means the tank
+empties, WH framework summary.
+
+00:04:06.900 --> 00:04:13.230
+So to summarize, what is this A concept on
+rates of pipes filling or emptying a tank.
+
+00:04:13.470 --> 00:04:16.200
+Why learn it to find the total time taken?
+
+00:04:16.500 --> 00:04:19.350
+When is it applied in
+problems with fluid flow?
+
+00:04:19.530 --> 00:04:22.830
+Where is it used in your
+exam and in water management?
+
+00:04:23.040 --> 00:04:23.850
+Who needs it?
+
+00:04:24.060 --> 00:04:26.160
+You, my friend and engineers.
+
+00:04:26.400 --> 00:04:27.420
+And how do we solve?
+
+00:04:27.660 --> 00:04:31.140
+By calculating individual rates
+and finding the net rate of
+
+00:04:31.140 --> 00:04:33.660
+work fully worked out examples.
+
+00:04:33.990 --> 00:04:35.880
+Example one question.
+
+00:04:36.090 --> 00:04:41.310
+Pipe A can fill a tank in 10 hours
+and pipe B can fill it in 15 hours.
+
+00:04:41.670 --> 00:04:45.570
+If both pipes are open simultaneously,
+how much time will they take
+
+00:04:45.570 --> 00:04:47.400
+to fill the tank options?
+
+00:04:47.790 --> 00:04:55.390
+A five Rs B, six Rs C 7.5 Rs D 12.5
+s. Understand the question before
+
+00:04:55.390 --> 00:04:57.640
+moving to explanation solution.
+
+00:04:57.760 --> 00:05:00.640
+Step one is to understand
+the individual rates.
+
+00:05:00.940 --> 00:05:06.400
+Pipe A fills one by 10 of the tank
+in one R by B fills one by 15 of the
+
+00:05:06.400 --> 00:05:11.710
+tank In one R. Step two, we calculate
+that combined rate when both are open.
+
+00:05:11.859 --> 00:05:14.830
+The combined rate is one
+by 10 plus one by 15.
+
+00:05:15.159 --> 00:05:20.469
+The LCM of 10 and 15 is 30, so we
+get three by 30 plus two by 30,
+
+00:05:20.620 --> 00:05:23.020
+which is five by 30 or one by six.
+
+00:05:23.320 --> 00:05:25.750
+Step three is to determine total time.
+
+00:05:26.020 --> 00:05:29.349
+If they fill one by six of the
+tank in one R, they will fill
+
+00:05:29.349 --> 00:05:31.120
+the entire tank in six Rs.
+
+00:05:31.419 --> 00:05:36.110
+The correct answer is B six
+R. Example two question.
+
+00:05:36.349 --> 00:05:38.570
+A tap can fill a tank in eight Rs.
+
+00:05:38.870 --> 00:05:42.170
+There is a leak in the bottom of
+the tank, which can empty the tank
+
+00:05:42.200 --> 00:05:44.599
+in 12 s. If the tap is opened.
+
+00:05:44.750 --> 00:05:49.070
+How much time will it take to fill the
+tank with the leak present options?
+
+00:05:49.219 --> 00:05:51.770
+A 20 Rs B 24 Rs.
+
+00:05:51.860 --> 00:05:52.969
+C four Rs.
+
+00:05:53.060 --> 00:05:54.320
+D 16 Rs.
+
+00:05:54.635 --> 00:05:58.265
+Understand the question before
+moving to explanation solution.
+
+00:05:58.414 --> 00:06:01.625
+Step one is to understand
+rates and the nature of work.
+
+00:06:01.924 --> 00:06:05.914
+The tap fills one by eight of the
+tank in one R. That's positive work.
+
+00:06:06.155 --> 00:06:10.530
+The leak empties one by 12 of the tank
+in one R, which is negative work step.
+
+00:06:10.900 --> 00:06:11.200
+Two.
+
+00:06:11.349 --> 00:06:14.320
+Let's calculate the net
+rate with both in action.
+
+00:06:14.469 --> 00:06:17.289
+The net rate is rate of
+tap, minus rate of leak.
+
+00:06:17.560 --> 00:06:20.229
+That is one by eight minus one by 12.
+
+00:06:20.440 --> 00:06:25.510
+The LCM of eight and 12 is 24,
+so we get three by 24 minus two
+
+00:06:25.510 --> 00:06:28.120
+by 24, which equals one by 24.
+
+00:06:28.390 --> 00:06:30.669
+Step three is to find the total time.
+
+00:06:30.940 --> 00:06:34.810
+If the net filling rate is one by
+24th of the tank per hour, it'll
+
+00:06:34.989 --> 00:06:37.210
+take 24 hours to fill the whole tank.
+
+00:06:37.510 --> 00:06:40.060
+The correct answer is B 24 hours.
+
+00:06:40.419 --> 00:06:42.729
+Example three, question two.
+
+00:06:42.729 --> 00:06:47.409
+Pipes B and Q can fill a tank in 20
+minutes and 30 minutes respectively.
+
+00:06:47.739 --> 00:06:52.330
+If both pipes are open together for
+five minutes and then pipe B is closed.
+
+00:06:52.479 --> 00:06:57.130
+How much more time will pipe Q alone
+take to fill the remaining tank options?
+
+00:06:57.609 --> 00:07:03.219
+A 10 minutes B, 12.5 minutes
+C, 15 minutes D, 17.5 minutes.
+
+00:07:03.500 --> 00:07:07.160
+Understand the question before
+moving to explanation solution.
+
+00:07:07.310 --> 00:07:11.810
+Step one, calculate the individual
+rates by p fills one by 20
+
+00:07:11.810 --> 00:07:12.980
+of the tank in one minute.
+
+00:07:13.280 --> 00:07:16.040
+Pipe Q fills one by 30 of
+the tank in one minute.
+
+00:07:16.310 --> 00:07:20.450
+Step two, calculate the combined
+rate of P and Q in one minute.
+
+00:07:20.570 --> 00:07:22.520
+It's one by 20 plus one by 30.
+
+00:07:23.025 --> 00:07:29.325
+The LCM is 60, so three by 60 plus two
+by 60 equals five by 60, which simplifies
+
+00:07:29.325 --> 00:07:31.065
+to one by 12 of the tank per minute.
+
+00:07:31.365 --> 00:07:34.695
+Step three, calculate the work
+done by both in five minutes.
+
+00:07:34.935 --> 00:07:39.255
+That is five multiplied by one by
+12, which is five by 12 of the tank.
+
+00:07:39.495 --> 00:07:41.655
+Step four, find the remaining work.
+
+00:07:41.865 --> 00:07:45.945
+Total work is one, so one
+minus five by 12 gives us seven
+
+00:07:45.945 --> 00:07:47.145
+by 12 of the tank remaining.
+
+00:07:47.604 --> 00:07:51.474
+Step five, calculate time taken
+by Q to fill this remaining part.
+
+00:07:51.775 --> 00:07:56.515
+The time taken will be the remaining
+work divided by the rate of Q, so it
+
+00:07:56.515 --> 00:07:58.914
+is seven by 12 divided by one by 30.
+
+00:07:59.215 --> 00:08:02.305
+This is the same as seven
+by 12 multiplied by 30.
+
+00:08:02.544 --> 00:08:07.164
+That's 210 divided by 12,
+which gives us 17.5 minutes.
+
+00:08:07.375 --> 00:08:10.525
+The correct answer is D, 17.5 minutes.
+
+00:08:10.885 --> 00:08:11.455
+Thank you.
+
+00:08:11.635 --> 00:08:13.195
+See you in the next lecture.
+

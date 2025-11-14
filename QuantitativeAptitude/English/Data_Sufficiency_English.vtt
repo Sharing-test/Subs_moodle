@@ -1,0 +1,709 @@
+WEBVTT
+
+00:00:00.210 --> 00:00:04.230
+Welcome my friend to today's
+lecture on data sufficiency.
+
+00:00:04.710 --> 00:00:07.110
+Let's decode this concept like detectives.
+
+00:00:08.460 --> 00:00:09.780
+Concept explanation.
+
+00:00:10.290 --> 00:00:13.200
+So what is this data sufficiency you ask?
+
+00:00:13.680 --> 00:00:19.110
+It's a crucial topic in quantitative
+aptitude that tests a very special skill.
+
+00:00:19.620 --> 00:00:24.900
+The goal isn't to find the right answer,
+but to figure out if you even have
+
+00:00:24.930 --> 00:00:27.150
+enough information to find the answer.
+
+00:00:27.715 --> 00:00:32.394
+It's like a detective asking, do I
+have enough clues to name the culprit?
+
+00:00:32.574 --> 00:00:34.224
+Not who is the culprit.
+
+00:00:34.765 --> 00:00:37.165
+You get a question and two statements.
+
+00:00:37.435 --> 00:00:41.964
+Your mission should you choose
+to accept it is to decide if one,
+
+00:00:42.144 --> 00:00:46.194
+both or neither of these statements
+is enough to solve the mystery.
+
+00:00:46.644 --> 00:00:49.224
+It's all about logical
+deduction, my friend.
+
+00:00:50.010 --> 00:00:54.269
+Real world relevance and don't
+think this is just for your exam.
+
+00:00:54.720 --> 00:00:57.390
+As an officer, you'll be swimming in data.
+
+00:00:57.780 --> 00:00:59.730
+This skill is your life jacket.
+
+00:01:00.180 --> 00:01:04.050
+It teaches you to quickly see if
+you have enough information to
+
+00:01:04.050 --> 00:01:08.130
+make a solid decision stopping
+you from making a mess of things.
+
+00:01:08.610 --> 00:01:13.170
+Imagine looking at financial reports,
+customer data, or market trends.
+
+00:01:13.585 --> 00:01:17.845
+Data sufficiency is what helps you
+make accurate judgements without
+
+00:01:17.845 --> 00:01:19.405
+getting lost in the numbers.
+
+00:01:20.070 --> 00:01:21.870
+Breakdown of question types.
+
+00:01:22.230 --> 00:01:26.490
+Now, what kind of mysteries
+will you be solving based on
+
+00:01:26.490 --> 00:01:28.110
+past patterns in your exam?
+
+00:01:28.290 --> 00:01:31.500
+These questions love to dress
+up in different costumes.
+
+00:01:31.980 --> 00:01:37.200
+About 20% of the time they pop up from the
+number system and simplification world.
+
+00:01:37.590 --> 00:01:40.530
+Testing you on number
+properties and basic math.
+
+00:01:41.040 --> 00:01:45.060
+Another 15% come from averages,
+ratios, and proportions.
+
+00:01:45.899 --> 00:01:51.479
+Then you have another 15% disguised as
+percentages profit and loss problems.
+
+00:01:51.869 --> 00:01:57.179
+The biggest chunk around 20% is
+from time, work and speed distance.
+
+00:01:57.570 --> 00:02:02.609
+And of course we can't forget menstruation
+and geometry and algebra and equations
+
+00:02:02.850 --> 00:02:05.399
+each taking up about 10% of the stage.
+
+00:02:05.789 --> 00:02:10.199
+Finally, probability and permutations
+and combinations also make a
+
+00:02:10.199 --> 00:02:12.329
+guest appearance with a 10% share.
+
+00:02:12.690 --> 00:02:14.100
+Quite a party, isn't it?
+
+00:02:14.834 --> 00:02:16.214
+Formulas and tricks.
+
+00:02:16.665 --> 00:02:21.524
+Now for the secret sauce, the tricks,
+while the specific formulas change
+
+00:02:21.524 --> 00:02:26.174
+with the topic, like profit loss or
+time work, the real magic for data
+
+00:02:26.174 --> 00:02:28.304
+sufficiency is about your approach.
+
+00:02:28.785 --> 00:02:32.589
+The biggest trick is to stop yourself
+from actually solving the problem.
+
+00:02:33.605 --> 00:02:40.115
+I know it feels wrong, but your only job
+is to check if it can be solved always.
+
+00:02:40.235 --> 00:02:44.855
+And I mean, always check statement
+one alone, then statement two alone.
+
+00:02:45.335 --> 00:02:49.025
+This helps you eliminate options
+faster than a rumor spreads.
+
+00:02:49.625 --> 00:02:52.535
+Only combine them if they
+both fail on their own.
+
+00:02:53.075 --> 00:02:55.805
+The goal is to find a
+unique single answer.
+
+00:02:56.285 --> 00:02:59.855
+If a statement gives you one
+solid answer, it's sufficient.
+
+00:03:00.335 --> 00:03:04.685
+If it gives you a, maybe this,
+maybe that situation, it's useless.
+
+00:03:05.255 --> 00:03:09.935
+Also, watch out for sneaky, redundant
+information where both statements
+
+00:03:09.935 --> 00:03:14.525
+are just saying the same thing in
+different clothes and a golden rule.
+
+00:03:14.735 --> 00:03:18.395
+Don't use your own gun
+stick only to what's given.
+
+00:03:19.185 --> 00:03:20.415
+Methods of solving.
+
+00:03:20.895 --> 00:03:23.895
+So how do we tackle these
+beasts systematically?
+
+00:03:24.225 --> 00:03:28.005
+First, understand the question,
+what are they really asking for?
+
+00:03:28.275 --> 00:03:29.715
+What is the target value?
+
+00:03:30.135 --> 00:03:35.295
+Next, analyze statement one alone,
+pretend statement two doesn't even exist.
+
+00:03:35.745 --> 00:03:37.755
+Can you get a single definite answer?
+
+00:03:38.115 --> 00:03:39.645
+If yes, it's sufficient.
+
+00:03:39.945 --> 00:03:44.115
+If no it's not, then do the
+same first statement, two alone.
+
+00:03:44.505 --> 00:03:49.425
+Forget everything you saw in statement
+one is statement two, enough on its own.
+
+00:03:49.935 --> 00:03:55.305
+If neither of them works alone and only
+then you can bring them together, combine
+
+00:03:55.305 --> 00:03:57.405
+their powers like a superhero came up.
+
+00:03:57.885 --> 00:04:00.765
+If together they give you
+a unique answer, great.
+
+00:04:01.215 --> 00:04:05.325
+If they still leave you guessing, then
+even together, they are not sufficient.
+
+00:04:05.770 --> 00:04:09.730
+Finally, you pick the option that
+matches your brilliant analysis,
+
+00:04:10.180 --> 00:04:12.220
+shortcuts, and smart techniques.
+
+00:04:12.960 --> 00:04:14.490
+Want to be even faster.
+
+00:04:14.760 --> 00:04:16.590
+Use the elimination strategy.
+
+00:04:17.070 --> 00:04:21.480
+If you find that statement one alone is
+sufficient, you can immediately throw
+
+00:04:21.480 --> 00:04:23.610
+out any option that says it's not.
+
+00:04:24.270 --> 00:04:29.100
+Another smart technique is to focus on
+variables, see what you need to find,
+
+00:04:29.310 --> 00:04:33.570
+and then check if the statements give you
+enough independent equations to find it.
+
+00:04:34.159 --> 00:04:38.210
+For some questions, especially
+with inequalities, you can test a
+
+00:04:38.210 --> 00:04:42.469
+couple of values if different test
+values give you different answers.
+
+00:04:42.650 --> 00:04:46.880
+The statement is insufficient,
+and please practice with a timer.
+
+00:04:47.299 --> 00:04:50.000
+It trains your brain to
+assess, not calculate.
+
+00:04:50.450 --> 00:04:54.710
+Finally learning to categorize the
+question type, algebra, geometry,
+
+00:04:54.710 --> 00:04:58.015
+et cetera, helps you recall
+the right concepts in a flash.
+
+00:04:59.130 --> 00:05:01.320
+Common mistakes and misconceptions.
+
+00:05:01.860 --> 00:05:04.710
+Now, let's talk about the
+traps people fall into.
+
+00:05:05.159 --> 00:05:08.850
+The number one mistake is actually
+solving the entire problem.
+
+00:05:09.000 --> 00:05:09.810
+Don't do it.
+
+00:05:10.170 --> 00:05:13.260
+You're checking for sufficiency,
+not the answer itself.
+
+00:05:13.800 --> 00:05:17.310
+Another big one is assuming
+information that isn't given.
+
+00:05:17.550 --> 00:05:18.659
+Stick to the script.
+
+00:05:19.100 --> 00:05:22.490
+When you are checking one statement,
+do not peek at the other one.
+
+00:05:22.850 --> 00:05:25.580
+They must be evaluated
+independently first.
+
+00:05:26.060 --> 00:05:30.230
+If you see a problem that looks like
+it needs a PhD in mathematics to solve,
+
+00:05:30.440 --> 00:05:32.240
+you are probably on the wrong track.
+
+00:05:32.600 --> 00:05:34.790
+You are trying to solve it, not check it.
+
+00:05:35.240 --> 00:05:38.300
+And lastly, always
+consider all possibilities.
+
+00:05:38.720 --> 00:05:43.430
+If a question mentions integer, think
+about positive, negative, and zero.
+
+00:05:43.670 --> 00:05:45.440
+Don't leave any stone unturned.
+
+00:05:45.890 --> 00:05:47.630
+W Edge Framework Summary.
+
+00:05:48.360 --> 00:05:51.540
+So to put it all in a
+nutshell, what is it?
+
+00:05:51.960 --> 00:05:55.920
+A type of question where you
+determine if given data is enough
+
+00:05:55.920 --> 00:05:58.410
+to solve a problem, why do we do it?
+
+00:05:58.800 --> 00:06:02.220
+To test your logical reasoning
+and analytical skills?
+
+00:06:02.730 --> 00:06:03.780
+When is it applied?
+
+00:06:04.080 --> 00:06:08.340
+When evaluating information to make
+decisions, especially under time
+
+00:06:08.340 --> 00:06:10.620
+constraints, where will you find it?
+
+00:06:10.980 --> 00:06:14.730
+It's common in competitive
+exams, business analysis, and
+
+00:06:14.730 --> 00:06:16.500
+other problem solving scenarios.
+
+00:06:16.979 --> 00:06:17.940
+Who needs this?
+
+00:06:18.270 --> 00:06:22.229
+Aspiring banking professionals,
+analysts, and anyone needing
+
+00:06:22.229 --> 00:06:23.940
+to make data-driven decisions.
+
+00:06:24.359 --> 00:06:25.469
+And how do we do it?
+
+00:06:25.770 --> 00:06:29.880
+By systematically evaluating
+each statement individually and
+
+00:06:29.880 --> 00:06:33.510
+then combined without actually
+calculating the final answer.
+
+00:06:34.109 --> 00:06:35.549
+Fully worked out examples.
+
+00:06:35.549 --> 00:06:38.580
+Example, one question.
+
+00:06:38.880 --> 00:06:41.820
+What is the two digit number statements?
+
+00:06:42.179 --> 00:06:44.414
+One, the sum of the digits is nine.
+
+00:06:45.165 --> 00:06:50.505
+Two, the digit in the 10 is twice
+the digit in the units place options.
+
+00:06:51.180 --> 00:06:54.719
+A statement one alone is
+sufficient to answer the question.
+
+00:06:55.080 --> 00:06:58.650
+B. Statement two alone is
+sufficient to answer the question.
+
+00:06:58.980 --> 00:07:03.120
+C. Both statement one and statement
+two together are sufficient to
+
+00:07:03.120 --> 00:07:06.390
+answer the question, but neither
+statement alone is sufficient.
+
+00:07:06.750 --> 00:07:10.500
+D. Both statement one and
+statement two together are not
+
+00:07:10.500 --> 00:07:11.755
+sufficient to answer the question.
+
+00:07:12.630 --> 00:07:15.390
+Understand the question
+before moving to explanation.
+
+00:07:15.810 --> 00:07:17.609
+All right, let's break it down.
+
+00:07:17.940 --> 00:07:20.909
+Statement one says the
+sum of digits is nine.
+
+00:07:21.210 --> 00:07:21.599
+Hmm.
+
+00:07:21.810 --> 00:07:26.130
+So it could be 18, 27, 36, 45.
+
+00:07:26.280 --> 00:07:27.659
+Lots of possibilities.
+
+00:07:27.989 --> 00:07:30.510
+So statement one alone is not sufficient.
+
+00:07:31.260 --> 00:07:33.539
+Now let's look at statement two alone.
+
+00:07:33.900 --> 00:07:36.330
+The 10 digit is twice the units digit.
+
+00:07:36.750 --> 00:07:41.340
+This could mean 21, 42, 63, or 84.
+
+00:07:41.609 --> 00:07:43.320
+Again, too many choices.
+
+00:07:43.680 --> 00:07:46.440
+So statement two alone is not sufficient.
+
+00:07:46.890 --> 00:07:50.340
+But what happens when we
+combine them from statement one?
+
+00:07:50.460 --> 00:07:56.755
+We have D plus U equals nine from
+statement 2D equals to u. Let's substitute
+
+00:07:57.145 --> 00:08:02.425
+two u plus U equals nine, which means
+three U equals nine, so U is three.
+
+00:08:02.755 --> 00:08:04.975
+If U is three, D must be six.
+
+00:08:05.305 --> 00:08:06.835
+The number is 63.
+
+00:08:07.135 --> 00:08:11.455
+We found a unique answer, so both
+statements together are sufficient.
+
+00:08:11.815 --> 00:08:17.995
+The correct answer is C. Example
+two question, what is the present
+
+00:08:18.025 --> 00:08:20.425
+age of the sun statements?
+
+00:08:20.865 --> 00:08:26.475
+One, the sum of the present ages of
+the father and the son is 60 years.
+
+00:08:27.075 --> 00:08:31.905
+Two, five years ago, the father's
+age was five times the son's age.
+
+00:08:32.819 --> 00:08:33.480
+Options.
+
+00:08:33.929 --> 00:08:38.250
+A statement one alone is
+sufficient to answer the question.
+
+00:08:38.669 --> 00:08:43.020
+B. Statement two alone is
+sufficient to answer the question.
+
+00:08:43.409 --> 00:08:48.540
+C. Both statement one and statement
+two together are sufficient to
+
+00:08:48.540 --> 00:08:52.260
+answer the question, but neither
+statement alone is sufficient.
+
+00:08:52.694 --> 00:08:57.915
+D. Both statement one and statement
+two together are not sufficient To
+
+00:08:57.915 --> 00:09:02.625
+answer the question, understand the
+question before moving to explanation.
+
+00:09:03.225 --> 00:09:03.645
+Okay.
+
+00:09:03.944 --> 00:09:06.765
+Let's solve this family drama statement.
+
+00:09:06.765 --> 00:09:07.125
+One.
+
+00:09:07.395 --> 00:09:12.285
+Father plus son is 60,
+so F plus S equals 60.
+
+00:09:12.675 --> 00:09:18.915
+We can't solve this F. Could be
+50 and S 10 or F 40 and S 20.
+
+00:09:19.185 --> 00:09:19.870
+Useless alone.
+
+00:09:20.485 --> 00:09:27.025
+Now statement two, five years ago,
+father was five times the son, so F minus
+
+00:09:27.025 --> 00:09:30.175
+five equals five times S minus five.
+
+00:09:30.595 --> 00:09:34.615
+This simplifies to F
+equals five S minus 20.
+
+00:09:34.975 --> 00:09:37.315
+Still one equation, which two variables.
+
+00:09:37.645 --> 00:09:39.295
+Also useless on its own.
+
+00:09:39.535 --> 00:09:41.365
+Now, let's combine them.
+
+00:09:41.695 --> 00:09:43.825
+We have two beautiful equations.
+
+00:09:44.125 --> 00:09:48.565
+F equals 60 minus S and
+F equals five s minus 20.
+
+00:09:48.925 --> 00:09:54.805
+We can set them equal 60 minus S
+equals five s minus 20, a little bit
+
+00:09:54.805 --> 00:10:01.705
+of algebra magic, and we get 80 equals
+six s. So S equals 80 divided by six.
+
+00:10:02.005 --> 00:10:03.925
+It's a fraction, but who cares?
+
+00:10:04.225 --> 00:10:06.890
+It's a unique, definite
+value for the son's age.
+
+00:10:07.430 --> 00:10:10.490
+Therefore, both statements
+together are sufficient.
+
+00:10:10.820 --> 00:10:14.060
+The correct answer is C. Example three.
+
+00:10:14.450 --> 00:10:21.110
+Question is X, a positive number
+statements one x squared minus four
+
+00:10:21.110 --> 00:10:23.330
+x plus three is less than zero.
+
+00:10:23.690 --> 00:10:27.770
+Two x squared minus x
+minus six equals zero.
+
+00:10:28.354 --> 00:10:28.984
+Options.
+
+00:10:29.285 --> 00:10:33.334
+A statement one alone is
+sufficient to answer the question.
+
+00:10:33.604 --> 00:10:37.655
+B. Statement two alone is
+sufficient to answer the question.
+
+00:10:37.925 --> 00:10:42.755
+C. Both statement one and statement
+two together are sufficient to
+
+00:10:42.755 --> 00:10:46.354
+answer the question, but neither
+statement alone is sufficient.
+
+00:10:46.680 --> 00:10:51.690
+D. Both statement one and statement
+two together are not sufficient to
+
+00:10:51.690 --> 00:10:56.130
+answer the question, understand the
+question before moving to explanation.
+
+00:10:56.580 --> 00:11:01.560
+The question is, a simple yes
+or no is X positive statement
+
+00:11:01.560 --> 00:11:02.975
+one gives an inequality.
+
+00:11:03.805 --> 00:11:07.555
+X squared minus four x plus
+three is less than zero.
+
+00:11:07.885 --> 00:11:13.405
+Factoring this, we get X minus one
+into X minus three, less than zero.
+
+00:11:13.735 --> 00:11:17.605
+For this to be true, X must be
+squished between one and three.
+
+00:11:17.995 --> 00:11:21.685
+Any number between one and three
+is definitely positive, right?
+
+00:11:21.985 --> 00:11:24.145
+So we get a definite yes.
+
+00:11:24.444 --> 00:11:26.515
+Statement one alone is sufficient.
+
+00:11:26.845 --> 00:11:28.915
+Now, let's check statement two.
+
+00:11:28.915 --> 00:11:30.025
+Just for practice.
+
+00:11:30.445 --> 00:11:34.735
+It says X squared minus
+X minus six equals zero.
+
+00:11:35.065 --> 00:11:35.665
+Factoring.
+
+00:11:35.665 --> 00:11:39.805
+This gives X minus three
+into X plus two equals zero.
+
+00:11:40.075 --> 00:11:45.625
+So X could be three, which is positive, or
+it could be minus two, which is negative.
+
+00:11:45.915 --> 00:11:48.285
+Since we get a maybe yes, maybe no.
+
+00:11:48.435 --> 00:11:52.755
+This statement is not sufficient
+since statement one alone was enough.
+
+00:11:52.844 --> 00:11:54.765
+We don't need to combine anything.
+
+00:11:54.974 --> 00:11:57.314
+The answer is a thank you.
+
+00:11:57.435 --> 00:11:59.025
+See you in the next lecture.
+

@@ -1,0 +1,696 @@
+WEBVTT
+
+00:00:00.240 --> 00:00:04.800
+Welcome my friend to today's lecture
+on permutation and Combinations.
+
+00:00:05.190 --> 00:00:09.750
+Let's unpack the mystery of this
+concept without needing a PhD or a
+
+00:00:09.750 --> 00:00:12.630
+panic attack concept explanation.
+
+00:00:13.140 --> 00:00:15.210
+All right, let's dive right in.
+
+00:00:15.660 --> 00:00:19.920
+Permutation and combination are the
+fundamental superstars of mathematics.
+
+00:00:20.070 --> 00:00:23.700
+Used to count the number of ways
+different events can play out.
+
+00:00:24.210 --> 00:00:27.300
+They are especially handy when
+you're dealing with arranging or
+
+00:00:27.300 --> 00:00:29.370
+selecting items from a big group.
+
+00:00:29.895 --> 00:00:31.575
+First up, permutation.
+
+00:00:31.965 --> 00:00:35.445
+A permutation is simply an
+arrangement of objects where the
+
+00:00:35.445 --> 00:00:37.455
+specific order is everything.
+
+00:00:37.845 --> 00:00:40.515
+The order of the items
+matters a great deal.
+
+00:00:40.905 --> 00:00:46.305
+For example, if you have three letters,
+A, B, and C, the arrangements A, B, C,
+
+00:00:46.394 --> 00:00:53.355
+A, C, B, B, A, C, B, CA, CA, B, and C, BA
+are all considered different permutations.
+
+00:00:53.715 --> 00:00:57.435
+It answers the question, how many
+ways can you arrange a certain
+
+00:00:57.435 --> 00:00:59.055
+number of items from a set?
+
+00:00:59.565 --> 00:01:03.254
+Then we have its school
+relaxed cousin combination.
+
+00:01:03.644 --> 00:01:08.625
+A combination is a selection of objects
+where the order is completely irrelevant.
+
+00:01:08.865 --> 00:01:10.245
+Who cares who came first?
+
+00:01:10.545 --> 00:01:15.735
+For example, if you choose two letters
+from A, B, and C, selecting AB is
+
+00:01:15.735 --> 00:01:18.045
+exactly the same as selecting ba.
+
+00:01:18.285 --> 00:01:19.634
+It's all one group.
+
+00:01:20.025 --> 00:01:23.655
+It answers the question, how many
+ways can you choose a certain
+
+00:01:23.655 --> 00:01:25.275
+number of items from a set?
+
+00:01:25.755 --> 00:01:28.545
+The key difference to burn
+into your brain is this.
+
+00:01:28.920 --> 00:01:33.509
+Order matters in permutation, but
+order does not matter in combination.
+
+00:01:33.690 --> 00:01:36.419
+Simple, real world relevance.
+
+00:01:36.750 --> 00:01:39.750
+And you might ask, where
+on earth do we use this?
+
+00:01:40.050 --> 00:01:43.440
+Well, permutation and combination
+are your best friends.
+
+00:01:43.560 --> 00:01:47.639
+When calculating the number of ways
+to arrange security codes or select
+
+00:01:47.639 --> 00:01:51.869
+a specific number of candidates for
+a job from a larger pool, they are
+
+00:01:51.899 --> 00:01:56.130
+absolutely crucial for understanding
+probability in big fields like
+
+00:01:56.130 --> 00:01:58.320
+risk assessment and data analysis.
+
+00:01:58.920 --> 00:02:03.000
+Breakdown of question types based
+on recurring question formats.
+
+00:02:03.119 --> 00:02:05.970
+Here are the types of problems
+you'll most likely face.
+
+00:02:06.360 --> 00:02:11.130
+About 30 to 35% of questions are a
+direct application of the formulas
+
+00:02:11.340 --> 00:02:14.730
+straight up, asking for the number
+of arrangements or selections.
+
+00:02:15.090 --> 00:02:19.170
+Then 25 to 30% are problems
+with some strings attached.
+
+00:02:19.320 --> 00:02:24.690
+Some restrictions or conditions like WS
+must always be together, or these two
+
+00:02:24.690 --> 00:02:26.550
+people can never be in the same team.
+
+00:02:26.910 --> 00:02:32.070
+You can also expect word-based problems
+about 15 to 20% of the time, asking for
+
+00:02:32.070 --> 00:02:35.910
+the number of distinct words you can
+form from the letters of another word.
+
+00:02:36.390 --> 00:02:40.500
+Number-based problems like forming
+numbers with specific digits under certain
+
+00:02:40.500 --> 00:02:43.260
+conditions make up about 10 to 15%.
+
+00:02:43.679 --> 00:02:48.239
+And finally you might see a few on
+circular permutations arranging things
+
+00:02:48.239 --> 00:02:53.640
+in a circle or probability questions that
+need PNC to find the answers each making
+
+00:02:53.640 --> 00:02:55.920
+up about five to 10% of the problems.
+
+00:02:56.595 --> 00:03:01.845
+Formulas plus tricks now for the magic
+spells, the key formulas and simple
+
+00:03:01.845 --> 00:03:06.885
+tricks, the foundation of it all is the
+factorial shown by an exclamation mark.
+
+00:03:07.215 --> 00:03:11.865
+The factorial of N or N factorial
+is just the product of all positive
+
+00:03:11.865 --> 00:03:16.665
+integers, less than or equal to N.
+And remember, by convention, zero
+
+00:03:16.665 --> 00:03:19.005
+factorial, zero factorial is one.
+
+00:03:19.400 --> 00:03:23.120
+The permutation formula, which
+calculates the number of permutations
+
+00:03:23.120 --> 00:03:29.120
+of N distinct items taken R at a
+time is P of NR equals N factorial
+
+00:03:29.120 --> 00:03:31.340
+divided by N minus R factorial.
+
+00:03:31.790 --> 00:03:37.760
+The combination formula for selecting
+R items from N is C of NR equals N
+
+00:03:37.760 --> 00:03:42.350
+factorial, divided by the product of
+R factorial and N minus R factorial.
+
+00:03:42.925 --> 00:03:47.515
+And if you have repetitions, like in the
+word apple, the number of permutations
+
+00:03:47.515 --> 00:03:52.225
+is n factorial divided by the factorials
+of the counts of each repeated item.
+
+00:03:52.585 --> 00:03:57.625
+For trick one, remember this, if events
+are connected by and you multiply the
+
+00:03:57.625 --> 00:04:02.785
+ways, if it's, or you add the ways
+for trick two, look for keywords,
+
+00:04:03.055 --> 00:04:08.185
+arrangement, order, or position, screen
+permutation, words like selection,
+
+00:04:08.275 --> 00:04:10.945
+choose, or committee whisper combination.
+
+00:04:11.595 --> 00:04:12.855
+Methods of solving.
+
+00:04:13.095 --> 00:04:15.705
+So how do we actually solve these things?
+
+00:04:16.005 --> 00:04:18.015
+Let's talk methods first.
+
+00:04:18.105 --> 00:04:20.084
+The fundamental principle of counting.
+
+00:04:20.415 --> 00:04:21.644
+This has two parts.
+
+00:04:21.915 --> 00:04:26.655
+The multiplication principle says if one
+thing can be done in M ways and another
+
+00:04:26.655 --> 00:04:31.575
+independent thing in N ways, then both
+can be done together in M times N ways.
+
+00:04:31.955 --> 00:04:36.425
+The addition principle says if one
+event can happen in Nway and another
+
+00:04:36.485 --> 00:04:40.535
+in Nway, but they can't happen at
+the same time, then either one or
+
+00:04:40.535 --> 00:04:42.425
+the other can happen in m plus.
+
+00:04:42.425 --> 00:04:42.515
+Nway.
+
+00:04:43.395 --> 00:04:46.665
+When the problem screams, order
+is important, you can directly
+
+00:04:46.665 --> 00:04:48.195
+use the permutation formula.
+
+00:04:48.435 --> 00:04:51.285
+Just identify your n
+and r and plug them in.
+
+00:04:51.645 --> 00:04:54.825
+Similarly, when the order of
+selection is not a big deal,
+
+00:04:54.975 --> 00:04:56.505
+use the combination formula.
+
+00:04:56.745 --> 00:04:59.325
+Just identify your n and r and solve.
+
+00:04:59.745 --> 00:05:03.885
+Finally, for those tricky conditional
+problems, we have special tactics.
+
+00:05:04.180 --> 00:05:08.055
+If certain items must always be
+together, just bundle them up
+
+00:05:08.055 --> 00:05:09.675
+and treat them as a single unit.
+
+00:05:10.094 --> 00:05:14.414
+If certain items must never be together,
+find the total arrangements without
+
+00:05:14.414 --> 00:05:18.075
+any rules, and then subtract the
+arrangements where they are together.
+
+00:05:18.465 --> 00:05:23.445
+And if an item has a specific reserved
+position, just place it there first and
+
+00:05:23.445 --> 00:05:24.715
+then worry about arranging the rest.
+
+00:05:25.740 --> 00:05:27.690
+Shortcuts plus smart techniques.
+
+00:05:27.990 --> 00:05:30.000
+Want some shortcuts to look like a pro?
+
+00:05:30.240 --> 00:05:32.849
+First, simplify factorials when you can.
+
+00:05:33.090 --> 00:05:37.170
+You don't always need to calculate the
+whole thing, cancel out common terms.
+
+00:05:37.500 --> 00:05:41.190
+Second, it really helps to
+memorize common factorial values
+
+00:05:41.280 --> 00:05:43.080
+like for four, five, and six.
+
+00:05:43.349 --> 00:05:43.980
+Trust me.
+
+00:05:44.310 --> 00:05:46.680
+Third, use the symmetry in combinations.
+
+00:05:46.945 --> 00:05:53.125
+C of NR is the same as C of N and
+minus R, so C of 10 comma eight is
+
+00:05:53.125 --> 00:05:57.775
+much easier to calculate as C of 10
+comma two for questions with at least
+
+00:05:57.775 --> 00:06:00.295
+or at most use complimentary counting.
+
+00:06:00.535 --> 00:06:04.345
+It's often easier to find the total
+minus the cases you don't want.
+
+00:06:04.780 --> 00:06:08.260
+A great visual trick for arrangement
+problems is to draw empty
+
+00:06:08.260 --> 00:06:09.940
+slots and fill them one by one.
+
+00:06:10.300 --> 00:06:13.780
+And when a problem looks like a
+monster, just break it down into
+
+00:06:13.780 --> 00:06:17.530
+smaller, manageable pieces, solve
+each one, and then combine the
+
+00:06:17.530 --> 00:06:22.930
+results usually by multiplication,
+common mistakes and misconceptions.
+
+00:06:23.520 --> 00:06:26.430
+Now a word of warning about common traps.
+
+00:06:26.789 --> 00:06:31.020
+The number one mistake is confusing,
+permutation and combination.
+
+00:06:31.530 --> 00:06:34.380
+Always ask yourself,
+does the order matter?
+
+00:06:34.980 --> 00:06:39.570
+Another classic error is messing up the
+addition and multiplication principles.
+
+00:06:39.924 --> 00:06:43.585
+Remember and means multiply or means add.
+
+00:06:44.184 --> 00:06:48.474
+People also often over count or
+under count, especially when there
+
+00:06:48.474 --> 00:06:50.065
+are repeated letters in a word.
+
+00:06:50.484 --> 00:06:55.135
+Be careful with at least, or at
+most problems, they can be tricky.
+
+00:06:55.674 --> 00:07:00.414
+Don't forget to apply all the given
+restrictions in a question and please
+
+00:07:00.594 --> 00:07:04.104
+double check your calculations,
+especially with factorials.
+
+00:07:04.465 --> 00:07:07.885
+A small slip can lead to
+a completely wrong answer.
+
+00:07:08.744 --> 00:07:10.275
+W framework summary.
+
+00:07:10.815 --> 00:07:14.984
+So to quickly wrap it all up,
+what are we talking about?
+
+00:07:15.405 --> 00:07:19.724
+Methods for counting arrangements,
+which is permutation and selections.
+
+00:07:19.784 --> 00:07:20.984
+Which is combination.
+
+00:07:21.495 --> 00:07:24.705
+Why do we need them to figure
+out the total number of
+
+00:07:24.705 --> 00:07:26.685
+possible outcomes for events?
+
+00:07:27.120 --> 00:07:32.400
+When do we apply them in any situation
+involving arranging items, selecting
+
+00:07:32.400 --> 00:07:34.740
+groups, or calculating probabilities?
+
+00:07:35.219 --> 00:07:40.350
+Where are they used in probability,
+statistics, computer science, risk
+
+00:07:40.350 --> 00:07:43.050
+analysis, and many real world scenarios.
+
+00:07:43.500 --> 00:07:44.229
+Who uses this?
+
+00:07:44.984 --> 00:07:50.385
+Statisticians, data analysts, risk
+managers, and basically any friend who
+
+00:07:50.385 --> 00:07:52.664
+needs to count a lot of possibilities.
+
+00:07:53.145 --> 00:07:54.554
+And how do we do it?
+
+00:07:54.974 --> 00:08:00.375
+By using our trustee factorial permutation
+and combination formulas along with
+
+00:08:00.375 --> 00:08:02.265
+fundamental counting principles.
+
+00:08:02.849 --> 00:08:04.560
+Fully worked out examples.
+
+00:08:05.010 --> 00:08:10.380
+Example, one permutation question,
+how many different four digit numbers
+
+00:08:10.560 --> 00:08:12.539
+can be formed using the digits?
+
+00:08:12.539 --> 00:08:17.880
+1, 2, 3, 4, 5, 6. If no digit is repeated.
+
+00:08:18.284 --> 00:08:25.155
+Options, A one 20 B 360
+C seven 20 D four 80.
+
+00:08:25.544 --> 00:08:28.365
+Understand the question
+before moving to explanation.
+
+00:08:28.755 --> 00:08:29.265
+All right.
+
+00:08:29.445 --> 00:08:34.574
+For the solution first, we need to form
+a four digit number from six distinct
+
+00:08:34.574 --> 00:08:39.855
+digits without repetition, since 1,
+2, 3, 4 is a different number from 4,
+
+00:08:39.855 --> 00:08:42.375
+3, 2, 1, the order clearly matters.
+
+00:08:42.780 --> 00:08:45.000
+This is a classic permutation problem.
+
+00:08:45.420 --> 00:08:48.660
+Our total number of
+available digits N is six.
+
+00:08:49.020 --> 00:08:53.910
+The number of digits we need to
+arrange R is four, so we apply the
+
+00:08:53.910 --> 00:08:57.180
+formula PNR, which is B six four.
+
+00:08:57.540 --> 00:09:02.790
+This equals six factorial divided
+by six minus four factorial, which
+
+00:09:02.790 --> 00:09:05.250
+is six factorial over two factorial.
+
+00:09:05.665 --> 00:09:10.945
+Calculating this, we get seven 20
+divided by two, which gives us 360.
+
+00:09:11.305 --> 00:09:13.675
+The correct answer is B 360.
+
+00:09:14.215 --> 00:09:17.065
+Example two combination question.
+
+00:09:17.425 --> 00:09:20.725
+A committee of three members
+is to be formed from a group
+
+00:09:20.725 --> 00:09:22.615
+of five men and four women.
+
+00:09:23.065 --> 00:09:27.290
+In how many ways can the committee
+be formed, if it must consist of
+
+00:09:27.320 --> 00:09:29.455
+exactly two men and one woman?
+
+00:09:29.885 --> 00:09:30.545
+Options.
+
+00:09:30.814 --> 00:09:35.645
+A 20 B 30 C 40 D 50.
+
+00:09:36.035 --> 00:09:38.735
+Understand the question
+before moving to explanation.
+
+00:09:39.095 --> 00:09:40.324
+Let's break this down.
+
+00:09:40.655 --> 00:09:44.915
+We are forming a committee, so the
+order of selection does not matter.
+
+00:09:45.185 --> 00:09:46.655
+It's a combination problem.
+
+00:09:47.074 --> 00:09:51.485
+The condition is that we need
+exactly two men and one woman.
+
+00:09:51.905 --> 00:09:53.939
+So first, let's select the men.
+
+00:09:54.574 --> 00:09:56.824
+We need to choose two men from five.
+
+00:09:57.035 --> 00:09:58.595
+This is C five two.
+
+00:09:58.954 --> 00:10:00.845
+The formula gives us 10 ways.
+
+00:10:01.235 --> 00:10:02.975
+Next, we select the woman.
+
+00:10:03.334 --> 00:10:05.495
+We need to choose one woman from four.
+
+00:10:05.765 --> 00:10:08.765
+This is C four one,
+which gives us four ways.
+
+00:10:09.215 --> 00:10:13.715
+Since the committee needs men and women,
+we use the multiplication principle.
+
+00:10:13.985 --> 00:10:17.795
+We multiply the ways to select
+men by the ways to select women.
+
+00:10:18.005 --> 00:10:20.615
+So 10 times four equals 40.
+
+00:10:20.944 --> 00:10:22.895
+The correct answer is C 40.
+
+00:10:23.515 --> 00:10:27.235
+Example three permutation
+with restriction question.
+
+00:10:27.564 --> 00:10:31.824
+In how many ways can the letters of
+the word banking be arranged such
+
+00:10:31.824 --> 00:10:34.135
+that the two ends are always together?
+
+00:10:34.525 --> 00:10:42.535
+Options A seven 20 B 360 C one 20
+D two 40 understand the question
+
+00:10:42.535 --> 00:10:43.839
+before moving to explanation.
+
+00:10:44.505 --> 00:10:44.925
+Okay.
+
+00:10:45.074 --> 00:10:49.485
+For our final example, we're arranging
+the letters of banking, which has
+
+00:10:49.485 --> 00:10:52.064
+seven letters with two identical ends.
+
+00:10:52.545 --> 00:10:56.145
+The restriction is that the
+two ends must always together.
+
+00:10:56.595 --> 00:11:01.305
+The trick here is to treat the items
+that must stay together as a single unit.
+
+00:11:01.605 --> 00:11:04.275
+So let's bundle NNN into one block.
+
+00:11:04.665 --> 00:11:06.314
+Now what are we arranging?
+
+00:11:06.675 --> 00:11:15.015
+We have B-A-K-I-G and our new block, nnn,
+that makes six effective items to arrange.
+
+00:11:15.435 --> 00:11:19.185
+The number of ways to arrange
+these six distinct items is six
+
+00:11:19.185 --> 00:11:21.435
+factorial, which is seven 20.
+
+00:11:21.885 --> 00:11:25.275
+Now we must consider the
+arrangements inside our block.
+
+00:11:25.635 --> 00:11:26.810
+The block is NN.
+
+00:11:27.340 --> 00:11:31.420
+Since both letters are identical,
+there is only one way to arrange them.
+
+00:11:31.690 --> 00:11:33.280
+NN is just NN.
+
+00:11:33.670 --> 00:11:39.460
+So the final calculation is seven 20
+multiplied by one, which is seven 20.
+
+00:11:39.760 --> 00:11:42.190
+The correct answer is a seven 20.
+
+00:11:42.670 --> 00:11:43.210
+Thank you.
+
+00:11:43.390 --> 00:11:44.860
+See you in the next lecture.
+
