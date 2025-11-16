@@ -1,0 +1,652 @@
+WEBVTT
+
+00:00:00.210 --> 00:00:05.070
+Welcome my friend to today's lecture
+on computer and network security.
+
+00:00:05.670 --> 00:00:08.550
+Ever felt like your
+brain needed a power up?
+
+00:00:08.850 --> 00:00:09.600
+This is it.
+
+00:00:10.170 --> 00:00:13.500
+So what is this big short topic all about?
+
+00:00:14.010 --> 00:00:18.990
+Simply put, computer and network
+security refers to the practices
+
+00:00:19.020 --> 00:00:21.660
+and all the fancy technology we use.
+
+00:00:21.939 --> 00:00:26.980
+To protect our computer systems,
+networks, and precious data from any
+
+00:00:26.980 --> 00:00:29.830
+unauthorized access, use, or drama.
+
+00:00:30.340 --> 00:00:34.510
+It's about ensuring the
+confidentiality, integrity, and
+
+00:00:34.510 --> 00:00:36.820
+availability of our information.
+
+00:00:37.330 --> 00:00:42.550
+Think of it as building a solid digital
+fortress around your assets to keep them
+
+00:00:42.550 --> 00:00:45.340
+safe from all kinds of digital goons.
+
+00:00:46.000 --> 00:00:49.360
+Key concepts in computer and
+network security include.
+
+00:00:50.215 --> 00:00:54.985
+First we have confidentiality,
+which is just a fancy way of saying
+
+00:00:55.105 --> 00:00:59.875
+your information is for your eyes
+only, and those you authorize.
+
+00:01:00.235 --> 00:01:02.095
+It keeps your secret safe.
+
+00:01:02.605 --> 00:01:07.255
+Then there's integrity, which means
+making sure your data is accurate.
+
+00:01:07.340 --> 00:01:11.420
+And complete, and nobody has
+messed with it without permission.
+
+00:01:11.810 --> 00:01:14.090
+Finally, we have availability.
+
+00:01:14.420 --> 00:01:18.560
+This means authorized users can get
+their data whenever they need it
+
+00:01:18.740 --> 00:01:20.960
+without any annoying disruptions.
+
+00:01:21.260 --> 00:01:27.230
+This is the famous CIA Triad
+Common Threats and Attacks Now
+
+00:01:27.230 --> 00:01:28.910
+for the villains of our story.
+
+00:01:29.315 --> 00:01:32.615
+First up is malware or malicious software.
+
+00:01:33.005 --> 00:01:36.875
+It's designed to cause damage
+or just be plain irritating.
+
+00:01:37.295 --> 00:01:38.914
+We have different types here.
+
+00:01:39.304 --> 00:01:41.645
+Viruses are like clingy relatives.
+
+00:01:41.855 --> 00:01:46.295
+They attach themselves to legitimate
+software and need a host to spread.
+
+00:01:46.775 --> 00:01:48.664
+Worms are more independent.
+
+00:01:48.875 --> 00:01:53.104
+They are self-replicating and spread
+across networks all by themselves.
+
+00:01:53.405 --> 00:01:54.310
+No host needed.
+
+00:01:55.150 --> 00:01:57.940
+Trojan horses are the masters of disguise.
+
+00:01:58.300 --> 00:02:02.290
+They look like useful software,
+but they hide malicious code.
+
+00:02:02.710 --> 00:02:05.590
+They trick you, but they
+don't self-replicate.
+
+00:02:06.190 --> 00:02:08.590
+Ransomware is the digital kidnapper.
+
+00:02:08.830 --> 00:02:11.770
+It encrypts your files
+and demands A ransom.
+
+00:02:12.190 --> 00:02:14.350
+Spyware is the neighborhood gossip.
+
+00:02:14.560 --> 00:02:17.830
+It secretly watches and
+collects your information.
+
+00:02:18.430 --> 00:02:23.080
+Adware is that annoying salesman
+who just keeps showing unwanted ads.
+
+00:02:23.440 --> 00:02:27.220
+And key loggers are the worst
+kind of spies, recording
+
+00:02:27.279 --> 00:02:29.200
+every single thing you type.
+
+00:02:29.619 --> 00:02:34.420
+Next is phishing, a social engineering
+trick where attackers pretend to
+
+00:02:34.420 --> 00:02:39.130
+be someone trustworthy, like your
+organization, to fool you into giving
+
+00:02:39.130 --> 00:02:41.469
+up sensitive info like passwords.
+
+00:02:41.619 --> 00:02:43.029
+Usually through email.
+
+00:02:43.480 --> 00:02:45.010
+Then we have spoofing.
+
+00:02:45.310 --> 00:02:49.750
+This is the art of disguise, faking
+communication from a known source.
+
+00:02:50.070 --> 00:02:53.490
+It can be email spoofing,
+IP spoofing, you name it.
+
+00:02:53.940 --> 00:02:56.700
+It's often the tool used
+in a phishing attack.
+
+00:02:57.150 --> 00:03:03.900
+Imagine a DOS or DDOS attack as creating
+a massive traffic jam to make a website
+
+00:03:03.900 --> 00:03:06.720
+on network unavailable to its real users.
+
+00:03:07.090 --> 00:03:12.310
+And finally, unauthorized access is
+simply breaking and entering into a system
+
+00:03:12.310 --> 00:03:18.040
+without permission, often because of weak
+passwords or trickery security measures.
+
+00:03:18.370 --> 00:03:22.120
+So how do we fight back
+with a good firewall?
+
+00:03:22.425 --> 00:03:27.375
+It's the security guard for your network
+monitoring all incoming and outgoing
+
+00:03:27.375 --> 00:03:30.045
+traffic and blocking anything suspicious.
+
+00:03:30.525 --> 00:03:32.715
+We also have antivirus software.
+
+00:03:32.865 --> 00:03:36.855
+The police force that detects,
+prevents and removes malware.
+
+00:03:37.390 --> 00:03:40.810
+Encryption is like writing
+your data in a secret code.
+
+00:03:41.230 --> 00:03:46.060
+There's symmetric encryption, which
+uses one secret key for both locking
+
+00:03:46.090 --> 00:03:52.240
+and unlocking and asymmetric encryption,
+which uses a pair of keys, a public key to
+
+00:03:52.240 --> 00:03:54.670
+lock it, and a private key to unlock it.
+
+00:03:55.055 --> 00:03:57.275
+Of course you need strong passwords.
+
+00:03:57.454 --> 00:03:59.585
+Please know password 1, 2, 3.
+
+00:03:59.795 --> 00:04:05.195
+Use a mix of everything and always keep
+your systems and software updated with
+
+00:04:05.195 --> 00:04:07.925
+regular updates to patch security holes.
+
+00:04:08.285 --> 00:04:12.815
+Finally, have a good backup and recovery
+plan because you never know when you
+
+00:04:12.815 --> 00:04:14.704
+might need to restore everything.
+
+00:04:15.065 --> 00:04:16.415
+Real world relevance.
+
+00:04:16.789 --> 00:04:17.959
+Why does this matter?
+
+00:04:18.260 --> 00:04:19.609
+For data protection?
+
+00:04:19.729 --> 00:04:24.200
+It safeguards customer data and
+records for financial security.
+
+00:04:24.349 --> 00:04:28.969
+It protects your online money
+transactions for operational continuity.
+
+00:04:29.150 --> 00:04:33.590
+It keeps your systems running for
+daily work for reputation management.
+
+00:04:33.740 --> 00:04:36.530
+It prevents data breaches
+that can ruin trust.
+
+00:04:36.919 --> 00:04:41.359
+It also helps with compliance to
+legal rules and with risk mitigation
+
+00:04:41.359 --> 00:04:43.130
+to reduce financial losses.
+
+00:04:43.549 --> 00:04:45.440
+Breakdown of question types.
+
+00:04:45.800 --> 00:04:46.730
+In your exam.
+
+00:04:46.850 --> 00:04:50.210
+Questions on this topic
+often focus on a few areas.
+
+00:04:50.570 --> 00:04:55.580
+About 40% will be on terminology
+and definitions, asking what things
+
+00:04:55.580 --> 00:04:57.410
+like malware or phishing mean.
+
+00:04:57.830 --> 00:05:02.090
+Around 30% will cover the purpose
+of functionality of security
+
+00:05:02.090 --> 00:05:04.430
+measures like what a firewall does.
+
+00:05:04.860 --> 00:05:09.180
+Another 15% will be on T threat
+identification and prevention.
+
+00:05:09.180 --> 00:05:15.210
+Through scenarios, you'll see about 10%
+on differences or comparisons like virus
+
+00:05:15.210 --> 00:05:21.900
+versus wan, and a small 5% on security,
+best practices, formulas, and tricks.
+
+00:05:22.300 --> 00:05:28.210
+While there are no math formulas, remember
+these cheat codes first, the CIA triad
+
+00:05:28.390 --> 00:05:34.570
+Confidentiality, integrity, availability
+For malware types, a virus needs a host.
+
+00:05:34.900 --> 00:05:36.730
+A worm wanders on its own.
+
+00:05:37.030 --> 00:05:38.410
+A Trojan is a trick.
+
+00:05:38.770 --> 00:05:39.520
+Ransomware.
+
+00:05:39.520 --> 00:05:44.020
+Once ransom spyware spies
+a key logger log skis.
+
+00:05:44.385 --> 00:05:48.465
+Remember, phishing is the act
+of deception to get information
+
+00:05:48.614 --> 00:05:52.575
+while spoofing is faking an
+identity often used for phishing.
+
+00:05:52.965 --> 00:05:56.625
+A firewall is a gatekeeper
+and encryption scrambles.
+
+00:05:56.625 --> 00:05:58.844
+Data symmetric uses one key.
+
+00:05:58.965 --> 00:06:02.505
+A symmetric uses two keys,
+a public and a private one.
+
+00:06:02.895 --> 00:06:03.810
+Methods of solving.
+
+00:06:04.635 --> 00:06:08.985
+To tackle questions first, understand
+the goal of any security measure
+
+00:06:08.985 --> 00:06:11.745
+mentioned, identify the attack vector.
+
+00:06:11.925 --> 00:06:13.485
+How is the attack happening?
+
+00:06:13.845 --> 00:06:15.975
+Match the threat to the right solution.
+
+00:06:16.305 --> 00:06:19.635
+Pay close attention to the small
+differences between similar
+
+00:06:19.635 --> 00:06:23.385
+terms, and always prioritize
+fundamental best practices like
+
+00:06:23.385 --> 00:06:28.065
+updates, and strong passwords,
+shortcuts, and smart techniques.
+
+00:06:28.390 --> 00:06:29.830
+Here are some quick tricks.
+
+00:06:30.100 --> 00:06:32.470
+Mal means bad like in malware.
+
+00:06:32.800 --> 00:06:34.510
+Phishing sounds like fake.
+
+00:06:34.780 --> 00:06:36.520
+Spoof means impersonate.
+
+00:06:36.820 --> 00:06:38.410
+A firewall is a wall.
+
+00:06:38.800 --> 00:06:40.510
+Encrypt is a secret code.
+
+00:06:40.870 --> 00:06:42.490
+A virus needs a vehicle.
+
+00:06:42.790 --> 00:06:46.330
+A worm is a wanderer,
+and a Trojan is a trick.
+
+00:06:46.720 --> 00:06:51.760
+Common mistakes and misconceptions don't
+make these common mistakes, my friend.
+
+00:06:52.120 --> 00:06:54.160
+Not all malware is a virus.
+
+00:06:54.530 --> 00:06:59.510
+Antivirus does not protect against
+everything, especially brand new attacks.
+
+00:06:59.780 --> 00:07:01.700
+Firewalls are not foolproof.
+
+00:07:01.790 --> 00:07:03.140
+They can be bypassed.
+
+00:07:03.530 --> 00:07:07.880
+Encryption makes data unreadable,
+but the key itself can be stolen.
+
+00:07:08.180 --> 00:07:09.860
+Phishing isn't just email.
+
+00:07:09.980 --> 00:07:14.595
+It can be texts or calls and spoofing
+while usually malicious in exams.
+
+00:07:15.150 --> 00:07:16.920
+Can have legitimate uses.
+
+00:07:17.370 --> 00:07:18.990
+WH framework summary.
+
+00:07:19.320 --> 00:07:21.810
+So to sum it up, what is it?
+
+00:07:22.080 --> 00:07:24.180
+Protecting digital stuff from harm.
+
+00:07:24.450 --> 00:07:28.860
+Why do we do it to ensure the
+CIA triad and prevent losses?
+
+00:07:29.160 --> 00:07:30.210
+When is it applied?
+
+00:07:30.330 --> 00:07:31.890
+Always continuously.
+
+00:07:32.130 --> 00:07:33.390
+Where is it implemented?
+
+00:07:33.539 --> 00:07:35.789
+Everywhere from your PC to the cloud.
+
+00:07:36.060 --> 00:07:37.170
+Who is responsible?
+
+00:07:37.349 --> 00:07:40.050
+All of us from it pros to every user.
+
+00:07:40.320 --> 00:07:41.430
+And how is it done?
+
+00:07:41.580 --> 00:07:46.229
+Through firewalls, antivirus, encryption,
+good passwords, updates, and being
+
+00:07:46.229 --> 00:07:48.900
+aware, fully worked out Examples.
+
+00:07:49.230 --> 00:07:51.750
+Let's look at example, one question.
+
+00:07:52.140 --> 00:07:56.610
+Which type of malicious software is
+designed to replicate itself and spread
+
+00:07:56.610 --> 00:08:00.719
+to other computers across a network
+without requiring a host program?
+
+00:08:01.130 --> 00:08:02.240
+A virus.
+
+00:08:02.419 --> 00:08:07.760
+B, Trojan horse, C Waam, D
+spyware understand the question
+
+00:08:07.760 --> 00:08:09.409
+before moving to explanation.
+
+00:08:09.859 --> 00:08:11.570
+Okay, let's break it down.
+
+00:08:11.780 --> 00:08:15.530
+The key phrases are replicate
+itself, spread across a network
+
+00:08:15.590 --> 00:08:17.299
+and without requiring a host.
+
+00:08:17.719 --> 00:08:21.919
+A virus needs a host, so A is
+out, a Trojan horse doesn't
+
+00:08:21.919 --> 00:08:23.390
+replicate, so B is out.
+
+00:08:23.719 --> 00:08:26.270
+Spyware doesn't focus
+on spreading like this.
+
+00:08:26.299 --> 00:08:26.955
+So D is out.
+
+00:08:27.599 --> 00:08:32.699
+A worm is famous for self-replicating and
+spreading independently across networks.
+
+00:08:32.760 --> 00:08:38.909
+It fits perfectly correct answer
+C. Here is example two question.
+
+00:08:39.240 --> 00:08:43.169
+A user receives an email that
+appears to be from their official
+
+00:08:43.169 --> 00:08:47.760
+organization, asking them to click a
+link to update their login credentials.
+
+00:08:48.170 --> 00:08:50.120
+Due to a security breach.
+
+00:08:50.510 --> 00:08:54.560
+Upon clicking, they are taken to
+a fake website designed to steal
+
+00:08:54.560 --> 00:08:56.180
+their username and password.
+
+00:08:56.719 --> 00:09:01.790
+This is an example of what type of
+cyber attack a denial of service.
+
+00:09:02.030 --> 00:09:08.120
+B. Phishing C, ransomware, D
+Spoofing understand the question
+
+00:09:08.209 --> 00:09:10.010
+before moving to explanation.
+
+00:09:11.475 --> 00:09:13.454
+All right, let's analyze this.
+
+00:09:13.814 --> 00:09:18.314
+The attack involves a deceptive
+email impersonation and stealing
+
+00:09:18.314 --> 00:09:19.935
+credentials on a fake site.
+
+00:09:20.355 --> 00:09:24.405
+A DOS attack just floods the
+system, so A is incorrect.
+
+00:09:24.824 --> 00:09:27.285
+Ransomware encrypts files for a ransom.
+
+00:09:27.370 --> 00:09:28.840
+So C is incorrect.
+
+00:09:29.230 --> 00:09:33.910
+Spoofing is just faking an identity, which
+is part of this attack, but the whole
+
+00:09:33.910 --> 00:09:38.770
+scam of tricking the user to get their
+information is the definition of phishing.
+
+00:09:39.130 --> 00:09:43.930
+Phishing is the broader, more accurate
+term for the entire attack, correct?
+
+00:09:43.930 --> 00:09:48.535
+Answer B. And finally,
+example three question.
+
+00:09:48.965 --> 00:09:52.330
+What is the primary function of
+a firewall in a computer network?
+
+00:09:53.155 --> 00:09:56.035
+A, to increase the speed
+of internet browsing.
+
+00:09:56.395 --> 00:09:59.395
+B, to detect and remove computer viruses.
+
+00:09:59.604 --> 00:10:03.895
+C to monitor and control incoming
+and outgoing network traffic.
+
+00:10:04.104 --> 00:10:07.314
+D to store backup copies
+of important data.
+
+00:10:07.765 --> 00:10:10.795
+Understand the question
+before moving to explanation.
+
+00:10:12.150 --> 00:10:13.710
+This one is straightforward.
+
+00:10:14.100 --> 00:10:16.650
+The question asks for
+the primary function.
+
+00:10:17.040 --> 00:10:20.430
+A firewall doesn't increase
+speed, so A is wrong.
+
+00:10:20.790 --> 00:10:25.290
+Detecting viruses is the job of
+antivirus software, so B is wrong.
+
+00:10:25.650 --> 00:10:29.070
+Storing backups is for backup
+systems, so D is wrong.
+
+00:10:29.665 --> 00:10:31.165
+A firewall's main job.
+
+00:10:31.255 --> 00:10:35.785
+Its whole purpose in life is to be
+a barrier that monitors and controls
+
+00:10:35.785 --> 00:10:38.575
+network traffic based on security rules.
+
+00:10:39.055 --> 00:10:41.545
+Correct answer C. Thank you.
+
+00:10:41.665 --> 00:10:42.850
+See you in the next lecture.

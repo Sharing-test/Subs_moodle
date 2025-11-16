@@ -1,0 +1,660 @@
+WEBVTT
+
+00:00:00.170 --> 00:00:04.070
+Welcome my friend to today's
+lecture on computer hardware.
+
+00:00:04.610 --> 00:00:07.220
+This concept looks scary, don't worry.
+
+00:00:07.400 --> 00:00:09.415
+We brought snacks and metaphors.
+
+00:00:10.580 --> 00:00:11.959
+Concept explanation.
+
+00:00:12.530 --> 00:00:14.900
+So what is this hardware
+business all about?
+
+00:00:15.290 --> 00:00:20.150
+Simply put, computer hardware
+refers to all the physical, tangible
+
+00:00:20.150 --> 00:00:22.130
+components of a computer system.
+
+00:00:22.700 --> 00:00:26.900
+These are the parts you can see,
+touch, and probably shouldn't drop.
+
+00:00:27.439 --> 00:00:31.755
+It includes every single electronic
+and mechanical part that makes
+
+00:00:31.915 --> 00:00:36.170
+a computer come to life from the
+powerful central processing unit.
+
+00:00:36.275 --> 00:00:40.655
+Or CPU all the way to your
+humble keyboard and mouse.
+
+00:00:41.074 --> 00:00:45.335
+You see, without this hardware,
+all the fancy software in the world
+
+00:00:45.425 --> 00:00:50.165
+would have nothing to run on, and a
+computer system simply wouldn't exist.
+
+00:00:50.795 --> 00:00:53.075
+Let's look at the key
+players in this team.
+
+00:00:53.435 --> 00:00:58.265
+First is the central processing unit,
+often called the brain of the computer.
+
+00:00:58.715 --> 00:01:01.715
+This little genius performs
+most of the processing.
+
+00:01:02.165 --> 00:01:03.845
+Then we have memory.
+
+00:01:04.065 --> 00:01:08.595
+Ram Random access memory, which
+is like the computer's temporary
+
+00:01:08.595 --> 00:01:11.085
+scratch pad for data and programs.
+
+00:01:11.085 --> 00:01:13.035
+The CPU is currently juggling.
+
+00:01:13.455 --> 00:01:17.865
+It's volatile, meaning poof,
+the data is gone when the power
+
+00:01:17.865 --> 00:01:20.205
+is off for keeping things safe.
+
+00:01:20.265 --> 00:01:23.475
+We have storage devices
+like a hard disk drive.
+
+00:01:23.720 --> 00:01:26.030
+HDD or a solid state drive.
+
+00:01:26.450 --> 00:01:30.140
+This is the permanent home for
+your operating system software
+
+00:01:30.260 --> 00:01:32.240
+and all those precious files.
+
+00:01:32.690 --> 00:01:35.870
+Data stays here even
+when the computer is off.
+
+00:01:36.350 --> 00:01:41.480
+The motherboard is the main circuit board,
+the master connector that allows all
+
+00:01:41.480 --> 00:01:43.640
+these other parts to talk to each other.
+
+00:01:44.090 --> 00:01:46.580
+Think of it as the central nervous system.
+
+00:01:47.005 --> 00:01:52.554
+We also have input devices which you use
+to feed data into the computer, like a
+
+00:01:52.554 --> 00:01:55.705
+keyboard, mouse, scanner, or microphone.
+
+00:01:56.155 --> 00:02:00.685
+And to get information back out,
+we use output devices like a
+
+00:02:00.685 --> 00:02:03.054
+monitor, printer or speakers.
+
+00:02:03.495 --> 00:02:07.545
+The graphics processing Unit is
+a specialized circuit designed to
+
+00:02:07.545 --> 00:02:09.975
+rapidly handle images for your screen.
+
+00:02:10.334 --> 00:02:15.795
+Finally, the power supply Unit PSU is
+the component that takes power from
+
+00:02:15.795 --> 00:02:20.834
+the wall and converts it into the right
+voltage for all the other parts to use.
+
+00:02:20.910 --> 00:02:22.260
+Real world relevance.
+
+00:02:22.650 --> 00:02:26.280
+Now you might ask, sir, why
+do I need to know this ra?
+
+00:02:26.280 --> 00:02:27.510
+It's very useful.
+
+00:02:27.960 --> 00:02:31.530
+Understanding computer hardware
+helps professionals troubleshoot
+
+00:02:31.530 --> 00:02:35.460
+basic system issues and use
+banking software more efficiently.
+
+00:02:35.670 --> 00:02:40.830
+Ensuring smooth daily operations for
+troubleshooting, you can identify and
+
+00:02:40.830 --> 00:02:42.750
+resolve hardware problems quickly.
+
+00:02:43.100 --> 00:02:46.940
+For performance, you can optimize
+your system for better productivity.
+
+00:02:47.269 --> 00:02:52.100
+For decision making, you can make smart
+choices when buying or upgrading systems.
+
+00:02:52.429 --> 00:02:56.059
+And for data management, you
+can handle customer data and
+
+00:02:56.059 --> 00:02:57.769
+transactions more effectively.
+
+00:02:58.655 --> 00:03:02.855
+Breakdown of question types based
+on what you'll see in your exam.
+
+00:03:03.035 --> 00:03:05.945
+Questions on this topic
+fall into a few categories.
+
+00:03:06.365 --> 00:03:10.805
+About 40% of questions are all
+about identification of components
+
+00:03:11.105 --> 00:03:14.375
+asking you to name apart from
+its description or picture.
+
+00:03:14.855 --> 00:03:18.845
+Around 30% are on functionality
+and purpose testing.
+
+00:03:18.875 --> 00:03:21.380
+If you know what a specific
+component actually does.
+
+00:03:22.140 --> 00:03:27.599
+Another 15% will be on examples of devices
+where you'll have to classify something
+
+00:03:27.599 --> 00:03:30.329
+as an input output or storage device.
+
+00:03:30.749 --> 00:03:36.029
+Roughly 10% will cover memory and
+storage concepts like the types of memory
+
+00:03:36.149 --> 00:03:40.439
+storage units from bits to terabytes
+and the differences between them.
+
+00:03:40.799 --> 00:03:45.480
+The final 5% is on interconnection
+and ports dealing with how things
+
+00:03:45.480 --> 00:03:48.420
+connect, like via USB or HDMI.
+
+00:03:49.234 --> 00:03:52.234
+Formulas and tricks for computer hardware.
+
+00:03:52.295 --> 00:03:54.364
+Forget about mathematical formulas.
+
+00:03:54.695 --> 00:03:58.984
+Instead, focus on these clever
+memory tricks and key facts to
+
+00:03:58.984 --> 00:04:00.994
+distinguish input versus output.
+
+00:04:01.174 --> 00:04:05.945
+Just think in for data bowing into
+the computer, like from a keyboard
+
+00:04:05.945 --> 00:04:11.314
+or mouse and out for data coming
+out like on a monitor or printer.
+
+00:04:11.705 --> 00:04:14.075
+For volatile versus non-volatile memory.
+
+00:04:14.255 --> 00:04:20.255
+Remember this little rhyme ram is random
+and remembers data randomly, meaning
+
+00:04:20.315 --> 00:04:23.165
+only when power is on, so it's volatile.
+
+00:04:23.465 --> 00:04:27.755
+But RO is read only memory and
+maintains data even with no
+
+00:04:27.755 --> 00:04:29.945
+power, so it's non-volatile.
+
+00:04:30.305 --> 00:04:33.935
+And here's the storage hierarchy
+from fastest to slowest.
+
+00:04:34.295 --> 00:04:40.085
+It starts with CPU registers,
+then cash, Ram, S-S-D-H-D.
+
+00:04:40.350 --> 00:04:41.340
+Optical drives.
+
+00:04:41.400 --> 00:04:43.200
+And finally, magnetic tape.
+
+00:04:43.710 --> 00:04:46.560
+And please, please
+remember your memory units.
+
+00:04:46.830 --> 00:04:50.790
+One nibble is four bits,
+one byte is eight bits.
+
+00:04:51.060 --> 00:04:52.620
+Then we climb the ladder.
+
+00:04:53.010 --> 00:05:00.360
+One kilobyte or KB is 1 0 2 4 bytes,
+one megabyte or MB is 1 0 2 4K.
+
+00:05:00.900 --> 00:05:08.580
+One gigabyte or GB is 1 0 2 4 MB
+and one terabyte or TB is 1 0 2 4
+
+00:05:08.580 --> 00:05:10.860
+gb and it keeps going up from there.
+
+00:05:12.605 --> 00:05:13.925
+Methods of solving.
+
+00:05:14.435 --> 00:05:17.255
+When you face a question,
+use these methods.
+
+00:05:17.525 --> 00:05:21.245
+First is direct recall for
+identifying a component.
+
+00:05:21.395 --> 00:05:23.435
+You just pull the answer from your brain.
+
+00:05:23.855 --> 00:05:26.195
+Next is function-based classification.
+
+00:05:26.495 --> 00:05:30.905
+If asked to categorize a device,
+just think, does it put information
+
+00:05:30.905 --> 00:05:35.315
+in, get information out, or
+store it for multiple choice?
+
+00:05:35.375 --> 00:05:36.635
+Use elimination.
+
+00:05:36.935 --> 00:05:40.805
+If you're not sure, get rid of the
+answers that are definitely wrong.
+
+00:05:41.200 --> 00:05:45.760
+With contextual understanding, you can
+figure out port questions by thinking
+
+00:05:45.820 --> 00:05:48.340
+about what devices usually plug in there.
+
+00:05:48.820 --> 00:05:53.620
+And for comparison questions like
+RAM versus Rom use comparison and
+
+00:05:53.620 --> 00:05:58.180
+contrast by looking at their key
+features like speed and volatility.
+
+00:05:59.540 --> 00:06:03.440
+Shortcuts and smart techniques
+want some smart techniques.
+
+00:06:03.650 --> 00:06:05.300
+Use acronym expansion.
+
+00:06:05.630 --> 00:06:10.820
+Knowing CPU RAM or SSD in full
+form often reveals their function.
+
+00:06:11.210 --> 00:06:12.860
+Use visual association.
+
+00:06:13.160 --> 00:06:15.770
+Try to picture the parts inside
+a computer to help you remember.
+
+00:06:17.210 --> 00:06:18.440
+Look for keywords.
+
+00:06:18.770 --> 00:06:21.650
+Temporary storage almost always means ram.
+
+00:06:21.980 --> 00:06:27.050
+Brain of the computer is your CPU, and
+try to trace the process flow of data
+
+00:06:27.050 --> 00:06:32.810
+mentally from input to CPU for processing,
+to memory, for temporary holding, to
+
+00:06:32.810 --> 00:06:38.330
+storage for saving, and finally to output
+common mistakes and misconceptions.
+
+00:06:38.720 --> 00:06:39.320
+All right.
+
+00:06:39.530 --> 00:06:41.480
+Let's talk about the common traps.
+
+00:06:41.690 --> 00:06:44.900
+A big one is confusing RAM and storage.
+
+00:06:45.260 --> 00:06:48.650
+Many people think RAM is
+where files are saved forever.
+
+00:06:48.950 --> 00:06:51.650
+No, RAM is a temporary workspace.
+
+00:06:51.860 --> 00:06:55.340
+Your HDD or SSD is for permanent storage.
+
+00:06:55.755 --> 00:06:58.395
+Then there's the input
+versus output mix up.
+
+00:06:58.695 --> 00:07:03.885
+For example, not realizing a touch screen
+is both an input and an output device.
+
+00:07:04.335 --> 00:07:08.745
+Another one is thinking the CPU versus
+the computer are the same thing.
+
+00:07:09.135 --> 00:07:12.675
+The CPU is just one vital
+part inside the computer.
+
+00:07:13.155 --> 00:07:15.825
+Also, be careful with units of memory.
+
+00:07:16.125 --> 00:07:17.895
+Don't mix bits and bites.
+
+00:07:18.210 --> 00:07:23.370
+Remember, one byte equals eight bits,
+and the biggest misconception that
+
+00:07:23.370 --> 00:07:28.380
+software is hardware, software is
+just a set of intangible instructions.
+
+00:07:28.470 --> 00:07:33.030
+Hardware is the physical machine
+itself, WH framework summary.
+
+00:07:33.390 --> 00:07:36.630
+So to summarize it all
+quickly, what is it?
+
+00:07:36.960 --> 00:07:39.210
+The physical, tangible
+parts of a computer.
+
+00:07:39.475 --> 00:07:40.585
+Why is it needed?
+
+00:07:40.825 --> 00:07:43.975
+It provides the physical
+foundation for software to run.
+
+00:07:44.335 --> 00:07:45.385
+When is it used?
+
+00:07:45.535 --> 00:07:49.795
+Well, whenever a computer is
+used, built or fixed, where is it
+
+00:07:49.795 --> 00:07:53.635
+found In every computing device
+from your PC to your phone.
+
+00:07:53.845 --> 00:07:54.805
+Who uses it?
+
+00:07:55.165 --> 00:07:59.335
+Everyone who interacts with the
+digital device And how does it work?
+
+00:07:59.605 --> 00:08:03.355
+The components interact via
+electrical signals to process,
+
+00:08:03.385 --> 00:08:05.365
+store, and transmit information.
+
+00:08:05.430 --> 00:08:07.320
+Fully worked out examples.
+
+00:08:07.680 --> 00:08:08.910
+Let's try a question.
+
+00:08:09.240 --> 00:08:11.130
+Example, one question.
+
+00:08:11.430 --> 00:08:15.600
+Which of the following is a volatile
+memory that temporarily stores data
+
+00:08:15.660 --> 00:08:21.240
+and programs currently being used
+by the CPUA hard disk drive edge dd.
+
+00:08:21.520 --> 00:08:27.910
+B, read only memory rom C, random
+access memory, Ram D. Solid state drive.
+
+00:08:28.270 --> 00:08:31.120
+Understand the question
+before moving to explanation.
+
+00:08:31.480 --> 00:08:33.099
+Okay, let's solve this.
+
+00:08:33.280 --> 00:08:37.209
+The keywords are volatile memory
+and temporarily stores data.
+
+00:08:37.569 --> 00:08:40.780
+Volatile means the data
+disappears when the power is off.
+
+00:08:41.149 --> 00:08:42.409
+Let's check the options.
+
+00:08:42.739 --> 00:08:45.170
+And HDD is non-volatile storage.
+
+00:08:45.349 --> 00:08:48.139
+Incorrect ROM is also non-volatile.
+
+00:08:48.319 --> 00:08:53.060
+Incorrect ram is indeed volatile
+memory used as the computer's
+
+00:08:53.060 --> 00:08:54.949
+short-term workspace, correct.
+
+00:08:55.249 --> 00:08:58.699
+And SSD is also non-volatile
+storage incorrect.
+
+00:08:58.909 --> 00:09:03.649
+So the answer is clearly C,
+answer C, random access memory.
+
+00:09:03.829 --> 00:09:04.849
+Example two.
+
+00:09:05.420 --> 00:09:10.760
+Question, which of the following is
+primarily considered an output device?
+
+00:09:11.300 --> 00:09:12.589
+A keyboard.
+
+00:09:13.040 --> 00:09:18.290
+B Mouse, C Microphone, D monitor.
+
+00:09:18.860 --> 00:09:21.800
+Understand the question
+before moving to explanation.
+
+00:09:23.060 --> 00:09:23.719
+All right.
+
+00:09:23.959 --> 00:09:26.930
+This one is about input versus output.
+
+00:09:27.439 --> 00:09:30.530
+Input devices send data to the computer.
+
+00:09:30.949 --> 00:09:34.130
+Output devices receive
+data from the computer.
+
+00:09:34.670 --> 00:09:37.819
+A keyboard sends text commands in input.
+
+00:09:38.300 --> 00:09:40.459
+A mouse sends cursor commands in.
+
+00:09:40.730 --> 00:09:41.300
+Input.
+
+00:09:41.750 --> 00:09:44.630
+A microphone sends sound in input.
+
+00:09:45.170 --> 00:09:48.740
+A monitor displays visual
+information out output.
+
+00:09:49.069 --> 00:09:53.540
+So the only one that is primarily
+an output device here is the
+
+00:09:53.540 --> 00:09:56.900
+monitor Answer D Monitor.
+
+00:09:57.470 --> 00:09:59.689
+Example three question.
+
+00:09:59.930 --> 00:10:04.640
+What is the main function of the central
+processing unit in a computer system?
+
+00:10:05.210 --> 00:10:08.150
+A to store large amounts
+of data permanently.
+
+00:10:09.000 --> 00:10:12.060
+B to display visual output to the user.
+
+00:10:12.449 --> 00:10:16.380
+C to execute instructions
+and perform calculations.
+
+00:10:16.740 --> 00:10:20.910
+D, to provide temporary storage
+for active programs and data.
+
+00:10:21.420 --> 00:10:24.270
+Understand the question
+before moving to explanation.
+
+00:10:25.400 --> 00:10:27.110
+Let's crack this final one.
+
+00:10:27.470 --> 00:10:30.830
+We need the main function
+of the CPU, the brain.
+
+00:10:31.190 --> 00:10:32.930
+Let's evaluate our choices.
+
+00:10:33.350 --> 00:10:35.000
+Storing data permanently.
+
+00:10:35.240 --> 00:10:39.590
+That's the job of an HDD
+or SSD displaying output.
+
+00:10:39.830 --> 00:10:41.060
+That's the monitor's job.
+
+00:10:41.624 --> 00:10:43.274
+Providing temporary storage.
+
+00:10:43.394 --> 00:10:44.864
+That's what RAM does.
+
+00:10:45.254 --> 00:10:48.194
+Executing instructions and
+performing calculations.
+
+00:10:48.374 --> 00:10:51.734
+Yes, that is the
+fundamental role of the CPU.
+
+00:10:52.004 --> 00:10:57.254
+It's the engine that runs the
+whole show answer, see to execute
+
+00:10:57.254 --> 00:10:59.594
+instructions and perform calculations.
+
+00:10:59.984 --> 00:11:00.644
+Thank you.
+
+00:11:00.764 --> 00:11:01.920
+See you in the next lecture.
